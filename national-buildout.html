@@ -1,0 +1,209 @@
+<title>Alpha Hour — National Build-Out & Market</title>
+<style>
+  :root {
+    --ground: #F6F7F9;
+    --panel: #FFFFFF;
+    --ink: #152036;
+    --muted: #5B6577;
+    --faint: #8A93A3;
+    --line: #E1E4EA;
+    --accent: #9A6A22;
+    --accent-bright: #B98322;
+    --track: #E7E9EE;
+    --flagship-bg: #FBF6EC;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --ground: #0D1524; --panel: #131E33; --ink: #E9ECF3; --muted: #9DA7BA;
+      --faint: #6E7A90; --line: #23314C; --accent: #E0A94E; --accent-bright: #E9B968;
+      --track: #1C2A44; --flagship-bg: #1A2438;
+    }
+  }
+  :root[data-theme="light"] {
+    --ground: #F6F7F9; --panel: #FFFFFF; --ink: #152036; --muted: #5B6577;
+    --faint: #8A93A3; --line: #E1E4EA; --accent: #9A6A22; --accent-bright: #B98322;
+    --track: #E7E9EE; --flagship-bg: #FBF6EC;
+  }
+  :root[data-theme="dark"] {
+    --ground: #0D1524; --panel: #131E33; --ink: #E9ECF3; --muted: #9DA7BA;
+    --faint: #6E7A90; --line: #23314C; --accent: #E0A94E; --accent-bright: #E9B968;
+    --track: #1C2A44; --flagship-bg: #1A2438;
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--ground); color: var(--ink);
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    line-height: 1.55; -webkit-font-smoothing: antialiased;
+  }
+  .wrap { max-width: 960px; margin: 0 auto; padding: clamp(28px,5vw,56px) clamp(20px,5vw,44px) 56px; }
+  .serif { font-family: Georgia, "Iowan Old Style", "Times New Roman", serif; }
+  .num { font-variant-numeric: tabular-nums; }
+
+  .eyebrow { font-size: 12px; letter-spacing: 0.18em; text-transform: uppercase; color: var(--accent); font-weight: 600; margin: 0 0 12px; }
+  h1 {
+    font-family: Georgia, serif; font-weight: 600; font-size: clamp(34px,6vw,54px);
+    line-height: 1.02; letter-spacing: -0.015em; margin: 0 0 12px; text-wrap: balance;
+  }
+  .sub { font-family: Georgia, serif; font-size: clamp(17px,2.3vw,21px); color: var(--muted); margin: 0 0 6px; max-width: 46ch; text-wrap: balance; }
+
+  section { margin-top: clamp(36px,5vw,52px); }
+  .kicker {
+    font-size: 12px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--faint);
+    font-weight: 600; margin: 0 0 20px; display: flex; align-items: center; gap: 14px;
+  }
+  .kicker::after { content: ""; flex: 1; height: 1px; background: var(--line); }
+
+  /* market funnel */
+  .funnel { display: flex; flex-direction: column; gap: 20px; }
+  .band { display: grid; grid-template-columns: 96px 1fr auto; gap: 16px; align-items: center; }
+  .band .tag { font-size: 12px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+  .band .tag small { display: block; font-weight: 400; letter-spacing: 0; text-transform: none; color: var(--faint); font-size: 11px; margin-top: 2px; }
+  .track { background: var(--track); border-radius: 4px; height: 42px; position: relative; overflow: hidden; }
+  .fill { height: 100%; border-radius: 4px; display: flex; align-items: center; padding-left: 14px; }
+  .fill.tam { width: 100%; background: linear-gradient(90deg, var(--accent) 0%, var(--accent-bright) 100%); opacity: 0.28; }
+  .fill.sam { width: 40%; background: linear-gradient(90deg, var(--accent) 0%, var(--accent-bright) 100%); opacity: 0.55; }
+  .fill.som { width: 2.4%; min-width: 8px; background: var(--accent-bright); }
+  .band .val { font-family: Georgia, serif; font-size: clamp(20px,2.6vw,26px); font-weight: 600; letter-spacing: -0.01em; white-space: nowrap; }
+  .band .val small { font-weight: 400; color: var(--faint); font-size: 12px; font-family: system-ui, sans-serif; }
+  .som-note { font-size: 12.5px; color: var(--muted); margin: 14px 0 0; }
+  .som-note strong { color: var(--accent); }
+
+  /* roster */
+  .roster { display: grid; grid-template-columns: 1fr 1fr; gap: 4px 40px; }
+  table { border-collapse: collapse; width: 100%; font-size: 13px; }
+  th, td { text-align: left; padding: 7px 8px; border-bottom: 1px solid var(--line); }
+  thead th { font-size: 10.5px; letter-spacing: 0.06em; text-transform: uppercase; color: var(--faint); font-weight: 600; }
+  td.r, th.r { text-align: right; font-variant-numeric: tabular-nums; }
+  tbody tr td:first-child { font-weight: 500; }
+  .flag td { background: var(--flagship-bg); }
+  .flag td:first-child { font-weight: 700; }
+  .flag td.r { color: var(--accent); font-weight: 600; }
+  .state { color: var(--faint); font-weight: 400; font-size: 11.5px; }
+
+  .total {
+    margin-top: 22px; display: flex; flex-wrap: wrap; gap: 16px 40px; align-items: baseline;
+    padding: 20px 22px; background: var(--panel); border: 1px solid var(--line);
+    border-left: 3px solid var(--accent); border-radius: 4px;
+  }
+  .total .item .v { font-family: Georgia, serif; font-size: clamp(22px,3vw,30px); font-weight: 600; letter-spacing: -0.01em; }
+  .total .item .l { font-size: 12px; color: var(--muted); margin-top: 2px; }
+
+  .close { margin-top: 40px; font-family: Georgia, serif; font-size: clamp(18px,2.4vw,23px); line-height: 1.4; text-wrap: balance; max-width: 52ch; }
+  .close strong { color: var(--accent); }
+
+  .foot { margin-top: 36px; padding-top: 16px; border-top: 1px solid var(--line); font-size: 11.5px; color: var(--faint); line-height: 1.5; }
+
+  @media (max-width: 720px) {
+    .roster { grid-template-columns: 1fr; }
+    .band { grid-template-columns: 76px 1fr; }
+    .band .val { grid-column: 2; text-align: right; }
+  }
+</style>
+
+<div class="wrap">
+
+  <header>
+    <p class="eyebrow">Alpha Hour &nbsp;&#183;&nbsp; National Build-Out &amp; Market</p>
+    <h1>There is no ceiling</h1>
+    <p class="sub">Alpha Hour scales with every campus Alpha opens, toward a market measured in tens of billions.</p>
+  </header>
+
+  <section>
+    <p class="kicker">The market &nbsp;&#183;&nbsp; TAM, SAM, and where we sit today</p>
+    <div class="funnel">
+      <div class="band">
+        <div class="tag">TAM<small>US premium K-8</small></div>
+        <div class="track"><div class="fill tam"></div></div>
+        <div class="val num">~$70B<small> / yr</small></div>
+      </div>
+      <div class="band">
+        <div class="tag">SAM<small>Alpha's metros</small></div>
+        <div class="track"><div class="fill sam"></div></div>
+        <div class="val num">~$28B<small> / yr</small></div>
+      </div>
+      <div class="band">
+        <div class="tag">Today<small>40 campuses</small></div>
+        <div class="track"><div class="fill som"></div></div>
+        <div class="val num">~$87M<small> / yr</small></div>
+      </div>
+    </div>
+    <p class="som-note">TAM: about 4.4M US K-8 students in households that can afford premium academics (roughly the top 12% by income), at $16,000 a year. SAM: the ~1.75M of those in the metros where Alpha operates. Today's entire network at full capacity is <strong>about 0.3% of the serviceable market.</strong> The bars are not to scale; if they were, today's slice would be a hairline. Alpha adds roughly 20 campuses a year, so the number climbs toward the market, not toward a cap.</p>
+  </section>
+
+  <section>
+    <p class="kicker">The 40-campus build-out at full capacity</p>
+    <div class="roster">
+      <div>
+        <table>
+          <thead>
+            <tr><th>Campus</th><th class="r">Enrolled</th><th class="r">Revenue</th></tr>
+          </thead>
+          <tbody>
+            <tr class="flag"><td>Austin <span class="state">TX</span></td><td class="r">600</td><td class="r">$9.60M</td></tr>
+            <tr class="flag"><td>Chicago <span class="state">IL</span></td><td class="r">600</td><td class="r">$9.60M</td></tr>
+            <tr class="flag"><td>Miami <span class="state">FL</span></td><td class="r">300</td><td class="r">$4.80M</td></tr>
+            <tr class="flag"><td>New York <span class="state">NY</span></td><td class="r">200</td><td class="r">$3.20M</td></tr>
+            <tr class="flag"><td>Boston <span class="state">MA</span></td><td class="r">200</td><td class="r">$3.20M</td></tr>
+            <tr class="flag"><td>Greenwich <span class="state">CT</span></td><td class="r">160</td><td class="r">$2.56M</td></tr>
+            <tr class="flag"><td>Palm Beach <span class="state">FL</span></td><td class="r">120</td><td class="r">$1.92M</td></tr>
+            <tr class="flag"><td>Miami Beach <span class="state">FL</span></td><td class="r">100</td><td class="r">$1.60M</td></tr>
+            <tr class="flag"><td>Boston Suburbs <span class="state">MA</span></td><td class="r">80</td><td class="r">$1.28M</td></tr>
+            <tr><td>Atlanta <span class="state">GA</span></td><td class="r">100</td><td class="r">$1.60M</td></tr>
+            <tr><td>Boca Raton <span class="state">FL</span></td><td class="r">100</td><td class="r">$1.60M</td></tr>
+            <tr><td>Brownsville <span class="state">TX</span></td><td class="r">100</td><td class="r">$1.60M</td></tr>
+            <tr><td>Carrollton <span class="state">TX</span></td><td class="r">100</td><td class="r">$1.60M</td></tr>
+            <tr><td>Chantilly <span class="state">VA</span></td><td class="r">100</td><td class="r">$1.60M</td></tr>
+            <tr><td>Charlotte <span class="state">NC</span></td><td class="r">100</td><td class="r">$1.60M</td></tr>
+            <tr><td>Denver <span class="state">CO</span></td><td class="r">100</td><td class="r">$1.60M</td></tr>
+            <tr><td>Dorado <span class="state">PR</span></td><td class="r">100</td><td class="r">$1.60M</td></tr>
+            <tr><td>East Bay <span class="state">CA</span></td><td class="r">100</td><td class="r">$1.60M</td></tr>
+            <tr><td>Fort Worth <span class="state">TX</span></td><td class="r">100</td><td class="r">$1.60M</td></tr>
+            <tr><td>Highland Park <span class="state">TX</span></td><td class="r">100</td><td class="r">$1.60M</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div>
+        <table>
+          <thead>
+            <tr><th>Campus</th><th class="r">Enrolled</th><th class="r">Revenue</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Jamaica Plain <span class="state">MA</span></td><td class="r">100</td><td class="r">$1.60M</td></tr>
+            <tr><td>Kirkland <span class="state">WA</span></td><td class="r">100</td><td class="r">$1.60M</td></tr>
+            <tr><td>La Jolla <span class="state">CA</span></td><td class="r">100</td><td class="r">$1.60M</td></tr>
+            <tr><td>Lake Travis <span class="state">TX</span></td><td class="r">100</td><td class="r">$1.60M</td></tr>
+            <tr><td>Malibu <span class="state">CA</span></td><td class="r">100</td><td class="r">$1.60M</td></tr>
+            <tr><td>Nashville <span class="state">TN</span></td><td class="r">100</td><td class="r">$1.60M</td></tr>
+            <tr><td>Oklahoma City <span class="state">OK</span></td><td class="r">100</td><td class="r">$1.60M</td></tr>
+            <tr><td>Orange County <span class="state">CA</span></td><td class="r">100</td><td class="r">$1.60M</td></tr>
+            <tr><td>Palo Alto <span class="state">CA</span></td><td class="r">100</td><td class="r">$1.60M</td></tr>
+            <tr><td>Park City <span class="state">UT</span></td><td class="r">100</td><td class="r">$1.60M</td></tr>
+            <tr><td>Plano <span class="state">TX</span></td><td class="r">100</td><td class="r">$1.60M</td></tr>
+            <tr><td>Raleigh <span class="state">NC</span></td><td class="r">100</td><td class="r">$1.60M</td></tr>
+            <tr><td>San Francisco <span class="state">CA</span></td><td class="r">100</td><td class="r">$1.60M</td></tr>
+            <tr><td>Santa Barbara <span class="state">CA</span></td><td class="r">100</td><td class="r">$1.60M</td></tr>
+            <tr><td>Santa Monica <span class="state">CA</span></td><td class="r">100</td><td class="r">$1.60M</td></tr>
+            <tr><td>Scottsdale <span class="state">AZ</span></td><td class="r">100</td><td class="r">$1.60M</td></tr>
+            <tr><td>South Bay LA <span class="state">CA</span></td><td class="r">100</td><td class="r">$1.60M</td></tr>
+            <tr><td>Southlake <span class="state">TX</span></td><td class="r">100</td><td class="r">$1.60M</td></tr>
+            <tr><td>The Woodlands <span class="state">TX</span></td><td class="r">100</td><td class="r">$1.60M</td></tr>
+            <tr><td>Tulsa <span class="state">OK</span></td><td class="r">100</td><td class="r">$1.60M</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+    <div class="total">
+      <div class="item"><div class="v num">40</div><div class="l">campuses</div></div>
+      <div class="item"><div class="v num">5,460</div><div class="l">students enrolled</div></div>
+      <div class="item"><div class="v num">$87.4M</div><div class="l">revenue</div></div>
+      <div class="item"><div class="v num">~$68M</div><div class="l">net operating profit</div></div>
+      <div class="item"><div class="v num">$115&#8211;170M</div><div class="l">feeder pipeline created</div></div>
+    </div>
+  </section>
+
+  <p class="close">Today's network at full capacity is a rounding error against the market. <strong>The constraint is buildings, not demand,</strong> and Alpha is opening them across the country. Alpha Hour grows with every one.</p>
+
+  <p class="foot">Capacities per block (enrolled is two blocks): Austin 300, Chicago 300, Miami 150, East Coast pilot campuses as set, all others a conservative 50. Premium pricing of $3,200 per session ($16,000 per year) at every campus. Roster is Alpha's 41 current campuses from alpha.school, less Alpha High Austin (grades 9-12). Market sizing is an estimate at stated income assumptions; a stricter filter still leaves a TAM in the tens of billions. Feeder pipeline is future Alpha tuition created, not booked revenue.</p>
+
+</div>

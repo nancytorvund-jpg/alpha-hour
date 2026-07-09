@@ -1,0 +1,593 @@
+<title>Alpha Hour — Executive One-Pager</title>
+<style>
+  :root {
+    --ground: #F6F7F9;
+    --panel: #FFFFFF;
+    --ink: #152036;
+    --muted: #5B6577;
+    --faint: #8A93A3;
+    --line: #E1E4EA;
+    --accent: #9A6A22;
+    --accent-soft: #F0E4CE;
+    /* constant dark spotlight, same in both themes */
+    --spot-bg: #111B2E;
+    --spot-panel: #182742;
+    --spot-ink: #EEF1F6;
+    --spot-muted: #9BA7BD;
+    --spot-accent: #E0A94E;
+    --spot-line: #2A3A57;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --ground: #0D1524;
+      --panel: #131E33;
+      --ink: #E9ECF3;
+      --muted: #9DA7BA;
+      --faint: #6E7A90;
+      --line: #23314C;
+      --accent: #E0A94E;
+      --accent-soft: #2A2213;
+    }
+  }
+  :root[data-theme="light"] {
+    --ground: #F6F7F9;
+    --panel: #FFFFFF;
+    --ink: #152036;
+    --muted: #5B6577;
+    --faint: #8A93A3;
+    --line: #E1E4EA;
+    --accent: #9A6A22;
+    --accent-soft: #F0E4CE;
+  }
+  :root[data-theme="dark"] {
+    --ground: #0D1524;
+    --panel: #131E33;
+    --ink: #E9ECF3;
+    --muted: #9DA7BA;
+    --faint: #6E7A90;
+    --line: #23314C;
+    --accent: #E0A94E;
+    --accent-soft: #2A2213;
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--ground);
+    color: var(--ink);
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+  .wrap {
+    max-width: 880px;
+    margin: 0 auto;
+    padding: clamp(28px, 5vw, 72px) clamp(20px, 5vw, 48px) 64px;
+  }
+
+  .serif { font-family: Georgia, "Iowan Old Style", "Times New Roman", serif; }
+  .num { font-variant-numeric: tabular-nums; }
+
+  .eyebrow {
+    font-size: 12px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--accent);
+    font-weight: 600;
+    margin: 0 0 14px;
+  }
+  h1 {
+    font-family: Georgia, "Iowan Old Style", serif;
+    font-weight: 600;
+    font-size: clamp(38px, 7vw, 62px);
+    line-height: 1.02;
+    letter-spacing: -0.015em;
+    margin: 0 0 18px;
+    text-wrap: balance;
+  }
+  .thesis {
+    font-family: Georgia, "Iowan Old Style", serif;
+    font-size: clamp(19px, 2.6vw, 24px);
+    line-height: 1.4;
+    color: var(--ink);
+    max-width: 40ch;
+    margin: 0 0 20px;
+    text-wrap: balance;
+  }
+  .byline {
+    font-size: 14px;
+    color: var(--muted);
+    padding-top: 18px;
+    border-top: 1px solid var(--line);
+  }
+  .byline strong { color: var(--ink); font-weight: 600; }
+
+  section { margin-top: clamp(40px, 6vw, 64px); }
+  .kicker {
+    font-size: 12px;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--faint);
+    font-weight: 600;
+    margin: 0 0 20px;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+  }
+  .kicker::after {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: var(--line);
+  }
+  h2 {
+    font-family: Georgia, "Iowan Old Style", serif;
+    font-weight: 600;
+    font-size: clamp(24px, 3.4vw, 32px);
+    line-height: 1.15;
+    letter-spacing: -0.01em;
+    margin: 0 0 8px;
+  }
+  p { margin: 0 0 14px; }
+  .lead { color: var(--muted); max-width: 62ch; }
+
+  /* three jobs triad */
+  .triad {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+  }
+  .job {
+    background: var(--panel);
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    padding: 22px 20px;
+  }
+  .job .n {
+    font-family: Georgia, serif;
+    font-size: 15px;
+    color: var(--accent);
+    font-weight: 600;
+  }
+  .job h3 {
+    font-size: 17px;
+    margin: 10px 0 8px;
+    letter-spacing: -0.01em;
+  }
+  .job p { font-size: 14px; color: var(--muted); margin: 0; }
+
+  /* generic two-col reason grid */
+  .reasons {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 24px 40px;
+  }
+  .reason h3 {
+    font-size: 16px;
+    margin: 0 0 6px;
+    letter-spacing: -0.01em;
+  }
+  .reason h3 span { color: var(--accent); font-family: Georgia, serif; margin-right: 8px; }
+  .reason p { font-size: 14px; color: var(--muted); margin: 0; }
+
+  /* market stat row */
+  .stats {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 14px;
+  }
+  .stat {
+    border-top: 2px solid var(--accent);
+    padding-top: 12px;
+  }
+  .stat .v {
+    font-family: Georgia, serif;
+    font-size: clamp(22px, 3.2vw, 30px);
+    font-weight: 600;
+    letter-spacing: -0.01em;
+    line-height: 1.05;
+  }
+  .stat .l { font-size: 12.5px; color: var(--muted); margin-top: 6px; line-height: 1.35; }
+
+  /* tables */
+  .table-scroll { overflow-x: auto; margin: 4px 0 0; }
+  table { border-collapse: collapse; width: 100%; font-size: 14.5px; }
+  th, td { text-align: left; padding: 12px 14px; border-bottom: 1px solid var(--line); }
+  thead th {
+    font-size: 12px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--faint);
+    font-weight: 600;
+  }
+  td.r, th.r { text-align: right; }
+  tbody tr td:first-child { font-weight: 500; }
+  .price { color: var(--accent); font-weight: 600; font-variant-numeric: tabular-nums; }
+
+  /* spotlight financial panel — constant dark in both themes */
+  .spotlight {
+    background: var(--spot-bg);
+    color: var(--spot-ink);
+    border-radius: 6px;
+    padding: clamp(28px, 4vw, 40px);
+    background-image: radial-gradient(120% 90% at 85% 0%, rgba(224,169,78,0.10), transparent 60%);
+  }
+  .spotlight .kicker { color: var(--spot-accent); }
+  .spotlight .kicker::after { background: var(--spot-line); }
+  .spotlight h2 { color: var(--spot-ink); }
+  .spotlight .lead { color: var(--spot-muted); }
+  .tiles {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 14px;
+    margin: 22px 0 28px;
+  }
+  .tile {
+    background: var(--spot-panel);
+    border: 1px solid var(--spot-line);
+    border-radius: 5px;
+    padding: 20px 18px;
+  }
+  .tile .v {
+    font-family: Georgia, serif;
+    font-size: clamp(26px, 4vw, 36px);
+    font-weight: 600;
+    color: var(--spot-accent);
+    letter-spacing: -0.015em;
+    line-height: 1;
+    font-variant-numeric: tabular-nums;
+  }
+  .tile .l { font-size: 13px; color: var(--spot-muted); margin-top: 10px; line-height: 1.4; }
+  .spotlight table th, .spotlight table td { border-bottom-color: var(--spot-line); }
+  .spotlight thead th { color: var(--spot-muted); }
+  .spotlight tbody tr td:first-child { color: var(--spot-ink); }
+  .spotlight td.figure { color: var(--spot-ink); font-variant-numeric: tabular-nums; }
+  .spotlight .hi td { color: var(--spot-accent); font-weight: 600; }
+  .caption { font-size: 12.5px; color: var(--spot-muted); margin: 16px 0 0; }
+
+  /* team list */
+  .team { display: grid; gap: 0; }
+  .member {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 20px;
+    padding: 14px 0;
+    border-bottom: 1px solid var(--line);
+  }
+  .member:first-child { border-top: 1px solid var(--line); }
+  .member .role { font-weight: 600; font-size: 15px; }
+  .member .role small { display: block; font-weight: 400; color: var(--muted); font-size: 13px; margin-top: 2px; }
+  .member .pay { color: var(--accent); font-weight: 600; white-space: nowrap; font-variant-numeric: tabular-nums; font-size: 15px; }
+
+  /* the ask */
+  .ask {
+    background: var(--accent-soft);
+    border: 1px solid var(--line);
+    border-left: 3px solid var(--accent);
+    border-radius: 4px;
+    padding: 24px 26px;
+  }
+  .ask h2 { margin-bottom: 12px; }
+  .ask ol { margin: 0; padding-left: 20px; }
+  .ask li { margin-bottom: 8px; font-size: 15px; }
+  .ask li:last-child { margin-bottom: 0; }
+
+  .foot {
+    margin-top: 48px;
+    padding-top: 18px;
+    border-top: 1px solid var(--line);
+    font-size: 12px;
+    color: var(--faint);
+    line-height: 1.5;
+  }
+
+  @media (max-width: 680px) {
+    .triad, .stats, .tiles, .reasons { grid-template-columns: 1fr; }
+    .stats { grid-template-columns: 1fr 1fr; }
+    .member { flex-direction: column; gap: 4px; }
+  }
+</style>
+
+<div class="wrap">
+
+  <header>
+    <p class="eyebrow">Executive One-Pager</p>
+    <h1>Alpha Hour</h1>
+    <p class="thesis">The Alpha academic day, run after school, in the buildings Alpha already pays for.</p>
+    <p class="byline"><strong>Nancy Wisniewski Torvund</strong>, proposed Head of Alpha Hour &nbsp;·&nbsp; July 9, 2026</p>
+  </header>
+
+  <section>
+    <p class="kicker">The idea</p>
+    <p class="lead">Run the accelerated Alpha experience in one hour, after school, for families who do not attend Alpha. Each family comes two nights a week, Monday/Wednesday or Tuesday/Thursday, starting 5:00 pm, inside Alpha campuses that sit empty after the school day. Each hour the child works both Math and Reading/Writing on Timeback, supported by guides hired and trained just for this program. Families enroll one session at a time. Start with grades K-8 and scale across the network.</p>
+    <div class="triad">
+      <div class="job">
+        <span class="n">One</span>
+        <h3>It makes money</h3>
+        <p>Premium per-session pricing, above every after-school competitor in the market.</p>
+      </div>
+      <div class="job">
+        <span class="n">Two</span>
+        <h3>It uses empty real estate</h3>
+        <p>Daytime tuition already pays for the building, owned or leased, with after-hours access either way. A one-hour evening adds near-zero facility cost.</p>
+      </div>
+      <div class="job">
+        <span class="n">Three</span>
+        <h3>It feeds Alpha</h3>
+        <p>The warmest way for a family to try the model, then enroll full-time at $40k to $75k.</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <p class="kicker">How it runs</p>
+    <div class="reasons">
+      <div class="reason">
+        <h3><span>&#9679;</span>One hour, both subjects, two evenings</h3>
+        <p>The accelerated Alpha experience in a single focused hour, two nights a week. Both subjects always included; no single-subject option.</p>
+      </div>
+      <div class="reason">
+        <h3><span>&#9679;</span>Two-night tracks, four cohorts</h3>
+        <p>Each family picks Monday/Wednesday or Tuesday/Thursday. With two time blocks a night (5:00-6:00, 6:15-7:15), every campus runs four cohorts, all mixed K-8. Enrolled is four times the seat count: a 100-seat room at Alpha NYC fills to 400.</p>
+      </div>
+      <div class="reason">
+        <h3><span>&#9679;</span>Five sessions, sign up one at a time</h3>
+        <p>Each session runs about seven weeks. A one-session minimum lowers the barrier to trying Alpha, which widens the funnel and cycles more families through every seat.</p>
+      </div>
+      <div class="reason">
+        <h3><span>&#9679;</span>The trial sells the school</h3>
+        <p>A child doing Alpha every week, mastery data climbing, is the highest-intent lead Alpha can have. One conversion is worth $160k to $325k.</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <p class="kicker">The market</p>
+    <div class="stats">
+      <div class="stat">
+        <div class="v num">$18.9B</div>
+        <div class="l">US tutoring industry, growing about 11% a year</div>
+      </div>
+      <div class="stat">
+        <div class="v num">22.6M</div>
+        <div class="l">children shut out of after-school for lack of spots</div>
+      </div>
+      <div class="stat">
+        <div class="v num">$357</div>
+        <div class="l">monthly a parent will pay to tutor one child</div>
+      </div>
+      <div class="stat">
+        <div class="v num">$500</div>
+        <div class="l">the ceiling no multi-subject center charges above, per month</div>
+      </div>
+    </div>
+    <p class="lead" style="margin-top:22px;">Alpha Hour sits in Fusion Academy's premium band, far above the mainstream field. Alpha Hour owns it.</p>
+  </section>
+
+  <section>
+    <p class="kicker">Pricing &nbsp;&#183;&nbsp; above every competitor, a fraction of Alpha</p>
+    <div class="table-scroll">
+      <table>
+        <thead>
+          <tr>
+            <th>Market</th>
+            <th class="r">Per session (~7 weeks)</th>
+            <th class="r">Full year (5 sessions)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Standard markets</td>
+            <td class="r price num">$2,500</td>
+            <td class="r price num">$12,500</td>
+          </tr>
+          <tr>
+            <td>Premium markets</td>
+            <td class="r price num">$3,200</td>
+            <td class="r price num">$16,000</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="lead" style="margin-top:16px;">Both subjects always included. A single session is more than three times the priciest mainstream competitor for the same span, and the full year is about one third of full Alpha tuition. The family buys a place in the program, not hours; measured per hour it sits inside the elite 1:1 tutoring range.</p>
+  </section>
+
+  <section>
+    <p class="kicker">Why these campuses &nbsp;&#183;&nbsp; VIP markets, proven demand</p>
+    <p class="lead" style="margin-bottom:22px;">The pilot is the East Coast VIP corridor: New York, Boston, Greenwich, Palm Beach, and Miami Beach. It is chosen on data, not hope.</p>
+    <div class="reasons">
+      <div class="reason">
+        <h3><span>&#9679;</span>Demand is already evidenced</h3>
+        <p>Alpha runs its ultra-high-net-worth admissions events in exactly these five markets. The inquiry and interest data from that program show concentrated demand in each city.</p>
+      </div>
+      <div class="reason">
+        <h3><span>&#9679;</span>Highest-value campuses in the network</h3>
+        <p>Every pilot market except Palm Beach carries full Alpha tuition of $60k to $75k. Premium pricing holds, and every conversion is worth $300k or more in lifetime tuition. Start the feeder where value is highest.</p>
+      </div>
+      <div class="reason">
+        <h3><span>&#9679;</span>Dense wealth that talks</h3>
+        <p>Among the highest concentrations of UHNW families in the country, in tight social networks where the program spreads by referral. Filling one cohort seeds the next.</p>
+      </div>
+      <div class="reason">
+        <h3><span>&#9679;</span>Nancy's base and a tight corridor</h3>
+        <p>She moves into this role from admissions leadership at Alpha New York, bringing relationships across the corridor. The Northeast sites are close enough for one coordinator to cover several.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="spotlight">
+    <p class="kicker">The numbers</p>
+    <h2 class="serif">The East Coast pilot at capacity, and the national plan</h2>
+    <p class="lead">Six pilot sites with all four cohorts filled (room capacity times four).</p>
+    <div class="tiles">
+      <div class="tile">
+        <div class="v">$27.5M</div>
+        <div class="l">pilot revenue a year at target capacity</div>
+      </div>
+      <div class="tile">
+        <div class="v">~85%</div>
+        <div class="l">site margin, four cohorts per room on fixed cost</div>
+      </div>
+      <div class="tile">
+        <div class="v">$40&#8211;60M</div>
+        <div class="l">future Alpha tuition pipeline from the pilot's families</div>
+      </div>
+    </div>
+    <div class="table-scroll">
+      <table>
+        <thead>
+          <tr>
+            <th>Pilot campus</th>
+            <th class="r">Room cap</th>
+            <th class="r">Enrolled (x4)</th>
+            <th class="r">Revenue</th>
+            <th class="r">Site profit</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td>Alpha New York</td><td class="r figure">100</td><td class="r figure">400</td><td class="r figure">$6.40M</td><td class="r figure">$5.46M</td></tr>
+          <tr><td>Boston (campus B)</td><td class="r figure">100</td><td class="r figure">400</td><td class="r figure">$6.40M</td><td class="r figure">$5.48M</td></tr>
+          <tr><td>Greenwich (Armonk)</td><td class="r figure">80</td><td class="r figure">320</td><td class="r figure">$5.12M</td><td class="r figure">$4.37M</td></tr>
+          <tr><td>Palm Beach</td><td class="r figure">60</td><td class="r figure">240</td><td class="r figure">$3.84M</td><td class="r figure">$3.29M</td></tr>
+          <tr><td>Miami Beach</td><td class="r figure">50</td><td class="r figure">200</td><td class="r figure">$3.20M</td><td class="r figure">$2.73M</td></tr>
+          <tr><td>Boston (campus A)</td><td class="r figure">40</td><td class="r figure">160</td><td class="r figure">$2.56M</td><td class="r figure">$2.16M</td></tr>
+          <tr class="hi"><td>Total</td><td class="r"></td><td class="r">1,720</td><td class="r">$27.5M</td><td class="r">$23.5M</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="caption">Target-capacity figures. A first year fills gradually; even at 50% fill the pilot nets about $11.7M in site profit. Less the central team, the pilot nets roughly $22.7M at capacity.</p>
+    <div class="table-scroll" style="margin-top:22px;">
+      <table>
+        <thead>
+          <tr>
+            <th>Three-year rollout ramp</th>
+            <th class="r">Year 1</th>
+            <th class="r">Year 2</th>
+            <th class="r">Year 3</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td>Sites</td><td class="r figure">6 East Coast</td><td class="r figure">24</td><td class="r figure">40</td></tr>
+          <tr><td>Enrolled</td><td class="r figure">~860</td><td class="r figure">~3,000</td><td class="r figure">~6,000</td></tr>
+          <tr><td>Revenue</td><td class="r figure">~$14M</td><td class="r figure">~$50M</td><td class="r figure">~$100M</td></tr>
+          <tr class="hi"><td>Net operating profit</td><td class="r">~$11M</td><td class="r">~$40M</td><td class="r">~$80M</td></tr>
+          <tr><td>Feeder pipeline created</td><td class="r figure">~$25M</td><td class="r figure">~$60M</td><td class="r figure">~$130M</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="caption">A ramp with partial fill, not capacity; Year 3's 40 sites run at about half of full enrollment. As every cohort fills, the network climbs toward the market, shown next.</p>
+  </section>
+
+  <section class="spotlight">
+    <p class="kicker">The national build-out &nbsp;&#183;&nbsp; and the market beyond it</p>
+    <h2 class="serif">Every Alpha campus today, and no ceiling</h2>
+    <p class="lead">All 40 K-8 Alpha campuses running Alpha Hour at premium pricing, all four cohorts filled. Austin and Chicago at 300 seats, Miami at 150, the East Coast flagships as set, all others at a conservative 50. This is today's network, not a limit.</p>
+    <div class="tiles">
+      <div class="tile">
+        <div class="v">~$175M</div>
+        <div class="l">annual revenue at full national capacity</div>
+      </div>
+      <div class="tile">
+        <div class="v">~$146M</div>
+        <div class="l">annual net operating profit</div>
+      </div>
+      <div class="tile">
+        <div class="v">$225&#8211;340M</div>
+        <div class="l">future Alpha tuition pipeline created</div>
+      </div>
+    </div>
+    <div class="table-scroll">
+      <table>
+        <thead>
+          <tr>
+            <th>Largest campuses</th>
+            <th class="r">Room cap</th>
+            <th class="r">Enrolled (x4)</th>
+            <th class="r">Revenue</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td>Alpha Austin</td><td class="r figure">300</td><td class="r figure">1,200</td><td class="r figure">$19.20M</td></tr>
+          <tr><td>Alpha Chicago</td><td class="r figure">300</td><td class="r figure">1,200</td><td class="r figure">$19.20M</td></tr>
+          <tr><td>Alpha Miami</td><td class="r figure">150</td><td class="r figure">600</td><td class="r figure">$9.60M</td></tr>
+          <tr><td>Alpha New York</td><td class="r figure">100</td><td class="r figure">400</td><td class="r figure">$6.40M</td></tr>
+          <tr><td>Alpha Boston</td><td class="r figure">100</td><td class="r figure">400</td><td class="r figure">$6.40M</td></tr>
+          <tr><td>35 more campuses</td><td class="r figure">40 to 80</td><td class="r figure">7,120</td><td class="r figure">$113.9M</td></tr>
+          <tr class="hi"><td>Total, 40 campuses</td><td class="r"></td><td class="r">10,920</td><td class="r">$174.7M</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="caption">That $175M is only what today's buildings can seat, about 0.6% of a ~$28B serviceable market (premium-affordable K-8 families in Alpha's metros), inside a ~$70B total market. Alpha adds roughly 20 campuses a year, so the number climbs toward the market, not toward a cap.</p>
+  </section>
+
+  <style>
+    .timeline { display: grid; grid-template-columns: repeat(3, 1fr); gap: 22px; }
+    .phase { border-top: 2px solid var(--accent); padding-top: 16px; }
+    .phase .step { font-family: Georgia, serif; color: var(--faint); font-size: 13px; font-weight: 600; display: block; margin-bottom: 8px; }
+    .phase .when { font-size: 12px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--accent); font-weight: 700; }
+    .phase h3 { font-family: Georgia, serif; font-size: 19px; letter-spacing: -0.01em; margin: 8px 0 8px; }
+    .phase p { font-size: 14px; color: var(--muted); margin: 0; }
+    @media (max-width: 680px) { .timeline { grid-template-columns: 1fr; } }
+  </style>
+  <section>
+    <p class="kicker">The rollout &nbsp;&#183;&nbsp; East Coast first, then the country</p>
+    <div class="timeline">
+      <div class="phase">
+        <span class="step">Phase 1</span>
+        <div class="when">Fall 2026</div>
+        <h3>East Coast premium pilot</h3>
+        <p>Five premium markets, six campuses: New York, Boston (two sites), Greenwich, Palm Beach, and Miami Beach. Up to 1,720 enrolled at capacity. Prove the model, the conversion rate, and the playbook.</p>
+      </div>
+      <div class="phase">
+        <span class="step">Phase 2</span>
+        <div class="when">January 2027</div>
+        <h3>National expansion</h3>
+        <p>Open the rest of the country at the start of the third session. Roll the playbook out to campuses in every metro Alpha operates.</p>
+      </div>
+      <div class="phase">
+        <span class="step">Phase 3</span>
+        <div class="when">2027 into 2028</div>
+        <h3>Full network, and growing</h3>
+        <p>All 40 K-8 campuses running Alpha Hour. Every new Alpha campus adds a site at near-zero setup, so the footprint keeps expanding with the network.</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <p class="kicker">The team</p>
+    <div class="team">
+      <div class="member">
+        <div class="role">Head of Alpha Hour <small>Nancy Wisniewski Torvund. Owns strategy, rollout, and the P&amp;L.</small></div>
+        <div class="pay">$400,000</div>
+      </div>
+      <div class="member">
+        <div class="role">Operations &amp; Admin Manager <small>Enrollment, billing, contracts, compliance, insurance.</small></div>
+        <div class="pay">$110&#8211;130K</div>
+      </div>
+      <div class="member">
+        <div class="role">Campus Coordinator <small>Launches sites, trains guides, owns quality. One, then more.</small></div>
+        <div class="pay">$75&#8211;95K</div>
+      </div>
+      <div class="member">
+        <div class="role">Site guides <small>Dedicated to Alpha Hour. Can also cover Alpha afternoon shifts.</small></div>
+        <div class="pay">$22&#8211;45 / hr</div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="ask">
+      <p class="kicker">The ask</p>
+      <h2 class="serif">Approve the pilot</h2>
+      <ol>
+        <li>Green-light the East Coast premium pilot for fall 2026: five markets, six campuses (New York, two in Boston, Greenwich, Palm Beach, Miami Beach).</li>
+        <li>Open the national rollout in January 2027, at the start of the third session.</li>
+        <li>Name Nancy Wisniewski Torvund as Head of Alpha Hour.</li>
+      </ol>
+    </div>
+  </section>
+
+  <p class="foot">Sources: alpha.school (program, locations, tuition, Timeback), IBISWorld, Grand View Research, Technavio, NCES, Afterschool Alliance America After 3PM 2025, EdChoice 2025, and current published pricing for Kumon, Mathnasium, Huntington, Sylvan, Fusion Academy, and RSM. Alpha's learning-speed and test-score figures are Alpha's own claims, based on internally administered MAP tests, and are not independently audited.</p>
+
+</div>

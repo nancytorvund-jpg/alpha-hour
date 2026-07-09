@@ -1,0 +1,338 @@
+<title>Alpha Hour — Business Plan</title>
+<style>
+  :root {
+    --ground: #F6F7F9; --panel: #FFFFFF; --ink: #152036; --muted: #4E5769;
+    --faint: #8A93A3; --line: #E1E4EA; --accent: #9A6A22; --accent-soft: #F0E4CE;
+    --track: #EEF0F4;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --ground: #0D1524; --panel: #131E33; --ink: #E9ECF3; --muted: #AEB8C9;
+      --faint: #6E7A90; --line: #23314C; --accent: #E0A94E; --accent-soft: #22292E; --track: #1A2740; }
+  }
+  :root[data-theme="light"] { --ground: #F6F7F9; --panel: #FFFFFF; --ink: #152036; --muted: #4E5769;
+    --faint: #8A93A3; --line: #E1E4EA; --accent: #9A6A22; --accent-soft: #F0E4CE; --track: #EEF0F4; }
+  :root[data-theme="dark"] { --ground: #0D1524; --panel: #131E33; --ink: #E9ECF3; --muted: #AEB8C9;
+    --faint: #6E7A90; --line: #23314C; --accent: #E0A94E; --accent-soft: #22292E; --track: #1A2740; }
+
+  * { box-sizing: border-box; }
+  html, body { height: auto; }
+  body {
+    margin: 0; background: var(--ground); color: var(--ink);
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    line-height: 1.62; -webkit-font-smoothing: antialiased; overflow-x: hidden;
+  }
+  .doc { max-width: 820px; margin: 0 auto; padding: clamp(28px,5vw,64px) clamp(18px,5vw,44px) 72px; }
+  .serif { font-family: Georgia, "Iowan Old Style", "Times New Roman", serif; }
+
+  .eyebrow { font-size: 12px; letter-spacing: 0.18em; text-transform: uppercase; color: var(--accent); font-weight: 600; margin: 0 0 12px; }
+  h1 { font-family: Georgia, serif; font-weight: 600; font-size: clamp(34px,6vw,52px); line-height: 1.05; letter-spacing: -0.015em; margin: 0 0 14px; text-wrap: balance; }
+  .meta { font-size: 14px; color: var(--muted); padding-bottom: 20px; border-bottom: 1px solid var(--line); }
+  .meta strong { color: var(--ink); }
+
+  h2 { font-family: Georgia, serif; font-weight: 600; font-size: clamp(22px,3.2vw,29px); line-height: 1.18; letter-spacing: -0.01em; margin: 52px 0 6px; padding-top: 26px; border-top: 1px solid var(--line); text-wrap: balance; }
+  h2 .n { color: var(--accent); font-size: 0.7em; margin-right: 10px; }
+  h3 { font-family: Georgia, serif; font-weight: 600; font-size: 18px; letter-spacing: -0.005em; margin: 30px 0 8px; }
+  p { margin: 0 0 14px; }
+  a { color: var(--accent); }
+  strong { font-weight: 650; }
+  ul, ol { margin: 0 0 14px; padding-left: 22px; }
+  li { margin-bottom: 7px; }
+  .lead { color: var(--muted); }
+
+  .tscroll { overflow-x: auto; margin: 6px 0 18px; border: 1px solid var(--line); border-radius: 6px; }
+  table { border-collapse: collapse; width: 100%; font-size: 14px; min-width: 460px; }
+  th, td { text-align: left; padding: 10px 14px; border-bottom: 1px solid var(--line); vertical-align: top; }
+  tr:last-child td { border-bottom: none; }
+  thead th { font-size: 11px; letter-spacing: 0.06em; text-transform: uppercase; color: var(--faint); font-weight: 600; background: var(--track); }
+  td.r, th.r { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+  tbody tr td:first-child { font-weight: 500; }
+  tr.tot td { border-top: 2px solid var(--accent); font-weight: 700; background: var(--accent-soft); }
+  small.st { color: var(--faint); font-weight: 400; }
+
+  .callout { background: var(--panel); border: 1px solid var(--line); border-left: 3px solid var(--accent); border-radius: 4px; padding: 16px 20px; margin: 4px 0 18px; }
+  .callout p:last-child { margin-bottom: 0; }
+  .foot { margin-top: 48px; padding-top: 18px; border-top: 1px solid var(--line); font-size: 12.5px; color: var(--faint); line-height: 1.55; }
+</style>
+
+<div class="doc">
+
+  <header>
+    <p class="eyebrow">Alpha Hour</p>
+    <h1>Business Plan</h1>
+    <p class="meta"><strong>Prepared by</strong> Nancy Wisniewski Torvund, proposed Head of Alpha Hour &nbsp;&#183;&nbsp; July 9, 2026 &nbsp;&#183;&nbsp; Draft for review</p>
+  </header>
+
+  <h2><span class="n">1</span>What Alpha Hour Is</h2>
+  <p>Alpha Hour is a paid, premium after-school program that runs inside Alpha School buildings after the regular school day ends. Families who do not attend Alpha get the accelerated Alpha experience in one hour: their child works Math and Reading/Writing on Timeback, Alpha's AI mastery platform (formerly branded 2 Hour Learning), supported in person by guides hired and trained specifically for this program.</p>
+  <p>The program does three jobs at once:</p>
+  <ol>
+    <li><strong>It makes money.</strong> Families pay a premium price per session, above every after-school competitor in the market.</li>
+    <li><strong>It uses real estate we already pay for.</strong> Alpha campuses sit empty after the school day. Alpha Hour turns the evening into revenue at close to zero added facility cost.</li>
+    <li><strong>It feeds Alpha.</strong> Alpha Hour is the lowest-friction way for a family to try the Alpha model without leaving their current school. A share of those families enroll full-time, and full Alpha tuition runs $40,000 to $75,000 per year.</li>
+  </ol>
+  <p>Start market: grades K-8, at established Alpha campuses, scaling nationwide across the Alpha network.</p>
+
+  <h2><span class="n">2</span>The Program Model</h2>
+  <h3>The accelerated Alpha experience, in one hour</h3>
+  <p>A normal Alpha day gives students about two hours of core academics on Timeback. Alpha Hour distills that into a single focused hour, two evenings a week. Each hour the student works both subjects on the platform, roughly half on Math and half on Reading/Writing, adjusting to wherever they need the time. The software delivers the instruction and adapts to each child, so a child moves at their own level regardless of grade. The guide manages focus, effort, and motivation. That is the whole model: one hour, both subjects, mastery-based, two evenings a week.</p>
+  <p><strong>Both subjects are mandatory.</strong> There is no single-subject option. Alpha Hour is one product, the accelerated Alpha hour, not a menu.</p>
+  <h3>Schedule and tracks</h3>
+  <p>The host campus building is available to Alpha Hour after 4:45 pm, Monday through Thursday. A student does not come all four nights. Each family picks a <strong>two-night track, Monday and Wednesday or Tuesday and Thursday</strong>, and a time block within the evening. That keeps the commitment realistic while the building runs full every night. Two one-hour time blocks run back to back each evening:</p>
+  <div class="tscroll"><table>
+    <tbody>
+      <tr><td>Setup</td><td>4:45 to 5:00 pm (guides prepare, devices ready)</td></tr>
+      <tr><td>Block 1</td><td>5:00 to 6:00 pm</td></tr>
+      <tr><td>Transition</td><td>6:00 to 6:15 pm (staggered pickup and drop-off)</td></tr>
+      <tr><td>Block 2</td><td>6:15 to 7:15 pm</td></tr>
+    </tbody>
+  </table></div>
+  <p>Both blocks are mixed K-8, because the platform individualizes every child's work. Put together, every campus runs <strong>four cohorts a week</strong>: Monday/Wednesday early, Monday/Wednesday late, Tuesday/Thursday early, and Tuesday/Thursday late. The same room and the same guide team serve all four.</p>
+  <h3>Capacity is set per campus, and the goal is to fill every cohort</h3>
+  <p>Each campus has a room capacity, the seats it fills at one time. Because two time blocks run each night and each seat serves a Monday/Wednesday cohort and a separate Tuesday/Thursday cohort across the week, <strong>enrolled students per campus is four times the room capacity</strong>. A 100-seat room fills to 400 enrolled: 100 per cohort, four cohorts. Filling every cohort to capacity is the operating goal.</p>
+  <h3>Enrollment: one session at a time</h3>
+  <p>The academic year is divided into <strong>five sessions</strong>, each about seven weeks long (roughly 35 weeks of programming total). Families sign up <strong>one session at a time</strong>, with a <strong>one-session minimum</strong>. They re-enroll session to session, and a family that stays all year completes all five.</p>
+  <p>Signing up one session at a time is deliberate. It lowers the barrier to trying Alpha Hour, which widens the top of the funnel, and it means far more distinct families cycle through each seat over a year than an annual-only plan would allow. Every one of those families is a full-time Alpha prospect who has lived the model.</p>
+  <h3>Why this design works</h3>
+  <ul>
+    <li><strong>Throughput.</strong> Two time blocks and two weekly tracks let one room serve four cohorts, so a campus enrolls four times its seat count without four times the staff or facility cost, because only one cohort is in the room at a time. This is the core of the money machine.</li>
+    <li><strong>Real estate.</strong> The space is a sunk cost Alpha already carries, whether it owns the campus or leases it, and it has after-hours access either way. Evening use adds only marginal cost (utilities, cleaning, coverage).</li>
+    <li><strong>Guides do the right job.</strong> Guides are not subject teachers. The platform teaches. Guides manage focus, effort, and motivation, which is what Alpha's own model relies on, so the training is short and the role is repeatable across sites.</li>
+  </ul>
+
+  <h2><span class="n">3</span>Market Analysis</h2>
+  <h3>The market is large, growing on the paid-tutoring side, and supply-constrained on the after-school side</h3>
+  <ul>
+    <li>US tutoring and supplemental education is roughly a <strong>$18.9 billion</strong> industry (IBISWorld, 2025). The US private tutoring market is projected to grow at about <strong>11% per year</strong> through 2029. The K-5 grade band is the fastest-growing segment.</li>
+    <li>US after-school programs are a <strong>$21.0 billion</strong> industry (IBISWorld, 2025). About 7 million children are in structured after-school programs, and about <strong>22.6 million more</strong> would enroll if their families could get a spot (Afterschool Alliance, 2025). The industry is shrinking on capacity, not demand.</li>
+    <li>Roughly <strong>36 to 37 million</strong> US children are in grades K-8 (NCES). Tutoring participation rose from 19% to 24% of students between 2024 and 2025.</li>
+    <li>Parents report willingness to pay about <strong>$357 per month</strong> (roughly $4,300 per year) to tutor one child (EdChoice, 2025), which is <em>above</em> what most incumbents charge. High-income families already spend up to about $9,000 per year on tutoring, test prep, and enrichment.</li>
+  </ul>
+  <h3>Where competitors price, and the ceiling Alpha Hour clears</h3>
+  <div class="tscroll"><table>
+    <thead><tr><th>Provider</th><th>Format</th><th>Price</th></tr></thead>
+    <tbody>
+      <tr><td>Kumon</td><td>Center, worksheet self-study, 2x/week</td><td>$150 to $220 per subject per month</td></tr>
+      <tr><td>Mathnasium</td><td>Center, small group, math only</td><td>$250 to $500 per month</td></tr>
+      <tr><td>Russian School of Math</td><td>Group class, math only</td><td>$2,000 to $3,960 per year</td></tr>
+      <tr><td>Best Brains</td><td>Group classes, multi-subject</td><td>$159 to $399 per month</td></tr>
+      <tr><td>Sylvan</td><td>Center, ~3:1 with software</td><td>$40 to $100 per hour</td></tr>
+      <tr><td>Huntington</td><td>Center, 1:1 and small group</td><td>$40 to $75 per hour, plus assessment</td></tr>
+      <tr><td>Fusion Academy</td><td>True 1:1 private school</td><td>$2,700 to $6,100 per class per term</td></tr>
+      <tr><td>Elite 1:1 tutoring</td><td>1:1, quote-only</td><td>$200 to $300+ per hour</td></tr>
+      <tr><td>Alpha School (reference)</td><td>Full-day AI-first private school</td><td>$40,000 to $75,000 per year</td></tr>
+    </tbody>
+  </table></div>
+  <p><strong>No multi-subject after-school center charges above roughly $500 per month today.</strong> Over a seven-week session that is about $875 for a single subject. Alpha Hour's two-subject session price sits well above that, in the same premium band as a Fusion Academy per-course term, which is the correct reference class.</p>
+  <h3>The opportunity: TAM, SAM, and why there is no ceiling</h3>
+  <p>Alpha Hour is priced at $16,000 a year, so the market is the families who can pay for premium academics, and it is enormous relative to anything the current campus network can seat.</p>
+  <div class="tscroll"><table>
+    <thead><tr><th>Layer</th><th>Definition</th><th class="r">Size</th></tr></thead>
+    <tbody>
+      <tr><td><strong>TAM</strong></td><td>US K-8 students in households that can afford premium academics (about 4.4M students, roughly the top 12% of households by income) at $16,000 per year</td><td class="r">~$70B / yr</td></tr>
+      <tr><td><strong>SAM</strong></td><td>The share of those families in the roughly 30 metros where Alpha operates or is opening campuses (about 1.75M students)</td><td class="r">~$28B / yr</td></tr>
+      <tr><td><strong>SOM (today)</strong></td><td>What the current 40-campus network can physically seat at full capacity (10,920 students, see Section 7A)</td><td class="r">~$175M / yr</td></tr>
+    </tbody>
+  </table></div>
+  <p>The point is the ratio. Today's entire network at full capacity is about <strong>0.6% of the serviceable market and roughly 0.25% of the total market</strong>. Alpha Hour is not constrained by demand. It is constrained by how many campuses and seats exist, and Alpha has been adding roughly 20 campuses a year. There is no ceiling. As Alpha spreads across the country, Alpha Hour scales with it, toward a market measured in tens of billions.</p>
+  <h3>The whitespace Alpha Hour occupies</h3>
+  <ol>
+    <li><strong>Multi-subject rigor at a premium price.</strong> Nothing center-based offers personalized, mastery-based Math and Reading/Writing together above the $500 per month line.</li>
+    <li><strong>AI acceleration in a supervised, physical setting.</strong> AI tutoring today is either a $4 to $45 per month unsupervised app or buried inside a $40,000+ full-time school. No one sells the AI-adaptive model as a supervised after-school program.</li>
+    <li><strong>Outcomes, not seat time.</strong> Legacy centers sell hours. Alpha Hour sells measurable progress, shown to parents continuously through Timeback mastery data.</li>
+    <li><strong>Demand overhang.</strong> With 22.6 million children shut out of after-school programs and willingness to pay above incumbent prices, a premium entrant faces unmet demand, not a share fight.</li>
+  </ol>
+
+  <h2><span class="n">4</span>Pricing</h2>
+  <p>Alpha Hour is priced above every mainstream after-school competitor and positioned as a fraction of full Alpha tuition. Pricing is set on market value, not on the cost of the software. The anchor is the result, not hours delivered. Families pay per session. Both subjects are always included.</p>
+  <div class="tscroll"><table>
+    <thead><tr><th>Tier</th><th class="r">Per session (~7 weeks)</th><th class="r">Full year (5 sessions)</th></tr></thead>
+    <tbody>
+      <tr><td>Standard markets (Alpha tuition $40k to $50k)</td><td class="r">$2,500</td><td class="r">$12,500</td></tr>
+      <tr><td>Premium markets (Alpha tuition $60k to $75k)</td><td class="r">$3,200</td><td class="r">$16,000</td></tr>
+    </tbody>
+  </table></div>
+  <p>Billing is per session, with a one-session minimum. Families re-enroll session to session. The East Coast pilot prices every campus at the premium tier; the standard tier is a flex option for lower-tuition national metros.</p>
+  <ul>
+    <li>A single session at $3,200 is more than three times the priciest mainstream competitor's cost for the same seven-week span, and it covers both subjects, not one. It sits just under a Fusion Academy per-course term, which is the right neighborhood.</li>
+    <li>The full-year figure ($16,000 premium) is roughly 25 to 30 percent of full Alpha tuition. That frames full enrollment as a natural upgrade, not a leap.</li>
+    <li><strong>We sell a place, not hours.</strong> A session is two evenings a week for seven weeks, about 14 hours. At $3,200 that is roughly $228 an hour, inside the range of elite 1:1 tutoring ($200 to $300), for a supervised, AI-personalized program covering both subjects at once. The program is priced against the outcome and against full Alpha tuition, not against a clock. Quote the session and full-year numbers; the per-hour figure is for objection handling only.</li>
+  </ul>
+
+  <h2><span class="n">5</span>Team and Roles</h2>
+  <h3>Central team</h3>
+  <div class="tscroll"><table>
+    <thead><tr><th>Role</th><th>Compensation</th><th>Responsibility</th></tr></thead>
+    <tbody>
+      <tr><td>Head of Alpha Hour <small class="st">(Nancy Wisniewski Torvund)</small></td><td class="r">$400,000</td><td>Owns the program: strategy, pricing, national rollout, campus relationships, conversion targets, and the full P&amp;L.</td></tr>
+      <tr><td>Operations and Admin Manager</td><td class="r">$110k to $130k</td><td>Session enrollment, billing, host-campus contracts, background-check and licensing compliance, insurance, payroll, reporting.</td></tr>
+      <tr><td>Campus Coordinator <small class="st">(one, then more)</small></td><td class="r">$75k to $95k</td><td>Launches sites, trains guides, runs quality standards, owns the parent-experience playbook. One coordinator can cover several sites in a metro.</td></tr>
+    </tbody>
+  </table></div>
+  <h3>Site team (per campus, dedicated to Alpha Hour)</h3>
+  <div class="tscroll"><table>
+    <thead><tr><th>Role</th><th>Compensation basis</th><th>Notes</th></tr></thead>
+    <tbody>
+      <tr><td>Guides</td><td class="r">$22 to $45 / hr by metro</td><td>Dedicated Alpha Hour guides. The evening runs about 2.75 hours, four nights a week. Guides can also work Alpha campus afternoon shifts, making a blended full-time role of roughly $50,000 to $85,000 that attracts stronger candidates and cuts turnover.</td></tr>
+      <tr><td>Site lead / lead guide</td><td class="r">$30 to $55 / hr</td><td>The most experienced guide runs the evening, owns dismissal safety, and is the on-site point of contact.</td></tr>
+    </tbody>
+  </table></div>
+  <h3>Staffing ratios</h3>
+  <p>The platform teaches, so ratios can be leaner than active-instruction tutoring but should still read as premium. Because blocks are mixed K-8, staff each block at about <strong>1 guide per 10 students</strong>, with extra attention to the youngest, and a <strong>two-adult minimum</strong> whenever children are present. Younger, K-2-heavy sites should staff closer to 1 per 8. Guides scale with the block, not the site: a 100-student block needs about 10 guides plus a lead; a 40-student block needs about 4 plus a lead. The same team covers both blocks.</p>
+
+  <h2><span class="n">6</span>Unit Economics and the East Coast Pilot P&amp;L</h2>
+  <h3>How the numbers scale</h3>
+  <ul>
+    <li><strong>Per student:</strong> Timeback platform (~$150 per student per session, near the marginal cost of adding a seat to software Alpha already owns), supplies and rewards (~$30 per session), payment processing (3% of revenue), local marketing (~$300 per student per year).</li>
+    <li><strong>Per block (staffing):</strong> guides scale with room capacity at about 1 per 10 plus a lead, working a 2.75-hour evening, four nights, across five seven-week sessions. The same team serves all four cohorts, so guide cost per campus does not rise as the cohorts fill. Loaded guide rates run about $40 per hour in Florida markets and $48 to $52 in the Northeast.</li>
+    <li><strong>Per site (fixed):</strong> host campus facility fee (~$35,000 a year, largely intracompany) and insurance (~$8,000).</li>
+  </ul>
+  <p>Revenue per site = enrolled students &times; price per session &times; 5 sessions. Enrolled students = room capacity &times; 2 time blocks &times; 2 weekly tracks (four cohorts). Both subjects always included.</p>
+  <h3>The East Coast pilot at target capacity</h3>
+  <p>All six pilot campuses price at the premium tier ($3,200 per session). Enrolled is all four cohorts filled (room capacity &times; 4). The East Coast VIP markets carry the wealth density to support premium pricing at every site, Palm Beach included.</p>
+  <div class="tscroll"><table>
+    <thead><tr><th>Campus</th><th class="r">Room cap</th><th class="r">Enrolled (x4)</th><th class="r">Price / session</th><th class="r">Revenue / yr</th><th class="r">Site profit / yr</th><th class="r">Margin</th></tr></thead>
+    <tbody>
+      <tr><td>Alpha New York</td><td class="r">100</td><td class="r">400</td><td class="r">$3,200</td><td class="r">$6.40M</td><td class="r">$5.46M</td><td class="r">85%</td></tr>
+      <tr><td>Greenwich (Armonk)</td><td class="r">80</td><td class="r">320</td><td class="r">$3,200</td><td class="r">$5.12M</td><td class="r">$4.37M</td><td class="r">85%</td></tr>
+      <tr><td>Boston (campus A)</td><td class="r">40</td><td class="r">160</td><td class="r">$3,200</td><td class="r">$2.56M</td><td class="r">$2.16M</td><td class="r">84%</td></tr>
+      <tr><td>Boston (campus B)</td><td class="r">100</td><td class="r">400</td><td class="r">$3,200</td><td class="r">$6.40M</td><td class="r">$5.48M</td><td class="r">86%</td></tr>
+      <tr><td>Miami Beach</td><td class="r">50</td><td class="r">200</td><td class="r">$3,200</td><td class="r">$3.20M</td><td class="r">$2.73M</td><td class="r">85%</td></tr>
+      <tr><td>Palm Beach</td><td class="r">60</td><td class="r">240</td><td class="r">$3,200</td><td class="r">$3.84M</td><td class="r">$3.29M</td><td class="r">86%</td></tr>
+      <tr class="tot"><td>Total</td><td class="r"></td><td class="r">1,720</td><td class="r"></td><td class="r">$27.52M</td><td class="r">$23.48M</td><td class="r">~85%</td></tr>
+    </tbody>
+  </table></div>
+  <p>Less the central team (about $0.78M), the pilot nets roughly <strong>$22.7M in operating profit at target capacity</strong>. Margins run 84 to 86% because the two-track model doubles enrollment against fixed guide and facility cost, pricing is set on value, and the software is Alpha's own.</p>
+  <h3>Ramp</h3>
+  <p>These are target-capacity, run-rate figures, which is the operating goal: every cohort full. A realistic first year fills gradually. At an average 50% fill during the pilot ramp, revenue and site profit run about half these numbers, roughly <strong>$13.8M revenue and $11.7M site profit</strong>, still a strongly profitable pilot.</p>
+  <h3>The feeder value, which is larger than the program itself</h3>
+  <ul>
+    <li>One family that converts from Alpha Hour to full Alpha is worth <strong>$160,000 to $325,000</strong> in lifetime tuition (4 to 6 years at $40,000 to $65,000).</li>
+    <li>Alpha Hour is the strongest kind of trial that exists: the family pays, the child attends every week for the session, and the parent watches mastery data the whole time.</li>
+    <li>Taking the pilot's <strong>1,720 enrolled families</strong> and a conservative <strong>8 to 12%</strong> conversion, the pilot produces roughly <strong>140 to 205 full-time enrollments</strong>. Because these are the network's highest-tuition markets, the pilot pipeline is worth <strong>$40 million to $60 million</strong> in future tuition, on top of the program's own profit.</li>
+  </ul>
+  <h3>Effective customer acquisition cost goes negative</h3>
+  <p>A private school normally spends $3,700 to $5,800 in marketing per enrolled student. With Alpha Hour, the prospect <em>pays Alpha</em> $3,200 per session during the consideration period, and the program is profitable. The effective acquisition cost per full enrollment is <strong>negative</strong>. The channel pays you. Even at zero conversions, the downside is a highly profitable after-school business.</p>
+
+  <h2><span class="n">7</span>Financial Projections (Three-Year Rollout)</h2>
+  <p>The table below is a realistic ramp, not full capacity: cohorts fill over time, so it runs well below the full-capacity figures in Section 7A. Even ramping, it reaches roughly $100 million in revenue by Year 3, on the way to the roughly $175 million the current network holds at full capacity, inside a market measured in tens of billions (Section 3).</p>
+  <div class="tscroll"><table>
+    <thead><tr><th>&nbsp;</th><th class="r">Year 1 (2026-27)</th><th class="r">Year 2 (2027-28)</th><th class="r">Year 3 (2028-29)</th></tr></thead>
+    <tbody>
+      <tr><td>Sites</td><td class="r">6 (East Coast pilot)</td><td class="r">24</td><td class="r">40</td></tr>
+      <tr><td>Enrolled (ramping fill)</td><td class="r">~860</td><td class="r">~3,000</td><td class="r">~6,000</td></tr>
+      <tr><td>Revenue</td><td class="r">~$14M</td><td class="r">~$50M</td><td class="r">~$100M</td></tr>
+      <tr><td>Site operating profit</td><td class="r">~$12M</td><td class="r">~$41M</td><td class="r">~$82M</td></tr>
+      <tr><td>Central team cost</td><td class="r">($0.78M)</td><td class="r">($1.5M)</td><td class="r">($2.5M)</td></tr>
+      <tr class="tot"><td>Net operating profit</td><td class="r">~$11M</td><td class="r">~$40M</td><td class="r">~$80M</td></tr>
+      <tr><td>Feeder pipeline created</td><td class="r">~$25M</td><td class="r">~$60M</td><td class="r">~$130M</td></tr>
+    </tbody>
+  </table></div>
+  <p class="lead">This is a ramp, not capacity. Year 3's 40 sites are modeled at roughly half of full-capacity enrollment, which is why revenue is about $100 million against the ~$175 million full-capacity figure in Section 7A. Net operating profit is the standalone Alpha Hour business, profitable from Year 1 because the two-track model doubles enrollment against fixed cost. Feeder pipeline is future tuition created, not booked revenue.</p>
+
+  <h2><span class="n">7A</span>National Build-Out (Today's Network, and Growing)</h2>
+  <p>This is Alpha Hour running at every current K-8 Alpha campus, every cohort filled, at premium pricing ($3,200 per session, $16,000 per year). It is not a ceiling. Alpha keeps opening campuses, and every new one is a new Alpha Hour site at near-zero setup, so the figure below only grows as the network spreads across the country.</p>
+  <p><strong>Capacity assumptions (room capacity per block; enrolled is four cohorts, room capacity &times; 4):</strong> Austin 300, Chicago 300, Miami 150, and the East Coast pilot campuses at the capacities already set. Every other campus is modeled at a conservative 50. Roster is Alpha's current 41 campuses from alpha.school, less Alpha High Austin (grades 9-12, outside K-8), leaving 40 K-8 campuses.</p>
+  <div class="tscroll"><table>
+    <thead><tr><th>Campus</th><th>State</th><th class="r">Room cap</th><th class="r">Enrolled (x4)</th><th class="r">Revenue / yr</th></tr></thead>
+    <tbody>
+      <tr><td>Alpha Austin</td><td>TX</td><td class="r">300</td><td class="r">1,200</td><td class="r">$19.20M</td></tr>
+      <tr><td>Alpha Chicago</td><td>IL</td><td class="r">300</td><td class="r">1,200</td><td class="r">$19.20M</td></tr>
+      <tr><td>Alpha Miami</td><td>FL</td><td class="r">150</td><td class="r">600</td><td class="r">$9.60M</td></tr>
+      <tr><td>Alpha New York</td><td>NY</td><td class="r">100</td><td class="r">400</td><td class="r">$6.40M</td></tr>
+      <tr><td>Alpha Boston</td><td>MA</td><td class="r">100</td><td class="r">400</td><td class="r">$6.40M</td></tr>
+      <tr><td>Alpha Greenwich</td><td>CT</td><td class="r">80</td><td class="r">320</td><td class="r">$5.12M</td></tr>
+      <tr><td>Alpha Palm Beach</td><td>FL</td><td class="r">60</td><td class="r">240</td><td class="r">$3.84M</td></tr>
+      <tr><td>Alpha Miami Beach</td><td>FL</td><td class="r">50</td><td class="r">200</td><td class="r">$3.20M</td></tr>
+      <tr><td>Alpha Boston Suburbs</td><td>MA</td><td class="r">40</td><td class="r">160</td><td class="r">$2.56M</td></tr>
+      <tr><td>Alpha Brownsville</td><td>TX</td><td class="r">50</td><td class="r">200</td><td class="r">$3.20M</td></tr>
+      <tr><td>Alpha Santa Barbara</td><td>CA</td><td class="r">50</td><td class="r">200</td><td class="r">$3.20M</td></tr>
+      <tr><td>Alpha The Woodlands</td><td>TX</td><td class="r">50</td><td class="r">200</td><td class="r">$3.20M</td></tr>
+      <tr><td>Alpha Fort Worth</td><td>TX</td><td class="r">50</td><td class="r">200</td><td class="r">$3.20M</td></tr>
+      <tr><td>Alpha Scottsdale</td><td>AZ</td><td class="r">50</td><td class="r">200</td><td class="r">$3.20M</td></tr>
+      <tr><td>Alpha Orange County</td><td>CA</td><td class="r">50</td><td class="r">200</td><td class="r">$3.20M</td></tr>
+      <tr><td>Alpha Raleigh</td><td>NC</td><td class="r">50</td><td class="r">200</td><td class="r">$3.20M</td></tr>
+      <tr><td>Alpha Charlotte</td><td>NC</td><td class="r">50</td><td class="r">200</td><td class="r">$3.20M</td></tr>
+      <tr><td>Alpha Chantilly</td><td>VA</td><td class="r">50</td><td class="r">200</td><td class="r">$3.20M</td></tr>
+      <tr><td>Alpha Plano</td><td>TX</td><td class="r">50</td><td class="r">200</td><td class="r">$3.20M</td></tr>
+      <tr><td>Alpha San Francisco</td><td>CA</td><td class="r">50</td><td class="r">200</td><td class="r">$3.20M</td></tr>
+      <tr><td>Alpha Dorado</td><td>PR</td><td class="r">50</td><td class="r">200</td><td class="r">$3.20M</td></tr>
+      <tr><td>Alpha Palo Alto</td><td>CA</td><td class="r">50</td><td class="r">200</td><td class="r">$3.20M</td></tr>
+      <tr><td>Alpha Oklahoma City</td><td>OK</td><td class="r">50</td><td class="r">200</td><td class="r">$3.20M</td></tr>
+      <tr><td>Alpha East Bay (Piedmont)</td><td>CA</td><td class="r">50</td><td class="r">200</td><td class="r">$3.20M</td></tr>
+      <tr><td>Alpha Atlanta (Roswell)</td><td>GA</td><td class="r">50</td><td class="r">200</td><td class="r">$3.20M</td></tr>
+      <tr><td>Alpha Santa Monica</td><td>CA</td><td class="r">50</td><td class="r">200</td><td class="r">$3.20M</td></tr>
+      <tr><td>Alpha Kirkland</td><td>WA</td><td class="r">50</td><td class="r">200</td><td class="r">$3.20M</td></tr>
+      <tr><td>Alpha Southlake (Keller)</td><td>TX</td><td class="r">50</td><td class="r">200</td><td class="r">$3.20M</td></tr>
+      <tr><td>Alpha South Bay LA</td><td>CA</td><td class="r">50</td><td class="r">200</td><td class="r">$3.20M</td></tr>
+      <tr><td>Alpha Park City</td><td>UT</td><td class="r">50</td><td class="r">200</td><td class="r">$3.20M</td></tr>
+      <tr><td>Alpha Lake Travis</td><td>TX</td><td class="r">50</td><td class="r">200</td><td class="r">$3.20M</td></tr>
+      <tr><td>Alpha Carrollton</td><td>TX</td><td class="r">50</td><td class="r">200</td><td class="r">$3.20M</td></tr>
+      <tr><td>Alpha Nashville</td><td>TN</td><td class="r">50</td><td class="r">200</td><td class="r">$3.20M</td></tr>
+      <tr><td>Alpha Highland Park (Dallas)</td><td>TX</td><td class="r">50</td><td class="r">200</td><td class="r">$3.20M</td></tr>
+      <tr><td>Alpha Denver</td><td>CO</td><td class="r">50</td><td class="r">200</td><td class="r">$3.20M</td></tr>
+      <tr><td>Alpha Boca Raton</td><td>FL</td><td class="r">50</td><td class="r">200</td><td class="r">$3.20M</td></tr>
+      <tr><td>Alpha Malibu</td><td>CA</td><td class="r">50</td><td class="r">200</td><td class="r">$3.20M</td></tr>
+      <tr><td>Alpha La Jolla (San Diego)</td><td>CA</td><td class="r">50</td><td class="r">200</td><td class="r">$3.20M</td></tr>
+      <tr><td>Alpha Tulsa</td><td>OK</td><td class="r">50</td><td class="r">200</td><td class="r">$3.20M</td></tr>
+      <tr><td>Alpha Jamaica Plain</td><td>MA</td><td class="r">50</td><td class="r">200</td><td class="r">$3.20M</td></tr>
+      <tr class="tot"><td>Total (40 campuses)</td><td></td><td class="r"></td><td class="r">10,920</td><td class="r">$174.7M</td></tr>
+    </tbody>
+  </table></div>
+  <h3>Network totals at full capacity</h3>
+  <div class="tscroll"><table>
+    <tbody>
+      <tr><td>Campuses</td><td class="r">40</td></tr>
+      <tr><td>Students enrolled</td><td class="r">10,920</td></tr>
+      <tr><td>Revenue</td><td class="r">$174.7M</td></tr>
+      <tr><td>Site operating profit (~85% margin)</td><td class="r">~$149M</td></tr>
+      <tr><td>Central team (national)</td><td class="r">~($3.5M)</td></tr>
+      <tr class="tot"><td>Net operating profit</td><td class="r">~$146M</td></tr>
+      <tr><td>Feeder pipeline created</td><td class="r">$225M to $340M</td></tr>
+    </tbody>
+  </table></div>
+  <p>These figures are what today's 40 campuses can seat at full capacity. They are not a limit. As Section 3 shows, they are under 1% of the serviceable market. Alpha keeps opening campuses across the country, and every new one adds Alpha Hour seats at near-zero setup, so the number climbs toward the market, not toward a cap. Even at today's footprint, Alpha Hour is already a $140 million-plus annual profit engine and the largest, highest-intent enrollment pipeline in the network. The two mega-campuses, Austin and Chicago, contribute roughly $19.2 million in revenue each.</p>
+
+  <h2><span class="n">8</span>Operations and Compliance</h2>
+  <h3>Real estate</h3>
+  <p>The host campus building is already paid for by daytime tuition, whether Alpha owns the campus or leases it. Either way Alpha controls the space and has after-hours access, so the evening use is a sunk cost, not a new one. Marginal evening costs (extended custodial hours, HVAC and lighting for the wing in use, security or front-desk coverage) run about $150 to $250 per evening, a fraction of leasing commercial space. Because the host is an Alpha campus, the facility fee is largely intracompany.</p>
+  <h3>Licensing</h3>
+  <p>The key question in every state is whether an evening program counts as childcare or as exempt instruction. Alpha Hour is designed to qualify as instruction: structure and market it as academic instruction with a defined curriculum; avoid meals in states where they trigger licensing (Florida especially); sign a formal facility-use agreement with the host campus; and request a written exemption determination from each state agency before opening. The one-hour, single-purpose, curriculum-driven design strengthens the instruction argument in every state.</p>
+  <h3>Safety and insurance</h3>
+  <ul>
+    <li>Background checks on every hire (fingerprint criminal check, national sex offender registry, state child-abuse registry); adopt each host campus's strictest standard.</li>
+    <li>Two adults on site at all times.</li>
+    <li>Insurance: general liability ($1M/$2M), professional liability, workers' compensation, and sexual abuse and molestation coverage (excluded from most general liability policies, must be added). The host campus will require being named as additional insured.</li>
+  </ul>
+
+  <h2><span class="n">9</span>Rollout Plan</h2>
+  <p>The five-session calendar sets the timing. Session 3 begins in January, so January 2027 is the natural moment to open the national rollout on a fresh enrollment start.</p>
+  <h3>Why these campuses: VIP markets with proven demand</h3>
+  <ol>
+    <li><strong>We already have demand data here.</strong> Alpha runs its UHNW East Coast admissions events in exactly these five markets. The inquiry and interest data are direct evidence of demand. We launch where the funnel already shows families leaning in.</li>
+    <li><strong>These are the highest-value campuses.</strong> Every pilot market except Palm Beach carries full Alpha tuition of $60,000 to $75,000. Premium pricing holds, and every conversion is worth $300,000 or more in lifetime tuition. Start the feeder where lifetime value is highest.</li>
+    <li><strong>The wealth is dense and it talks.</strong> These metros hold some of the highest concentrations of UHNW families in the country, in tight social networks where a program spreads by word of mouth.</li>
+    <li><strong>Nancy's base and the corridor's density.</strong> Nancy moves into Head of Alpha Hour from admissions leadership at Alpha New York, bringing relationships across the corridor, and the Northeast campuses are close enough that one coordinator and a shared guide pool can cover several sites.</li>
+  </ol>
+  <p><strong>Phase 1: East Coast premium pilot (Fall 2026).</strong> Launch across five premium East Coast markets, six campuses since Boston has two: Alpha New York, Boston (two sites), Greenwich (Armonk), Palm Beach, and Miami Beach. Lock the operating playbook, guide training, licensing exemptions, the five-session calendar, and the conversion process.</p>
+  <p><strong>Phase 2: National rollout (January 2027, Session 3 onward).</strong> Open the rest of the country at the start of the January session, moving toward roughly 18 sites through 2027. Add campus coordinators. Formalize the conversion handoff so every family gets an intentional enrollment conversation.</p>
+  <p><strong>Phase 3: Full network (2027 into 2028).</strong> Run Alpha Hour at essentially every Alpha campus, roughly 40 sites and growing. Move to a regional coordinator structure. Evaluate extending the market beyond K-8.</p>
+
+  <h2><span class="n">10</span>Risks and How We Manage Them</h2>
+  <div class="tscroll"><table>
+    <thead><tr><th>Risk</th><th>Response</th></tr></thead>
+    <tbody>
+      <tr><td>Part-time evening guide roles are hard to fill and turn over</td><td>Blend the role with Alpha campus afternoon shifts to create real full-time jobs.</td></tr>
+      <tr><td>A state treats the program as licensed childcare</td><td>Design as one-hour academic instruction, avoid meals, sign a formal host-campus agreement, get a written exemption per state before opening.</td></tr>
+      <tr><td>Session sign-up creates churn between sessions</td><td>Churn widens the feeder funnel; manage re-enrollment with visible progress reports and keep seats full with new trial families.</td></tr>
+      <tr><td>Price resistance</td><td>Lead with the session outcome and the "one third of Alpha" frame; hold the per-hour math for objections.</td></tr>
+      <tr><td>Low conversion to full Alpha</td><td>Even at zero conversion the program is profitable; build an intentional conversion handoff to hit the 8 to 12% base case.</td></tr>
+      <tr><td>Alpha's academic claims are its own, not independently audited</td><td>Report each child's actual Timeback and MAP data to that child's parents rather than leaning on network-wide marketing claims.</td></tr>
+    </tbody>
+  </table></div>
+
+  <h2><span class="n">11</span>The One-Sentence Case</h2>
+  <p class="serif" style="font-size:20px;line-height:1.45;color:var(--ink);">Alpha Hour turns empty Alpha buildings into a profitable, premium after-school program that also functions as the lowest-cost, highest-intent enrollment channel Alpha has, because the families who try the model one session at a time are the ones most likely to pay full tuition for it.</p>
+
+  <p class="foot">Sources: alpha.school (program, locations, admission, tuition, Timeback rebrand), Alpha Summer materials, IBISWorld, Grand View Research and Technavio, NCES, Afterschool Alliance America After 3PM 2025, EdChoice 2025, and current published pricing for Kumon, Mathnasium, Huntington, Sylvan, Fusion Academy, RSM, and premium 1:1 tutoring. Alpha's learning-speed and test-score figures are Alpha's own claims based on internally administered MAP tests and are not independently audited. Market sizing (TAM/SAM) is an estimate at stated income assumptions.</p>
+
+</div>

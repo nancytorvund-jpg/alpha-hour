@@ -1,0 +1,129 @@
+<title>Alpha Hour — BrainLift</title>
+<style>
+  :root {
+    --ground: #F6F7F9; --panel: #FFFFFF; --ink: #152036; --muted: #4E5769;
+    --faint: #8A93A3; --line: #E1E4EA; --accent: #9A6A22; --accent-soft: #F0E4CE;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --ground: #0D1524; --panel: #131E33; --ink: #E9ECF3; --muted: #AEB8C9;
+      --faint: #6E7A90; --line: #23314C; --accent: #E0A94E; --accent-soft: #22292E; }
+  }
+  :root[data-theme="light"] { --ground: #F6F7F9; --panel: #FFFFFF; --ink: #152036; --muted: #4E5769;
+    --faint: #8A93A3; --line: #E1E4EA; --accent: #9A6A22; --accent-soft: #F0E4CE; }
+  :root[data-theme="dark"] { --ground: #0D1524; --panel: #131E33; --ink: #E9ECF3; --muted: #AEB8C9;
+    --faint: #6E7A90; --line: #23314C; --accent: #E0A94E; --accent-soft: #22292E; }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--ground); color: var(--ink);
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    line-height: 1.62; -webkit-font-smoothing: antialiased; overflow-x: hidden;
+  }
+  .doc { max-width: 800px; margin: 0 auto; padding: clamp(28px,5vw,64px) clamp(18px,5vw,44px) 72px; }
+  .serif { font-family: Georgia, "Iowan Old Style", "Times New Roman", serif; }
+
+  .eyebrow { font-size: 12px; letter-spacing: 0.18em; text-transform: uppercase; color: var(--accent); font-weight: 600; margin: 0 0 12px; }
+  h1 { font-family: Georgia, serif; font-weight: 600; font-size: clamp(34px,6vw,52px); line-height: 1.05; letter-spacing: -0.015em; margin: 0 0 14px; }
+  .meta { font-size: 14px; color: var(--muted); padding-bottom: 20px; border-bottom: 1px solid var(--line); }
+  .meta strong { color: var(--ink); }
+
+  h2 { font-family: Georgia, serif; font-weight: 600; font-size: clamp(21px,3vw,27px); line-height: 1.2; margin: 50px 0 10px; padding-top: 24px; border-top: 1px solid var(--line); }
+  h3 { font-family: Georgia, serif; font-weight: 600; font-size: 18px; margin: 26px 0 6px; }
+  h4 { font-size: 15px; margin: 20px 0 4px; color: var(--accent); font-weight: 650; letter-spacing: 0.01em; }
+  p { margin: 0 0 13px; }
+  strong { font-weight: 650; }
+  ul { margin: 0 0 14px; padding-left: 20px; }
+  li { margin-bottom: 6px; }
+  .lead { color: var(--muted); }
+
+  .spov { background: var(--panel); border: 1px solid var(--line); border-left: 3px solid var(--accent); border-radius: 4px; padding: 16px 20px; margin: 0 0 14px; }
+  .spov .t { font-family: Georgia, serif; font-weight: 600; font-size: 16.5px; margin: 0 0 6px; color: var(--ink); }
+  .spov p { margin: 0; font-size: 14.5px; color: var(--muted); }
+  .exp { margin: 0 0 16px; }
+  .exp .name { font-weight: 650; }
+  .exp .why { color: var(--muted); font-size: 14.5px; }
+  .foot { margin-top: 44px; padding-top: 16px; border-top: 1px solid var(--line); font-size: 12.5px; color: var(--faint); }
+</style>
+
+<div class="doc">
+
+  <header>
+    <p class="eyebrow">Alpha Hour</p>
+    <h1>BrainLift</h1>
+    <p class="meta"><strong>Owner:</strong> Nancy Wisniewski Torvund, proposed Head of Alpha Hour</p>
+  </header>
+
+  <h2>Purpose</h2>
+  <h4>Primary purpose</h4>
+  <p>Design and run Alpha Hour: a premium after-school program that delivers the accelerated Alpha experience in one hour on Timeback to K-8 students who do not attend Alpha. It runs Monday through Thursday from 5:00 pm inside existing Alpha campuses, covers both subjects (Math and Reading/Writing) every hour, and enrolls families one seven-week session at a time, five sessions a year.</p>
+  <p>The program exists to do three things at once: generate profit from a premium offering priced above every competitor; use real estate Alpha already pays for by turning empty evening hours into revenue; and feed Alpha by giving families a low-friction, paid way to try the model and converting a share into full-time enrollment. Success is measured on all three: site profit, building utilization, and conversions to full Alpha.</p>
+  <h4>Out of scope</h4>
+  <ul>
+    <li>Custom changes to Timeback. The program runs the platform as built.</li>
+    <li>Certified-teacher tutoring or one-on-one private tutoring models.</li>
+    <li>Test-prep-only offerings (SAT and ACT).</li>
+    <li>Non-academic enrichment (arts, sports, social clubs) as the core product.</li>
+    <li>Full-day or full-time schooling. This is strictly after-school.</li>
+    <li>Online-only delivery. The program is in-person inside Alpha buildings.</li>
+    <li>Childcare or custodial care. Alpha Hour is academic instruction, structured to qualify as instruction under state exemptions.</li>
+    <li>Single-subject enrollment. Both subjects are always included; Alpha Hour is one product, the accelerated Alpha hour, not a menu.</li>
+    <li>Subjects beyond Math and Reading/Writing, or grades outside K-8, at launch.</li>
+  </ul>
+
+  <h2>Experts</h2>
+  <div class="exp"><p class="name">MacKenzie Price, co-founder of Alpha School</p><p class="why">Co-founded Alpha in Austin in 2014 and is the public voice of the model. She proved that the Alpha model draws families at $40,000 to $75,000 tuition and that parents will pay for measurable results delivered by software plus guides, not teachers. Alpha Hour is her model, unbundled into the after-school hours.</p></div>
+  <div class="exp"><p class="name">Toru Kumon, founder of Kumon</p><p class="why">Built one of the largest after-school brands in history, 25,000+ centers, on a simple idea: master before you progress, and make progress visible to parents. Kumon is the volume baseline Alpha Hour must beat on outcomes and price.</p></div>
+  <div class="exp"><p class="name">Larry Martinek, co-founder of Mathnasium</p><p class="why">Built a franchise on trained non-teacher instructors and a fixed method. Proof that the market pays a premium for structured help delivered by trained guides rather than credentialed teachers, which is Alpha Hour's staffing thesis.</p></div>
+  <div class="exp"><p class="name">Raymond and Eileen Huntington, founders of Huntington Learning Center</p><p class="why">Built an early broad-subject tutoring franchise anchored on diagnostic assessment. They showed assessment data builds trust and justifies higher prices. Alpha Hour replaces their diagnostics with continuous Timeback mastery data.</p></div>
+  <div class="exp"><p class="name">Michelle Rose Gilman, founder of Fusion Academy</p><p class="why">Grew a one-to-one private school charging $8,000 to $17,000 per course per year. Fusion is the current price ceiling for structured academic programs below full private school, and the reference class Alpha Hour should be compared against, not Kumon.</p></div>
+  <div class="exp"><p class="name">Command Education and Lindamood-Bell (premium-pricing reference)</p><p class="why">Command charges up to $750,000 per package; Lindamood-Bell charges over $10,000 for a six-week reading intensive. Both price against the value of the outcome, not hours. They are the template for Alpha Hour's pricing logic.</p></div>
+
+  <h2>Spiky Points of View &mdash; Truths</h2>
+  <div class="spov"><p class="t">Truth 1: One hour with us beats a full day at your child's current school, and every enrollment is a parent quietly admitting it.</p><p>Alpha's own data claims about 2x learning in roughly two hours a day. Compress that into one focused evening hour and it still out-produces a full day in a conventional classroom. That is the wedge, not a slogan. Every family who pays for Alpha Hour is running an experiment that indicts the school they already write checks to. We do not really compete with Kumon. We compete with the six hours their child sat through earlier that day, and we win.</p></div>
+  <div class="spov"><p class="t">Truth 2: Certified teachers are a downgrade, and removing them is the product, not a cost cut.</p><p>The industry sells "certified teacher" as the quality floor. In a mastery system it is the ceiling. A teacher paces the whole room to the middle, brings good days and bad days, and cannot personalize past a handful of kids. The software has none of those limits. So we hire non-teachers, pay them well, and forbid them from teaching. The absence of the teacher is not something we tolerate to save money. It is the reason the results are better.</p></div>
+  <div class="spov"><p class="t">Truth 3: We price to exclude, on purpose.</p><p>Alpha Hour is not democratizing education and will not pretend to. The price is a filter, set high enough to select families who can later sign a $65,000 tuition contract, because those are the families the program exists to find. Price it lower and you fill the room with families who will never convert and drown the guides in low-value seats. The exclusivity is not a regrettable side effect of a premium price. It is the entire job of the price.</p></div>
+  <div class="spov"><p class="t">Truth 4: This is a real-estate business that happens to teach children.</p><p>The asset is the building. Alpha already controls it, owned or leased, and it sits dark from late afternoon. Alpha Hour is the arbitrage that monetizes the idle hours, and every decision should be judged on yield per campus-evening. The academics have to be genuinely excellent, but they are the product we sell, not the reason the business exists. The reason is that empty premium real estate in the country's richest zip codes is the most underused asset Alpha holds, and we are the ones turning the lights back on.</p></div>
+  <div class="spov"><p class="t">Truth 5: Alpha Hour is bait, and we should say so out loud, at least to ourselves.</p><p>Dressed as an after-school program, it is a customer-acquisition weapon pointed at families who are currently enrolled somewhere else. Its most valuable output is not the tuition it collects, it is the families it peels off competing schools and hands to full Alpha, each worth up to $325,000 across their years. Treating it as "just enrichment" would waste it. Build the conversion handoff as if the whole point depends on it, because it does.</p></div>
+  <div class="spov"><p class="t">Truth 6: Adult help is noise. The best thing a grown-up can do for a child's academics is get out of the way.</p><p>Parents, tutors, and teachers all believe their involvement is the value. Inside a mastery loop it is interference. Every time an adult explains the answer, rescues the child, or sets the pace, they break the feedback loop the software runs on and train dependence instead of mastery. The guide's real skill is restraint: hold effort and motivation, and refuse to teach. We are selling parents a program whose core discipline is that no adult, including them, gets to interrupt the algorithm.</p></div>
+  <div class="spov"><p class="t">Truth 7: Grades, homework, and the 180-day calendar are administrative fictions, and we bill against all three.</p><p>One room holds a kindergartner and a seventh grader on the same platform and neither slows the other, which means grade-level cohorts were never about learning. There is no homework, because the hour is the work. The year is five seven-week sessions a family buys one at a time, because a child should be able to purchase exactly as much acceleration as they want. Every convention of school we throw out turns out to have been about running the institution, not teaching the child.</p></div>
+  <div class="spov"><p class="t">Truth 8: There is no ceiling, because the constraint is buildings and no one builds them faster than Alpha.</p><p>Every full-capacity number is a floor. The entire network at capacity still captures under 1 percent of the premium families in the metros Alpha already sits in. Alpha Hour is not fighting for share in a mature market, it is limited only by how many campuses exist, and that count climbs about 20 a year. The company that wins this is whoever already owns the most buildings in the most expensive neighborhoods in America. That is Alpha, so the runway is the map of the country.</p></div>
+
+  <h2>Spiky Points of View &mdash; Myths</h2>
+  <div class="spov"><p class="t">Myth 1: After-school should be affordable.</p><p>Affordable is a race to the bottom that signals low value and attracts families who will argue over $200 a month. We win by being the single most expensive option in the after-school market, because in premium education the price is read as proof. The goal is not to be within everyone's reach. It is to be the program every other program gets measured against and cannot match.</p></div>
+  <div class="spov"><p class="t">Myth 2: Parents are buying their child's happiness.</p><p>At this price parents buy certainty, not smiles. They will tolerate a demanding, two-evenings-a-week program for as long as the mastery data climbs, and they will abandon a fun one the moment it stops producing. Enjoyment matters only because an engaged child produces results faster. Sell the proof, not the fun, and never confuse the two.</p></div>
+  <div class="spov"><p class="t">Myth 3: A good trial lowers the barrier to entry.</p><p>Free, easy trials attract tire-kickers who never buy. Alpha Hour is the highest-commitment trial in education, five figures and two evenings a week for weeks on end, and that is precisely why it converts. The size of the commitment is the qualifier. A family willing to do this has already told you they will do full Alpha.</p></div>
+  <div class="spov"><p class="t">Myth 4: Teaching two subjects at once needs two specialists.</p><p>One non-teacher runs Math and Reading for a room of mixed grades at the same time, because subject expertise in the adult is irrelevant when the platform holds all of it. The specialist model is not rigor, it is overhead that competitors are trapped paying and passing on to parents. We deleted the specialist and kept the outcome.</p></div>
+  <div class="spov"><p class="t">Myth 5: You cannot charge Fusion prices without Fusion's one-to-one staffing.</p><p>We charge premium prices at one guide per ten students, because the personalization lives in the software, not in the ratio. Fusion's 1:1 model is not a quality advantage, it is a cost structure that caps how large and how profitable it can ever become. We took the personalization and left their cost behind.</p></div>
+  <div class="spov"><p class="t">Myth 6: An empty school building is a cost to manage.</p><p>An empty premium school building after 5:00 pm is the most valuable idle asset Alpha controls, owned or leased, and every school in the country that lets its buildings go dark is setting money on fire for no reason. The building is already paid for. The only real question is whether you are operator enough to run a second, higher-margin business inside it while the competition goes home.</p></div>
+
+  <h2>Insights</h2>
+  <p><strong>Insight 1: The unit of the business is the campus-evening, not the student.</strong> Facility, coordinator, and security costs are per-evening and fixed. Software and guide costs are per-student. Profit comes from loading as many students as safely possible onto each fixed campus-evening, which is why two blocks and full sites matter more than squeezing price.</p>
+  <p><strong>Insight 2: Price against Fusion and Lindamood-Bell, never against Kumon.</strong> Anchoring the family's comparison determines whether $3,200 a session reads as expensive or as a bargain. Framed against a Fusion course term, a Lindamood-Bell intensive, and one-third-of-Alpha for the full year, it reads as obvious value. Marketing controls the anchor.</p>
+  <p><strong>Insight 3: Blend the guide role across day and evening to make it hireable.</strong> A 16-hour evening-only job has chronic turnover. A daytime-plus-evening role at $50,000 to $85,000 is a real career, attracts stronger people, and shares the guide's cost with the campus.</p>
+  <p><strong>Insight 4: Design as instruction, not care, from day one.</strong> Whether the state calls an evening program childcare or exempt instruction decides the entire regulatory burden. Structuring it as a class with a curriculum, avoiding meals where they trigger licensing, and signing a formal host-campus agreement keeps the program exempt in most states.</p>
+  <p><strong>Insight 5: Build the conversion handoff on purpose, or the feeder does not fire.</strong> Camp-to-school research is clear: conversion only happens when the school builds an intentional enrollment process. Alpha Hour must end every family's experience with a structured conversation, using the child's own Timeback data as evidence.</p>
+  <p><strong>Insight 6: The standalone business and the feeder are two separate wins, and both are real.</strong> Alpha Hour is a profitable standalone after-school business on its own numbers, before counting a single conversion. Present it that way first, then show the feeder on top as the strategic multiplier. Two independent reasons to say yes are stronger than one.</p>
+
+  <h2>Knowledge Tree</h2>
+  <h3>Category 1: How non-school learning environments drive academic gains</h3>
+  <p class="lead">Mastery pedagogy, standardized pacing, and visible progress let after-school programs outperform classrooms, using process-driven personalization rather than teacher variation.</p>
+  <ul>
+    <li><strong>Kumon:</strong> Founded 1954. Worksheet-based mastery, non-certified staff, 25,000+ centers, $150 to $220 per subject per month. Personalization lives in the process, not the content.</li>
+    <li><strong>Mathnasium:</strong> Founded 2002. Trained non-teacher instructors, fixed method, math only, $250 to $500 per month.</li>
+    <li><strong>Alpha / Timeback:</strong> Founded 2014. Core academics on an adaptive AI platform in about two hours a day; guides, not teachers; rebranded from 2 Hour Learning to Timeback in November 2025. Alpha's 2x to 2.6x speed and top 1-2% MAP claims are internally measured, not independently audited.</li>
+    <li><strong>Fusion Academy:</strong> One-to-one private school, $8,000 to $17,000 per course per year. Proves premium willingness to pay for personalized academics.</li>
+  </ul>
+  <p class="lead">Insights: Mastery scales when the system, not the teacher, carries instruction. Parents validate trust through visible, routine progress. Premium after-school is about quality of result, not quantity of hours.</p>
+  <h3>Category 2: After-school business models and the feeder</h3>
+  <p class="lead">After-school programs scale through standardization, real-estate leverage, and, for a school-owned program, conversion to full enrollment.</p>
+  <ul>
+    <li><strong>Market size:</strong> US tutoring $18.9B, growing ~11%/yr; after-school $21.0B with 22.6M children unable to get a spot; ~36M K-8 students; parent willingness to pay ~$357/month.</li>
+    <li><strong>Huntington:</strong> Founded 1977. Diagnostic-driven, multi-subject, $40 to $75 per hour. Assessment builds trust and justifies price.</li>
+    <li><strong>Premium pricing precedent:</strong> Command Education $120,000+; Lindamood-Bell $10,000+ for six weeks; Fusion $60,000+ full-time. All price against outcome value, not hours.</li>
+    <li><strong>Feeder economics:</strong> Paid, high-engagement trials convert at 25%+ in education; one enrollment is worth $100,000+ in lifetime tuition; private-school marketing costs $3,700 to $5,800 per enrolled student. Alpha Hour inverts this because the prospect pays during consideration.</li>
+  </ul>
+  <p class="lead">Insights: Standardization plus assessment builds scalable trust. Real estate already owned is the margin. For a school-owned program, the feeder is the largest source of value, and it only fires with an intentional handoff.</p>
+
+  <p class="foot">Alpha's learning-speed and test-score figures are Alpha's own claims, based on internally administered MAP tests, and are not independently audited.</p>
+
+</div>

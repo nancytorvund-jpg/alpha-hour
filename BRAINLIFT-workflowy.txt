@@ -1,0 +1,177 @@
+BrainLift: Alpha Hour
+	Owner
+		Nancy Wisniewski Torvund, proposed Head of Alpha Hour
+	Purpose
+		Primary purpose
+			Design and run Alpha Hour: a premium after-school program that delivers the accelerated Alpha experience in one hour on Timeback to K-8 students who do not attend Alpha. It runs Monday through Thursday from 5:00 pm inside existing Alpha campuses, but each family attends a two-night track, Monday and Wednesday or Tuesday and Thursday. It covers both subjects (Math and Reading/Writing) every hour, and enrolls families one seven-week session at a time, five sessions a year.
+			The program exists to do three things at once
+				Generate profit from a premium after-school offering priced above every competitor.
+				Use real estate we already pay for, turning empty evening hours in Alpha buildings into revenue.
+				Feed Alpha. Give families a low-friction, paid way to try the Alpha model, and convert a share of them into full-time enrollment.
+				Success is measured on all three: site profit, building utilization, and conversions to full Alpha.
+		Out of scope
+			Custom changes to Timeback for after-school use. The program runs the platform as built.
+			Certified-teacher tutoring models or one-on-one private tutoring.
+			Test-prep-only offerings (SAT and ACT).
+			Non-academic enrichment (arts, sports, social clubs) as the core product.
+			Full-day or full-time schooling. This is strictly after-school.
+			Online-only delivery. The program is in-person inside Alpha buildings.
+			Childcare or custodial care. Alpha Hour is academic instruction, structured to qualify as instruction under state exemptions.
+			Single-subject enrollment. Both subjects are always included. Alpha Hour is one product, the accelerated Alpha hour, not a menu.
+			Subjects beyond Math and Reading/Writing, or grades outside K-8, at launch.
+	Experts
+		MacKenzie Price, co-founder of Alpha School
+			Co-founded Alpha in Austin in 2014 and is the public voice of the model. Built a private-school network that puts core academics on an AI platform for about two hours a day, growing from about 200 students to over 1,000 in two years across a fast-expanding campus network.
+			Why follow: She proved the Alpha model draws families at $40,000 to $75,000 tuition and that parents will pay for measurable results delivered by software plus guides, not teachers. Alpha Hour is her model, unbundled into the after-school hours.
+		Toru Kumon, founder of Kumon
+			Built one of the largest after-school brands in history, 25,000+ centers, on a simple idea: master before you progress, and make progress visible to parents.
+			Why follow: He showed a tightly standardized, low-touch mastery system scales globally without certified teachers. Kumon is the volume baseline Alpha Hour must beat on outcomes and price.
+		Larry Martinek, co-founder of Mathnasium
+			Turned classroom math methods into a franchise built on trained non-teacher instructors and a fixed method.
+			Why follow: His model proves the market pays a premium for structured help delivered by trained guides rather than credentialed teachers, which is exactly Alpha Hour's staffing thesis.
+		Raymond and Eileen Huntington, founders of Huntington Learning Center
+			Built one of the first broad-subject tutoring franchises, anchored on diagnostic assessment and structured programs.
+			Why follow: They showed assessment data builds trust and justifies higher prices. Alpha Hour replaces their diagnostics with continuous Timeback mastery data, which is stronger proof delivered more often.
+		Michelle Rose Gilman, founder of Fusion Academy
+			Grew a garage tutoring program into a one-to-one private school charging roughly $8,000 to $17,000 per course per year.
+			Why follow: Fusion is the current price ceiling for structured academic programs below full private school, and the reference class Alpha Hour should be compared against, not Kumon.
+		Command Education and Lindamood-Bell (premium-pricing reference)
+			Command Education charges up to $750,000 per package for college consulting. Lindamood-Bell charges over $10,000 for a six-week reading intensive.
+			Why follow: Both price against the value of the outcome, not hours delivered. They are the template for Alpha Hour's pricing logic: anchor on the result, quote the annual number, keep the per-hour math for objections.
+	Spiky Points of View
+		Truths
+			Truth 1: One hour with us beats a full day at your child's current school, and every enrollment is a parent quietly admitting it.
+				Alpha's own data claims about 2x learning in roughly two hours a day. Compress that into one focused evening hour and it still out-produces a full day in a conventional classroom. That is the wedge, not a slogan. Every family who pays for Alpha Hour is running an experiment that indicts the school they already write checks to. We do not really compete with Kumon. We compete with the six hours their child sat through earlier that day, and we win.
+			Truth 2: Certified teachers are a downgrade, and removing them is the product, not a cost cut.
+				The industry sells "certified teacher" as the quality floor. In a mastery system it is the ceiling. A teacher paces the whole room to the middle, brings good days and bad days, and cannot personalize past a handful of kids. The software has none of those limits. So we hire non-teachers, pay them well, and forbid them from teaching. The absence of the teacher is not something we tolerate to save money. It is the reason the results are better.
+			Truth 3: We price to exclude, on purpose.
+				Alpha Hour is not democratizing education and will not pretend to. The price is a filter. It is set high enough to select families who can later sign a $65,000 tuition contract, because those are the families the program exists to find. Price it lower and you fill the room with families who will never convert and drown the guides in low-value seats. The exclusivity is not a regrettable side effect of a premium price. It is the entire job of the price.
+			Truth 4: This is a real-estate business that happens to teach children.
+				The asset is the building. Alpha already controls it, owned or leased, and it sits dark from late afternoon. Alpha Hour is the arbitrage that monetizes the idle hours, and every decision should be judged on yield per campus-evening. The academics have to be genuinely excellent, but they are the product we sell, not the reason the business exists. The reason is that empty premium real estate in the country's richest zip codes is the most underused asset Alpha holds, and we are the ones turning the lights back on.
+			Truth 5: Alpha Hour is bait, and we should say so out loud, at least to ourselves.
+				Dressed as an after-school program, it is a customer-acquisition weapon pointed at families who are currently enrolled somewhere else. Its most valuable output is not the tuition it collects, it is the families it peels off competing schools and hands to full Alpha, each worth up to $325,000 across their years. Treating it as "just enrichment" would waste it. Build the conversion handoff as if the whole point depends on it, because it does.
+			Truth 6: Adult help is noise. The best thing a grown-up can do for a child's academics is get out of the way.
+				Parents, tutors, and teachers all believe their involvement is the value. Inside a mastery loop it is interference. Every time an adult explains the answer, rescues the child, or sets the pace, they break the feedback loop the software runs on and train dependence instead of mastery. The guide's real skill is restraint: hold effort and motivation, and refuse to teach. We are selling parents a program whose core discipline is that no adult, including them, gets to interrupt the algorithm.
+			Truth 7: Grades, homework, and the 180-day calendar are administrative fictions, and we bill against all three.
+				One room holds a kindergartner and a seventh grader on the same platform and neither slows the other, which means grade-level cohorts were never about learning. There is no homework, because the hour is the work. The year is five seven-week sessions a family buys one at a time, because a child should be able to purchase exactly as much acceleration as they want. Every convention of school we throw out turns out to have been about running the institution, not teaching the child.
+			Truth 8: There is no ceiling, because the constraint is buildings and no one builds them faster than Alpha.
+				Every full-capacity number is a floor. The entire network at capacity still captures under 1 percent of the premium families in the metros Alpha already sits in. Alpha Hour is not fighting for share in a mature market, it is limited only by how many campuses exist, and that count climbs about 20 a year. The company that wins this is whoever already owns the most buildings in the most expensive neighborhoods in America. That is Alpha, so the runway is the map of the country.
+		Myths
+			Myth 1: After-school should be affordable.
+				Affordable is a race to the bottom that signals low value and attracts families who will argue over $200 a month. We win by being the single most expensive option in the after-school market, because in premium education the price is read as proof. The goal is not to be within everyone's reach. It is to be the program every other program gets measured against and cannot match.
+			Myth 2: Parents are buying their child's happiness.
+				At this price parents buy certainty, not smiles. They will tolerate a demanding, two-evenings-a-week program for as long as the mastery data climbs, and they will abandon a fun one the moment it stops producing. Enjoyment matters only because an engaged child produces results faster. Sell the proof, not the fun, and never confuse the two.
+			Myth 3: A good trial lowers the barrier to entry.
+				Free, easy trials attract tire-kickers who never buy. Alpha Hour is the highest-commitment trial in education, five figures and two evenings a week for weeks on end, and that is precisely why it converts. The size of the commitment is the qualifier. A family willing to do this has already told you they will do full Alpha.
+			Myth 4: Teaching two subjects at once needs two specialists.
+				One non-teacher runs Math and Reading for a room of mixed grades at the same time, because subject expertise in the adult is irrelevant when the platform holds all of it. The specialist model is not rigor, it is overhead that competitors are trapped paying and passing on to parents. We deleted the specialist and kept the outcome.
+			Myth 5: You cannot charge Fusion prices without Fusion's one-to-one staffing.
+				We charge premium prices at one guide per ten students, because the personalization lives in the software, not in the ratio. Fusion's 1:1 model is not a quality advantage, it is a cost structure that caps how large and how profitable it can ever become. We took the personalization and left their cost behind.
+			Myth 6: An empty school building is a cost to manage.
+				An empty premium school building after 5:00 pm is the most valuable idle asset Alpha controls, owned or leased, and every school in the country that lets its buildings go dark is setting money on fire for no reason. The building is already paid for. The only real question is whether you are operator enough to run a second, higher-margin business inside it while the competition goes home.
+	Insights
+		Insight 1: The unit of the business is the campus-evening, not the student.
+			Facility, coordinator, and security costs are per-evening and fixed. Software and guide costs are per-student and variable. Profit comes from loading as many students as safely possible onto each fixed campus-evening, which is why two blocks and full sites matter more than squeezing price.
+		Insight 2: Price against Fusion and Lindamood-Bell, never against Kumon.
+			Anchoring the family's comparison determines whether $3,200 a session reads as expensive or as a bargain. Framed against a Fusion course term, a Lindamood-Bell intensive, and one-third-of-Alpha for the full year, it reads as obvious value. Marketing controls the anchor.
+		Insight 3: Blend the guide role across day and evening to make it hireable.
+			A 16-hour evening-only job has chronic turnover. A daytime-plus-evening role at $50,000 to $85,000 is a real career, attracts stronger people, and shares the guide's cost with the campus. The staffing model is the hidden make-or-break of a nationwide rollout.
+		Insight 4: Design as instruction, not care, from day one.
+			Whether the state calls an evening program childcare or exempt instruction decides the entire regulatory burden. Structuring it as a class with a curriculum, avoiding meals where they trigger licensing, and signing a formal host-campus agreement keeps the program exempt in most states.
+		Insight 5: Build the conversion handoff on purpose, or the feeder does not fire.
+			Camp-to-school research is clear: conversion only happens when the school builds an intentional enrollment process. Alpha Hour must end every family's experience with a structured conversation, using the child's own Timeback data as the evidence, or the largest source of value goes uncollected.
+		Insight 6: The standalone business and the feeder are two separate wins, and both are real.
+			Alpha Hour is a profitable, standalone after-school business on its own numbers, before counting a single conversion. Present it that way first, so it never depends on the feeder to justify itself. Then show the feeder on top as the strategic multiplier. Two independent reasons to say yes are stronger than one.
+	Knowledge Tree
+		Category 1: How non-school learning environments drive academic gains
+			Summary: Mastery pedagogy, standardized pacing, and visible progress let after-school programs outperform classrooms, using process-driven personalization rather than teacher variation.
+			Kumon: Founded 1954. Worksheet-based mastery, non-certified staff, 25,000+ centers, $150 to $220 per subject per month. Personalization lives in the process, not the content.
+			Mathnasium: Founded 2002. Trained non-teacher instructors, fixed method, math only, $250 to $500 per month.
+			Alpha / Timeback: Founded 2014. Core academics on an adaptive AI platform in about two hours a day; guides, not teachers; rebranded from 2 Hour Learning to Timeback in November 2025. Alpha's 2x to 2.6x speed and top 1-2% MAP claims are internally measured, not independently audited.
+			Fusion Academy: One-to-one private school, $8,000 to $17,000 per course per year. Proves premium willingness to pay for personalized academics.
+			Insights: Mastery scales when the system, not the teacher, carries instruction. Parents validate trust through visible, routine progress. Premium after-school is about quality of result, not quantity of hours.
+		Category 2: After-school business models and the feeder
+			Summary: After-school programs scale through standardization, real-estate leverage, and, for a school-owned program, conversion to full enrollment.
+			Market size: US tutoring $18.9B, growing ~11%/yr; after-school $21.0B with 22.6M children unable to get a spot; ~36M K-8 students; parent willingness to pay ~$357/month.
+			Huntington: Founded 1977. Diagnostic-driven, multi-subject, $40 to $75 per hour. Assessment builds trust and justifies price.
+			Premium pricing precedent: Command Education $120,000+; Lindamood-Bell $10,000+ for six weeks; Fusion $60,000+ full-time. All price against outcome value, not hours.
+			Feeder economics: Paid, high-engagement trials convert at 25%+ in education; one enrollment is worth $100,000+ in lifetime tuition; private-school marketing costs $3,700 to $5,800 per enrolled student. Alpha Hour inverts this because the prospect pays during consideration.
+			Insights: Standardization plus assessment builds scalable trust. Real estate already controlled is the margin. For a school-owned program, the feeder is the largest source of value, and it only fires with an intentional handoff.
+	Business Model and Operations
+		The program
+			The accelerated Alpha experience in one focused hour, two evenings a week. Both subjects (Math and Reading/Writing) every hour, mandatory, no single-subject option. Blocks are mixed K-8 because the platform individualizes every child's work.
+			The software (Timeback) delivers instruction and adapts to each child; guides manage focus, effort, and motivation, and do not teach.
+		Schedule and tracks
+			Runs Monday through Thursday. Each family picks a two-night track: Monday and Wednesday, or Tuesday and Thursday. A student does not come all four nights.
+			4:45 pm: guides set up.
+			Block 1: 5:00 to 6:00 pm.
+			6:00 to 6:15 pm: staggered pickup and drop-off.
+			Block 2: 6:15 to 7:15 pm.
+			Four cohorts per campus: Monday/Wednesday early, Monday/Wednesday late, Tuesday/Thursday early, Tuesday/Thursday late. The same room and guide team serve all four.
+		Capacity
+			Room capacity is the seats filled at one time, set per campus.
+			Enrolled per campus = room capacity x 2 time blocks x 2 weekly tracks = room capacity x 4. A 100-seat room enrolls 400.
+			The operating goal is to fill every cohort to capacity.
+		Enrollment
+			Five sessions a year, each about seven weeks (about 35 program weeks).
+			Families sign up one session at a time, choosing a two-night track, with a one-session minimum. They re-enroll session to session.
+			One session at a time lowers the barrier to trying Alpha and cycles far more distinct families through each seat than an annual plan.
+		Real estate
+			The building is a sunk cost Alpha already carries, whether it owns the campus or leases it, with after-hours access either way. Evening use adds only marginal cost.
+			Marginal evening cost about $150 to $250 per evening (custodial, HVAC and lighting, security). Because the host is an Alpha campus, the facility fee is largely intracompany.
+		Team
+			Head of Alpha Hour (Nancy Wisniewski Torvund): $400,000. Owns strategy, pricing, national rollout, campus relationships, conversion targets, and the full P&L.
+			Operations and Admin Manager: $110,000 to $130,000. Enrollment, billing, host-campus contracts, compliance, insurance, payroll, reporting.
+			Campus Coordinator: $75,000 to $95,000. Launches sites, trains guides, runs quality, owns the parent experience. One, then more as sites grow.
+			Site guides: $22 to $45 per hour by metro. Dedicated to Alpha Hour; can also cover Alpha campus afternoon shifts for a blended full-time role of $50,000 to $85,000.
+			Site lead / lead guide: $30 to $55 per hour. Runs the evening, owns dismissal safety.
+			Staffing: about 1 guide per 10 students, two-adult minimum, extra attention to the youngest. Guides scale with the room, not the cohort count, so the same team serves all four cohorts.
+		Compliance
+			Design and market as academic instruction, not childcare, to qualify for state exemptions. Avoid meals where they trigger licensing (Florida especially). Sign a formal host-campus facility-use agreement. Get a written exemption determination per state before opening.
+			Background checks on every hire: fingerprint criminal check, national sex offender registry, state child-abuse registry. Two adults on site at all times.
+			Insurance: general liability, professional liability, workers' compensation, and sexual abuse and molestation coverage (excluded from most general liability policies, must be added).
+	Pricing
+		Per session, both subjects always included, priced on value not hours.
+		Standard markets: $2,500 per session, $12,500 per year. Premium markets: $3,200 per session, $16,000 per year.
+		The East Coast pilot prices every campus at the premium tier ($3,200). The standard tier is a flex option for lower-tuition national metros.
+		A single session is more than three times the priciest mainstream competitor for the same span. The full year is about one third of full Alpha tuition ($40,000 to $75,000). Per hour it sits inside the elite 1:1 tutoring range; we quote the session and full-year numbers, not the hour.
+	Financials
+		Unit economics per campus
+			Revenue = enrolled x price per session x 5 sessions. Enrolled = room capacity x 4.
+			Per-student cost: Timeback about $150 per session, supplies and rewards about $30 per session, payment processing 3 percent, local marketing about $300 per year.
+			Per-campus fixed cost: guides (scale with room capacity, same team all four cohorts), facility about $35,000 a year, insurance about $8,000.
+			Margin about 85 percent, because four cohorts run through each room while guide and facility cost stay fixed, and the software is Alpha's own.
+		East Coast pilot at full capacity (six campuses)
+			Alpha New York: room 100, enrolled 400, revenue $6.40M, site profit $5.46M.
+			Boston campus B: room 100, enrolled 400, revenue $6.40M, site profit $5.48M.
+			Greenwich (Armonk): room 80, enrolled 320, revenue $5.12M, site profit $4.37M.
+			Palm Beach: room 60, enrolled 240, revenue $3.84M, site profit $3.29M.
+			Miami Beach: room 50, enrolled 200, revenue $3.20M, site profit $2.73M.
+			Boston campus A: room 40, enrolled 160, revenue $2.56M, site profit $2.16M.
+			Total: 1,720 enrolled, $27.5M revenue, $23.5M site profit (about 85 percent margin).
+			Less central team, net about $22.7M. Feeder pipeline $40M to $60M in future Alpha tuition.
+			At a realistic 50 percent first-year fill, the pilot still nets about $11.7M in site profit.
+		Three-year ramp (partial fill)
+			Year 1 (2026-27): 6 sites, about $14M revenue, about $11M net, about $25M feeder.
+			Year 2 (2027-28): 24 sites, about $50M revenue, about $40M net, about $60M feeder.
+			Year 3 (2028-29): 40 sites, about $100M revenue, about $80M net, about $130M feeder.
+		Full national build-out at capacity (40 campuses)
+			Capacity per block: Austin 300, Chicago 300, Miami 150, East Coast pilot campuses as set, all others a conservative 50. Enrolled = room capacity x 4.
+			10,920 enrolled, $174.7M revenue, about $149M site profit, about $146M net, feeder pipeline $225M to $340M.
+			Austin and Chicago each: 1,200 enrolled, $19.2M revenue.
+		Market size
+			TAM about $70B a year: US K-8 students in households that can afford premium academics (about 4.4M, top 12 percent by income) at $16,000.
+			SAM about $28B a year: the roughly 1.75M of those in metros where Alpha operates.
+			SOM today about $175M a year: the full 40-campus network at capacity, about 0.6 percent of SAM. There is no ceiling; the constraint is buildings, and Alpha adds about 20 a year.
+		The feeder
+			One conversion to full Alpha is worth $160,000 to $325,000 in lifetime tuition.
+			Defensible conversion 8 to 12 percent. The program is profitable even at zero conversions, so the effective acquisition cost per full enrollment is negative.
+	Rollout
+		Phase 1 (Fall 2026): East Coast premium pilot. Five premium markets, six campuses: Alpha New York, Boston (two sites), Greenwich (Armonk), Palm Beach, Miami Beach. Prove the model, the conversion rate, and the playbook.
+		Phase 2 (January 2027): National expansion, opening at the start of the third session, rolling the playbook across the country.
+		Phase 3 (2027 into 2028): Full network, about 40 campuses and growing with every new campus Alpha opens.
+		Why these campuses
+			Demand is already evidenced: Alpha runs its ultra-high-net-worth admissions events in exactly these five markets.
+			Highest-value campuses in the network: full Alpha tuition $60,000 to $75,000, so premium pricing holds and each conversion is worth the most.
+			Dense ultra-high-net-worth wealth in tight social networks where the program spreads by referral.
+			Nancy's base: she moves into this role from admissions leadership at Alpha New York, bringing family relationships across a tight Northeast corridor one coordinator can cover.
