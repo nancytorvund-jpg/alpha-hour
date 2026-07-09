@@ -8,7 +8,7 @@ Nancy Wisniewski Torvund, proposed Head of Alpha Hour.
 ## Purpose
 
 ### Primary purpose
-Design and run Alpha Hour: a premium after-school program that delivers the accelerated Alpha experience in one hour on Timeback to K-8 students who do not attend Alpha. It runs Monday through Thursday from 5:00 pm inside existing Alpha campuses, covers both subjects (Math and Reading/Writing) every hour, and enrolls families one seven-week session at a time, five sessions a year.
+Design and run Alpha Hour: a premium after-school program that delivers the accelerated Alpha experience in one hour on Timeback to K-8 students who do not attend Alpha. It runs Monday through Thursday from 5:00 pm inside existing Alpha campuses, but each family attends a two-night track, Monday and Wednesday or Tuesday and Thursday. It covers both subjects (Math and Reading/Writing) every hour, and enrolls families one seven-week session at a time, five sessions a year.
 
 The program exists to do three things at once:
 1. **Generate profit** from a premium after-school offering priced above every competitor.
@@ -112,16 +112,16 @@ An empty premium school building after 5:00 pm is the most valuable idle asset A
 ## Insights (DOK3)
 
 **Insight 1: The unit of the business is the campus-evening, not the student.**
-Facility, coordinator, and security costs are per-evening and fixed. Software and guide costs are per-student and variable. Profit comes from loading as many students as safely possible onto each fixed campus-evening, which is why two blocks and full sites matter more than squeezing price.
+Facility, coordinator, and security costs are per-evening and fixed. Software and guide costs are per-student and variable. Profit comes from loading as many students as safely possible onto each fixed campus-evening, which is why filling all four cohorts matters more than squeezing price.
 
 **Insight 2: Price against Fusion and Lindamood-Bell, never against Kumon.**
 Anchoring the family's comparison determines whether $3,200 a session reads as expensive or as a bargain. Framed against Kumon it looks like far too much. Framed against a Fusion course term, a Lindamood-Bell intensive, and one-third-of-Alpha for the full year, it reads as obvious value. Marketing controls the anchor.
 
 **Insight 3: Blend the guide role across day and evening to make it hireable.**
-A 16-hour evening-only job has chronic turnover. A daytime-plus-evening role at $50,000 to $85,000 is a real career, attracts stronger people, and shares the guide's cost with the campus. The staffing model is the hidden make-or-break of a nationwide rollout.
+An 11-hour evening-only job has chronic turnover. A daytime-plus-evening role at $50,000 to $85,000 is a real career, attracts stronger people, and shares the guide's cost with the campus. The staffing model is the hidden make-or-break of a nationwide rollout.
 
 **Insight 4: Design as instruction, not care, from day one.**
-Whether the state calls a 5:00 to 8:00 pm program childcare or exempt instruction decides the entire regulatory burden. Structuring it as a class with a curriculum, avoiding meals where they trigger licensing, and signing a formal host-campus agreement keeps the program exempt in most states. This is a design decision, not a compliance afterthought.
+Whether the state calls an evening program childcare or exempt instruction decides the entire regulatory burden. Structuring it as a class with a curriculum, avoiding meals where they trigger licensing, and signing a formal host-campus agreement keeps the program exempt in most states. This is a design decision, not a compliance afterthought.
 
 **Insight 5: Build the conversion handoff on purpose, or the feeder does not fire.**
 Research on camp-to-school feeders is clear: conversion only happens when the school builds an intentional enrollment process. Alpha Hour must end every family's experience with a structured conversation, using the child's own Timeback data as the evidence, or the largest source of value goes uncollected.
