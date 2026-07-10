@@ -6,7 +6,7 @@ A premium after-school program that runs the Alpha academic model on Timeback in
 
 ## The model in one paragraph
 
-The full Alpha academic day, after school. Both subjects (Math and Reading/Writing), mixed K-8, four hours a week on Timeback. Each family picks a two-night track, Monday/Wednesday or Tuesday/Thursday from 5:00 to 7:00 pm, or a single four-hour Saturday block, morning or afternoon. Four cohorts share every room, so a campus enrolls four times its seat count. Families enroll one seven-week session at a time; there are five sessions a year. Priced above every competitor at $4,500 per session in premium markets, about a third of full Alpha tuition.
+The complete Alpha day, after school: mastery academics on Timeback plus a life skills workshop, mixed K-8. Each family picks a two-night track, Monday/Wednesday or Tuesday/Thursday from 5:00 to 7:00 pm, or a single four-hour Saturday block, morning or afternoon; every track gets 100 minutes of academics and 80 minutes of life skills a week. Four cohorts share every room, so a campus enrolls four times its seat count. Families enroll one seven-week session at a time; there are five sessions a year. Priced above every competitor at $4,500 per session in premium markets, about a third of full Alpha tuition.
 
 ## Headline numbers
 

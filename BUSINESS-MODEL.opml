@@ -4,9 +4,9 @@
 <body>
 <outline text="Business Model and Operations">
 <outline text="The program">
-<outline text="Alpha Hours delivers the full Alpha academic day, after school, in two-hour sittings. Both subjects (Math and Reading/Writing) every sitting, mandatory, no single-subject option. Sittings are mixed K-8 because the platform individualizes every child's work. A family gets four hours a week: two weekday evenings of two hours each, or one four-hour Saturday block, morning or afternoon.">
+<outline text="An Alpha day runs on two things: mastery academics on Timeback and life skills workshops. Alpha Hours compresses that whole day into each sitting. A weekday sitting is two hours: a ten-minute Limitless launch, two 25-minute academic sessions on Timeback (one Math, one Reading/Writing) with a short break between, a 40-minute life skills workshop, and ten minutes of shoutouts. The Saturday block runs the same day at double length: four 25-minute academic sessions, an 80-minute workshop, and a snack break in the middle. Either way the child gets the same week: 100 minutes of focused, adaptive mastery academics and 80 minutes of life skills. Sittings are mixed K-8 because the platform individualizes every child's work. A family gets four hours a week: two weekday evenings of two hours each, or one four-hour Saturday block, morning or afternoon.">
 </outline>
-<outline text="The software (Timeback) delivers instruction and adapts to each child; guides manage focus, effort, and motivation, and do not teach.">
+<outline text="The software delivers the instruction and adapts to each child. Guides do not teach academics; they hold focus, effort, and motivation, and they lead the life skills workshop and the launch and shoutout rituals.">
 </outline>
 </outline>
 <outline text="Schedule and tracks">
@@ -29,6 +29,46 @@
 <outline text="Saturday reset: 6:00 to 6:15 pm.">
 </outline>
 <outline text="Every campus runs four cohorts a week: Monday/Wednesday, Tuesday/Thursday, Saturday morning, and Saturday afternoon. The same room and the same guide team serve all four, and every cohort gets the same four weekly hours.">
+</outline>
+<outline text="Weekday block rundown (inside the two hours, total 120 minutes)">
+<outline text="Limitless launch: 10 minutes">
+</outline>
+<outline text="Academic session 1 (Timeback, Math): 25 minutes">
+</outline>
+<outline text="Break: 5 minutes">
+</outline>
+<outline text="Academic session 2 (Timeback, Reading/Writing): 25 minutes">
+</outline>
+<outline text="Transition: 5 minutes">
+</outline>
+<outline text="Life skills workshop: 40 minutes">
+</outline>
+<outline text="Shoutouts: 10 minutes">
+</outline>
+</outline>
+<outline text="Saturday block rundown (inside the four hours, total 240 minutes; four academic sessions, two Math and two Reading/Writing; snacks only, no meals)">
+<outline text="Limitless launch: 10 minutes">
+</outline>
+<outline text="Academic session 1 (Timeback): 25 minutes">
+</outline>
+<outline text="Break: 5 minutes">
+</outline>
+<outline text="Academic session 2 (Timeback): 25 minutes">
+</outline>
+<outline text="Break: 15 minutes">
+</outline>
+<outline text="Academic session 3 (Timeback): 25 minutes">
+</outline>
+<outline text="Break: 5 minutes">
+</outline>
+<outline text="Academic session 4 (Timeback): 25 minutes">
+</outline>
+<outline text="Snack break: 15 minutes">
+</outline>
+<outline text="Life skills workshop: 80 minutes">
+</outline>
+<outline text="Shoutouts: 10 minutes">
+</outline>
 </outline>
 </outline>
 <outline text="Capacity">
@@ -76,7 +116,7 @@
 <outline text="Compliance">
 <outline text="Design and market as academic instruction, not childcare, to qualify for state exemptions. Avoid meals where they trigger licensing (Florida especially). Sign a formal host-campus facility-use agreement. Get a written exemption determination per state before opening.">
 </outline>
-<outline text="Every block is a curriculum-driven instructional period; the Saturday four-hour block is structured as two two-hour instructional periods with a supervised break, and no lunch is served. Flag the Saturday format specifically in each state's written exemption request.">
+<outline text="Every block is curriculum-driven instruction end to end: timed mastery-academics sessions on Timeback and a structured life skills workshop. Flag the Saturday format specifically in each state's written exemption request.">
 </outline>
 <outline text="Background checks on every hire: fingerprint criminal check, national sex offender registry, state child-abuse registry. Two adults on site at all times.">
 </outline>

@@ -22,11 +22,45 @@ Start market: grades K-8, at established Alpha campuses, scaling nationwide acro
 
 ## 2. The Program Model
 
-### The complete Alpha academic day, after school
+### The program model
 
-A normal Alpha day gives students about two hours of core academics on Timeback. Alpha Hours delivers that same two-hour academic day, after school. A family picks a two-night track, Monday/Wednesday or Tuesday/Thursday at 5:00 to 7:00 pm, or a single Saturday block of four hours, morning or afternoon. Either way the child gets four hours a week on the platform, the full Alpha academic dose, roughly half on Math and half on Reading/Writing, adjusting to wherever they need the time. The software delivers the instruction and adapts to each child. The guide manages focus, effort, and motivation. That is the whole model: the complete Alpha academic day, mastery-based, four hours a week.
+An Alpha day runs on two things: mastery academics on Timeback and life skills workshops. Alpha Hours compresses that whole day into each sitting. A weekday sitting is two hours: a ten-minute Limitless launch, two 25-minute academic sessions on Timeback (one Math, one Reading/Writing) with a short break between, a 40-minute life skills workshop, and ten minutes of shoutouts. The Saturday block runs the same day at double length: four 25-minute academic sessions, an 80-minute workshop, and a snack break in the middle. Either way the child gets the same week: 100 minutes of focused, adaptive mastery academics and 80 minutes of life skills. The software delivers the instruction and adapts to each child. The guide holds focus, effort, and motivation, and leads the workshop. That is the whole model: the complete Alpha day, academics and life skills, in one sitting.
 
-**Both subjects are mandatory.** There is no single-subject option. Alpha Hours is one product, the complete Alpha academic day, not a menu.
+**Both subjects are mandatory.** There is no single-subject option. Alpha Hours is one product, the complete Alpha day, not a menu.
+
+### Inside the block
+
+**Weekday sitting (120 minutes):**
+
+| Inside the two hours | Minutes |
+|---|---|
+| Limitless launch | 10 |
+| Academic session 1 (Timeback) | 25 |
+| Break | 5 |
+| Academic session 2 (Timeback) | 25 |
+| Transition | 5 |
+| Life skills workshop | 40 |
+| Shoutouts | 10 |
+
+The two academic sessions are one Math, one Reading/Writing.
+
+**Saturday block (240 minutes):**
+
+| Inside the four hours | Minutes |
+|---|---|
+| Limitless launch | 10 |
+| Academic session 1 (Timeback) | 25 |
+| Break | 5 |
+| Academic session 2 (Timeback) | 25 |
+| Break | 15 |
+| Academic session 3 (Timeback) | 25 |
+| Break | 5 |
+| Academic session 4 (Timeback) | 25 |
+| Snack break | 15 |
+| Life skills workshop | 80 |
+| Shoutouts | 10 |
+
+Four academic sessions: two Math, two Reading/Writing. Snacks only, no meals.
 
 ### Schedule and tracks
 
@@ -38,7 +72,7 @@ The host campus building is available to Alpha Hours weekday evenings and on Sat
 | Block | 5:00 to 7:00 pm |
 | Dismissal and reset | 7:00 to 7:15 pm |
 
-Saturday runs two four-hour blocks, morning and afternoon, each structured as two two-hour instructional periods with a supervised break:
+Saturday runs two four-hour blocks, morning and afternoon, each running the in-block rundown above at double length, with a snack break in the middle. No lunch is served:
 
 | | Time |
 |---|---|
@@ -64,7 +98,7 @@ Signing up one session at a time is deliberate. It lowers the barrier to trying 
 
 - **Throughput.** Two weekday tracks and two Saturday blocks let one room serve four cohorts, so a campus enrolls four times its seat count without four times the staff or facility cost, because only one cohort is in the room at a time. This is the core of the money machine.
 - **Real estate.** The space is a sunk cost Alpha already carries, whether it owns the campus or leases it, and it has after-hours access either way. Evening and Saturday use adds only marginal cost (utilities, cleaning, coverage).
-- **Guides do the right job.** Guides are not subject teachers. The platform teaches. Guides manage focus, effort, and motivation, which is what Alpha's own model relies on, so the training is short and the role is repeatable across sites.
+- **Guides do the right job.** Guides are not subject teachers; the platform teaches the academics. Guides hold focus, effort, and motivation, and they lead the life skills workshop and the launch and shoutout rituals, which is what Alpha's own model relies on, so the training is short and the role is repeatable across sites.
 
 ---
 
@@ -118,7 +152,7 @@ Assumptions are conservative and can be tightened or loosened: a stricter income
 
 ## 4. Pricing
 
-Alpha Hours is priced above every mainstream after-school competitor and positioned as a fraction of full Alpha tuition. Pricing is set on market value, not on the cost of the software. The anchor is the result (the complete Alpha academic day and measurable grade-level progress), not hours delivered.
+Alpha Hours is priced above every mainstream after-school competitor and positioned as a fraction of full Alpha tuition. Pricing is set on market value, not on the cost of the software. The anchor is the result (the complete Alpha day and measurable grade-level progress), not hours delivered.
 
 Families pay per session. Both subjects are always included.
 
@@ -152,7 +186,7 @@ Families pay per session. Both subjects are always included.
 
 | Role | Compensation basis | Notes |
 |---|---|---|
-| Guides | $22 to $32 per hour in standard metros; $30 to $45 in New York and similar | Dedicated Alpha Hours guides. Weekday evenings run about 2.5 hours (4:45 to 7:15 with setup and reset), four evenings a week, plus a roughly 10-hour Saturday, about 20 staff-hours a week. Guides can also work Alpha campus afternoon shifts. A blended daytime-plus-evening role is a real full-time job at roughly $50,000 to $85,000 depending on metro, which attracts stronger candidates and cuts turnover. |
+| Guides | $22 to $32 per hour in standard metros; $30 to $45 in New York and similar | Dedicated Alpha Hours guides. The platform teaches the academics; guides do not. Guides hold focus, effort, and motivation during Timeback sessions and lead the life skills workshop and the launch and shoutout rituals. Weekday evenings run about 2.5 hours (4:45 to 7:15 with setup and reset), four evenings a week, plus a roughly 10-hour Saturday, about 20 staff-hours a week. Guides can also work Alpha campus afternoon shifts. A blended daytime-plus-evening role is a real full-time job at roughly $50,000 to $85,000 depending on metro, which attracts stronger candidates and cuts turnover. |
 | Site lead / lead guide | $30 to $55 per hour, or a blended salary | The most experienced guide at a site runs the block, owns dismissal safety, and is the on-site point of contact. |
 
 ### Staffing ratios
@@ -314,7 +348,7 @@ The key question in every state is whether an evening or Saturday program counts
 - Structure and market it as academic instruction with a defined curriculum, not as after-school care.
 - Do not serve meals in states where meals trigger licensing (Florida in particular); snacks only.
 - Sign a formal written facility-use agreement with the host campus, which unlocks the school-site exemption in several states.
-- Request a written exemption determination from each state agency before opening, rather than self-declaring. Rules vary: New York (OCFS single-purpose instruction exemption), Texas (HHSC single-skill exemption form), Florida (school-site and instructional exemptions), and others each have a specific path. Every block is a curriculum-driven instructional period; the Saturday four-hour block is structured as two two-hour instructional periods with a supervised break, and no lunch is served. Flag the Saturday format specifically in each state's written exemption request.
+- Request a written exemption determination from each state agency before opening, rather than self-declaring. Rules vary: New York (OCFS single-purpose instruction exemption), Texas (HHSC single-skill exemption form), Florida (school-site and instructional exemptions), and others each have a specific path. Every block is curriculum-driven instruction end to end: timed mastery-academics sessions on Timeback and a structured life skills workshop. Flag the Saturday format specifically in each state's written exemption request.
 
 ### Safety and insurance
 

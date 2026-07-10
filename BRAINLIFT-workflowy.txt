@@ -3,7 +3,7 @@ BrainLift: Alpha Hours
 		Nancy Wisniewski Torvund, proposed Head of Alpha Hours
 	Purpose
 		Primary purpose
-			Design and run Alpha Hours: a premium after-school program that delivers the full Alpha academic day on Timeback to K-8 students who do not attend Alpha. Families attend four hours a week: a two-night track (Monday/Wednesday or Tuesday/Thursday, 5:00 to 7:00 pm) or a single four-hour Saturday block, all inside existing Alpha campuses. It covers both subjects (Math and Reading/Writing) every sitting, and enrolls families one seven-week session at a time, five sessions a year.
+			Design and run Alpha Hours: a premium after-school program that delivers the complete Alpha day, mastery academics on Timeback plus a life skills workshop, to K-8 students who do not attend Alpha. Families attend four hours a week: a two-night track (Monday/Wednesday or Tuesday/Thursday, 5:00 to 7:00 pm) or a single four-hour Saturday block, all inside existing Alpha campuses. Every sitting runs both subjects (Math and Reading/Writing) in 25-minute mastery sessions, ends with life skills and shoutouts, and families enroll one seven-week session at a time, five sessions a year.
 			The program exists to do three things at once
 				Generate profit from a premium after-school offering priced above every competitor.
 				Use real estate we already pay for, turning empty evening and weekend hours in Alpha buildings into revenue.
@@ -40,8 +40,8 @@ BrainLift: Alpha Hours
 			Why follow: Both price against the value of the outcome, not hours delivered. They are the template for Alpha Hours' pricing logic: anchor on the result, quote the annual number, keep the per-hour math for objections.
 	Spiky Points of View
 		Truths
-			Truth 1: Your child gets Alpha's entire academic day here, and it beats the six hours they sat through this morning.
-				Alpha's own data claims about 2x learning in roughly two hours a day. Alpha Hours does not sample that, it delivers the whole dose: the same two hours Alpha's own students run, either as two focused evenings or one Saturday sitting. Every family who pays for Alpha Hours is running an experiment that indicts the school they already write checks to. We do not really compete with Kumon. We compete with the six hours their child sat through earlier that day, and we win.
+			Truth 1: Fifty focused minutes here beat the six hours your child sat through this morning.
+				Alpha's own data claims about 2x learning from roughly two hours a day of mastery academics. Alpha Hours runs that same engine in 25-minute sessions: 100 minutes a week of pure, adaptive, nobody-waiting-on-the-class Timeback time, plus the life skills workshops Alpha built the rest of its day around. Every family who pays for Alpha Hours is running an experiment that indicts the school they already write checks to. We do not really compete with Kumon. We compete with the six hours their child sat through earlier that day, and we win.
 			Truth 2: Certified teachers are a downgrade, and removing them is the product, not a cost cut.
 				The industry sells "certified teacher" as the quality floor. In a mastery system it is the ceiling. A teacher paces the whole room to the middle, brings good days and bad days, and cannot personalize past a handful of kids. The software has none of those limits. So we hire non-teachers, pay them well, and forbid them from teaching. The absence of the teacher is not something we tolerate to save money. It is the reason the results are better.
 			Truth 3: We price to exclude, on purpose.
@@ -77,7 +77,7 @@ BrainLift: Alpha Hours
 		Insight 3: Blend the guide role across day and evening to make it hireable.
 			A 20-hour evenings-and-Saturday job has chronic turnover. A daytime-plus-evening role at $50,000 to $85,000 is a real career, attracts stronger people, and shares the guide's cost with the campus. The staffing model is the hidden make-or-break of a nationwide rollout.
 		Insight 4: Design as instruction, not care, from day one.
-			Whether the state calls an evening program childcare or exempt instruction decides the entire regulatory burden. Structuring it as a class with a curriculum, avoiding meals where they trigger licensing, and signing a formal host-campus agreement keeps the program exempt in most states. Every block is a curriculum-driven instructional period; the Saturday four-hour block is structured as two two-hour instructional periods with a supervised break, and no lunch is served. Flag the Saturday format specifically in each state's written exemption request.
+			Whether the state calls an evening program childcare or exempt instruction decides the entire regulatory burden. Structuring it as a class with a curriculum, avoiding meals where they trigger licensing, and signing a formal host-campus agreement keeps the program exempt in most states. Every block is curriculum-driven instruction end to end: timed mastery-academics sessions on Timeback and a structured life skills workshop. Flag the Saturday format specifically in each state's written exemption request.
 		Insight 5: Build the conversion handoff on purpose, or the feeder does not fire.
 			Camp-to-school research is clear: conversion only happens when the school builds an intentional enrollment process. Alpha Hours must end every family's experience with a structured conversation, using the child's own Timeback data as the evidence, or the largest source of value goes uncollected.
 		Insight 6: The standalone business and the feeder are two separate wins, and both are real.
@@ -99,19 +99,41 @@ BrainLift: Alpha Hours
 			Insights: Standardization plus assessment builds scalable trust. Real estate already controlled is the margin. For a school-owned program, the feeder is the largest source of value, and it only fires with an intentional handoff.
 	Business Model and Operations
 		The program
-			A normal Alpha day gives students about two hours of core academics on Timeback. Alpha Hours delivers that same two-hour academic day, after school. A family picks a two-night track, Monday/Wednesday or Tuesday/Thursday at 5:00 to 7:00 pm, or a single Saturday block of four hours, morning or afternoon. Either way the child gets four hours a week on the platform, the full Alpha academic dose, roughly half on Math and half on Reading/Writing, adjusting to wherever they need the time. The software delivers the instruction and adapts to each child. The guide manages focus, effort, and motivation. That is the whole model: the complete Alpha academic day, mastery-based, four hours a week.
+			An Alpha day runs on two things: mastery academics on Timeback and life skills workshops. Alpha Hours compresses that whole day into each sitting. A weekday sitting is two hours: a ten-minute Limitless launch, two 25-minute academic sessions on Timeback (one Math, one Reading/Writing) with a short break between, a 40-minute life skills workshop, and ten minutes of shoutouts. The Saturday block runs the same day at double length: four 25-minute academic sessions, an 80-minute workshop, and a snack break in the middle. Either way the child gets the same week: 100 minutes of focused, adaptive mastery academics and 80 minutes of life skills. The software delivers the instruction and adapts to each child. The guide holds focus, effort, and motivation, and leads the workshop. That is the whole model: the complete Alpha day, academics and life skills, in one sitting.
 		Schedule and tracks
 			Runs Monday through Thursday evenings and Saturday, inside existing Alpha campuses.
 			Weekday evening schedule
 				Setup: 4:45 to 5:00 pm (guides prepare, devices ready).
 				Block: 5:00 to 7:00 pm.
 				Dismissal and reset: 7:00 to 7:15 pm.
+			Weekday block rundown (inside the two hours)
+				Limitless launch: 10 minutes.
+				Academic session 1 (Timeback, Math): 25 minutes.
+				Break: 5 minutes.
+				Academic session 2 (Timeback, Reading/Writing): 25 minutes.
+				Transition: 5 minutes.
+				Life skills workshop: 40 minutes.
+				Shoutouts: 10 minutes.
+				Total 120 minutes.
 			Saturday schedule
 				Setup: 8:45 to 9:00 am.
 				AM block: 9:00 am to 1:00 pm.
 				Transition: 1:00 to 2:00 pm (staggered pickup and drop-off; no lunch served).
 				PM block: 2:00 to 6:00 pm.
 				Reset: 6:00 to 6:15 pm.
+			Saturday block rundown (inside the four hours)
+				Limitless launch: 10 minutes.
+				Academic session 1 (Timeback, Math): 25 minutes.
+				Break: 5 minutes.
+				Academic session 2 (Timeback, Reading/Writing): 25 minutes.
+				Break: 15 minutes.
+				Academic session 3 (Timeback, Math): 25 minutes.
+				Break: 5 minutes.
+				Academic session 4 (Timeback, Reading/Writing): 25 minutes.
+				Snack break: 15 minutes.
+				Life skills workshop: 80 minutes.
+				Shoutouts: 10 minutes.
+				Total 240 minutes. Four academic sessions: two Math, two Reading/Writing. Snacks only, no meals.
 			Every campus runs four cohorts a week: Monday/Wednesday, Tuesday/Thursday, Saturday morning, and Saturday afternoon. The same room and the same guide team serve all four, and every cohort gets the same four weekly hours.
 		Capacity
 			Room capacity is the seats filled at one time, set per campus.
@@ -132,7 +154,7 @@ BrainLift: Alpha Hours
 			Site lead / lead guide: $30 to $55 per hour. Runs the block, owns dismissal safety.
 			Staffing: about 1 guide per 10 students, two-adult minimum, extra attention to the youngest. Guides scale with the room, not the cohort count, so the same team serves all four cohorts.
 		Compliance
-			Design and market as academic instruction, not childcare, to qualify for state exemptions. Avoid meals where they trigger licensing (Florida especially). Sign a formal host-campus facility-use agreement. Get a written exemption determination per state before opening. Every block is a curriculum-driven instructional period; the Saturday four-hour block is structured as two two-hour instructional periods with a supervised break, and no lunch is served. Flag the Saturday format specifically in each state's written exemption request.
+			Design and market as academic instruction, not childcare, to qualify for state exemptions. Avoid meals where they trigger licensing (Florida especially). Sign a formal host-campus facility-use agreement. Get a written exemption determination per state before opening. Every block is curriculum-driven instruction end to end: timed mastery-academics sessions on Timeback and a structured life skills workshop. Flag the Saturday format specifically in each state's written exemption request.
 			Background checks on every hire: fingerprint criminal check, national sex offender registry, state child-abuse registry. Two adults on site at all times.
 			Insurance: general liability, professional liability, workers' compensation, and sexual abuse and molestation coverage (excluded from most general liability policies, must be added).
 	Pricing

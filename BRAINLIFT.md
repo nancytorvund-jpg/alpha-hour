@@ -8,7 +8,7 @@ Nancy Wisniewski Torvund, proposed Head of Alpha Hours.
 ## Purpose
 
 ### Primary purpose
-Design and run Alpha Hours: a premium after-school program that delivers the full Alpha academic day on Timeback to K-8 students who do not attend Alpha. Families attend four hours a week: a two-night track (Monday/Wednesday or Tuesday/Thursday, 5:00 to 7:00 pm) or a single four-hour Saturday block, all inside existing Alpha campuses. It covers both subjects (Math and Reading/Writing) every sitting, and enrolls families one seven-week session at a time, five sessions a year.
+Design and run Alpha Hours: a premium after-school program that delivers the complete Alpha day, mastery academics on Timeback plus a life skills workshop, to K-8 students who do not attend Alpha. Families attend four hours a week: a two-night track (Monday/Wednesday or Tuesday/Thursday, 5:00 to 7:00 pm) or a single four-hour Saturday block, all inside existing Alpha campuses. Every sitting runs both subjects (Math and Reading/Writing) in 25-minute mastery sessions, ends with life skills and shoutouts, and families enroll one seven-week session at a time, five sessions a year.
 
 The program exists to do three things at once:
 1. **Generate profit** from a premium after-school offering priced above every competitor.
@@ -63,8 +63,8 @@ Command Education charges $120,000 a year and up to $750,000 per package for col
 
 ### Truths
 
-**Truth 1: Your child gets Alpha's entire academic day here, and it beats the six hours they sat through this morning.**
-Alpha's own data claims about 2x learning in roughly two hours a day. Alpha Hours does not sample that, it delivers the whole dose: the same two hours Alpha's own students run, either as two focused evenings or one Saturday sitting. Every family who pays for Alpha Hours is running an experiment that indicts the school they already write checks to. We do not really compete with Kumon. We compete with the six hours their child sat through earlier that day, and we win.
+**Truth 1: Fifty focused minutes here beat the six hours your child sat through this morning.**
+Alpha's own data claims about 2x learning from roughly two hours a day of mastery academics. Alpha Hours runs that same engine in 25-minute sessions: 100 minutes a week of pure, adaptive, nobody-waiting-on-the-class Timeback time, plus the life skills workshops Alpha built the rest of its day around. Every family who pays for Alpha Hours is running an experiment that indicts the school they already write checks to. We do not really compete with Kumon. We compete with the six hours their child sat through earlier that day, and we win.
 
 **Truth 2: Certified teachers are a downgrade, and removing them is the product, not a cost cut.**
 The industry sells "certified teacher" as the quality floor. In a mastery system it is the ceiling. A teacher paces the whole room to the middle, brings good days and bad days, and cannot personalize past a handful of kids. The software has none of those limits. So we hire non-teachers, pay them well, and forbid them from teaching. The absence of the teacher is not something we tolerate to save money. It is the reason the results are better.
@@ -121,7 +121,7 @@ Anchoring the family's comparison determines whether $4,500 a session reads as e
 A 20-hour evenings-and-Saturday job has chronic turnover. A daytime-plus-evening role at $50,000 to $85,000 is a real career, attracts stronger people, and shares the guide's cost with the campus. The staffing model is the hidden make-or-break of a nationwide rollout.
 
 **Insight 4: Design as instruction, not care, from day one.**
-Whether the state calls an evening program childcare or exempt instruction decides the entire regulatory burden. Structuring it as a class with a curriculum, avoiding meals where they trigger licensing, and signing a formal host-campus agreement keeps the program exempt in most states. Every block is a curriculum-driven instructional period; the Saturday four-hour block is structured as two two-hour instructional periods with a supervised break, and no lunch is served. Flag the Saturday format specifically in each state's written exemption request.
+Whether the state calls an evening program childcare or exempt instruction decides the entire regulatory burden. Structuring it as a class with a curriculum, avoiding meals where they trigger licensing, and signing a formal host-campus agreement keeps the program exempt in most states. Every block is curriculum-driven instruction end to end: timed mastery-academics sessions on Timeback and a structured life skills workshop. Flag the Saturday format specifically in each state's written exemption request.
 
 **Insight 5: Build the conversion handoff on purpose, or the feeder does not fire.**
 Research on camp-to-school feeders is clear: conversion only happens when the school builds an intentional enrollment process. Alpha Hours must end every family's experience with a structured conversation, using the child's own Timeback data as the evidence, or the largest source of value goes uncollected.

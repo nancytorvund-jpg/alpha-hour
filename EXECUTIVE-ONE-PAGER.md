@@ -8,7 +8,7 @@ Prepared by Nancy Wisniewski Torvund, proposed Head of Alpha Hours. July 9, 2026
 
 ### The idea
 
-A normal Alpha day gives students about two hours of core academics on Timeback. Alpha Hours delivers that same two-hour academic day, after school. A family picks a two-night track, Monday/Wednesday or Tuesday/Thursday at 5:00 to 7:00 pm, or a single Saturday block of four hours, morning or afternoon. Either way the child gets four hours a week on the platform, the full Alpha academic dose, roughly half on Math and half on Reading/Writing, adjusting to wherever they need the time. The software delivers the instruction and adapts to each child. The guide manages focus, effort, and motivation. That is the whole model: the complete Alpha academic day, mastery-based, four hours a week.
+A normal Alpha day runs on two things: mastery academics on Timeback and a life skills workshop. Alpha Hours compresses that whole day into every sitting, after school. A family picks a two-night track, Monday/Wednesday or Tuesday/Thursday at 5:00 to 7:00 pm, or a single Saturday block of four hours, morning or afternoon. Either way the child gets the same week: 100 minutes of focused, adaptive mastery academics on Timeback and 80 minutes of life skills, both tracks identical. The software delivers the instruction and adapts to each child. The guide holds focus, effort, and motivation, and leads the workshop. That is the whole model: the complete Alpha day, academics and life skills, in one sitting.
 
 It does three things at once: **it makes money, it uses real estate we already pay for, and it feeds Alpha.**
 
@@ -16,7 +16,7 @@ It does three things at once: **it makes money, it uses real estate we already p
 
 ### How it runs
 
-- **A two-hour weekday block or a four-hour Saturday block, both subjects always included.** Families choose a two-night weekday track or a single Saturday sitting; no single-subject option.
+- **Each sitting is the whole Alpha day: a Limitless launch, 25-minute mastery sessions on Timeback (both subjects), a life skills workshop, and shoutouts.** Families choose a two-night weekday track (5:00 to 7:00 pm, two hours) or a single four-hour Saturday sitting; no single-subject option. Every track delivers the same weekly dose: 100 minutes of academics plus 80 minutes of life skills, both tracks identical.
 - **Every campus runs four cohorts a week: Monday/Wednesday, Tuesday/Thursday, Saturday morning, and Saturday afternoon.** The same room and the same guide team serve all four, and every cohort gets the same four weekly hours.
 - **Enrolled students per campus is four times the room capacity: two weekday tracks plus two Saturday blocks.** A 100-seat room at Alpha New York fills to 400 enrolled students. We staff one room and fill it four times. Filling every cohort is the goal.
 - **Five sessions a year, sign up one at a time.** Each session is about seven weeks. A one-session minimum lowers the barrier to trying Alpha, which widens the funnel and cycles more families through every seat.
