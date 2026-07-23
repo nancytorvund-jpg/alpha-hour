@@ -4,71 +4,89 @@
 <body>
 <outline text="Business Model and Operations">
 <outline text="The program">
-<outline text="An Alpha day runs on two things: mastery academics on Timeback and life skills workshops. Alpha Hours compresses that whole day into each sitting. A weekday sitting is two hours: a ten-minute Limitless launch, two 25-minute academic sessions on Timeback (one Math, one Reading/Writing) with a short break between, a 40-minute life skills workshop, and ten minutes of shoutouts. The Saturday block runs the same day at double length: four 25-minute academic sessions, an 80-minute workshop, and a snack break in the middle. Either way the child gets the same week: 100 minutes of focused, adaptive mastery academics and 80 minutes of life skills. Sittings are mixed K-8 because the platform individualizes every child's work. A family gets four hours a week: two weekday evenings of two hours each, or one four-hour Saturday block, morning or afternoon.">
+<outline text="An Alpha day runs primarily on two things: mastery-based academics on Timeback and life skills workshops. Alpha Hours compresses that whole day into one or two blocks. A weekday block is two hours, and requires a Monday/Wednesday or Tuesday/Thursday registration: a ten-minute Limitless launch, two 25-minute academic sessions on Timeback with a short break between, a 40-minute life skills workshop, and ten minutes of shoutouts. Each of the two Saturday blocks runs the same day at double length: four 25-minute academic sessions, an 80-minute workshop, and a snack break in the middle. Either way the child gets the same week: 100 minutes of focused, adaptive mastery academics and 80 minutes of life skills. Timeback delivers the instruction and adapts to each child. The guide holds focus, effort, and motivation, and leads the workshop.">
 </outline>
-<outline text="The software delivers the instruction and adapts to each child. Guides do not teach academics; they hold focus, effort, and motivation, and they lead the life skills workshop and the launch and shoutout rituals.">
+</outline>
+<outline text="Motivation and incentives">
+<outline text="The child has already been through six hours of regular school, and walks in tired at 4 pm, and needs a reason to give full effort. Alpha has this reason built into the model twice. First, Timeback's own promise: get through your academics with focus, and the rest of the block is an amazing life skills workshop, the part of the block built around things kids actually love. Second, the extrinsic motivational model: students earn the Alpha currency for XP earned in Timeback, and can purchase items in the Alpha Hours Emporium. Both keep the child working diligently and boost love of Alpha Hours.">
+</outline>
+</outline>
+<outline text="AlphaTest Showcase">
+<outline text="Every session ends with an AlphaTest Showcase in the final week. Students are tested on the life skills they have worked on across the session's workshops, and parents come to see it. It is how the life skills commitment gets measured instead of assumed, and it puts every parent in the building in the same week they receive their child's mastery map and weeks-to-grade-level report, which makes it the natural setting for the re-enrollment and full-Alpha conversation.">
 </outline>
 </outline>
 <outline text="Schedule and tracks">
-<outline text="Weekday track: Monday and Wednesday, or Tuesday and Thursday, 5:00 to 7:00 pm. A student does not come all four weekday nights.">
+<outline text="Runs Monday through Thursday afternoons and Saturday, inside existing Alpha campuses. The weekday block starts right where the Alpha school day ends, so the building never goes dark and every child is home for dinner.">
 </outline>
-<outline text="Weekday setup: 4:45 to 5:00 pm (guides prepare, devices ready).">
+<outline text="Weekday schedule (requires Monday/Wednesday or Tuesday/Thursday registration)">
+<outline text="Guide setup: 3:30 to 3:45 pm (guides prepare, devices ready).">
 </outline>
-<outline text="Weekday block: 5:00 to 7:00 pm.">
+<outline text="Drop-off: 3:45 to 4:00 pm. Current Alpha students transition directly on campus at the end of the school day.">
 </outline>
-<outline text="Weekday dismissal and reset: 7:00 to 7:15 pm.">
+<outline text="Block: 4:00 to 6:00 pm.">
 </outline>
-<outline text="Saturday setup: 8:45 to 9:00 am.">
+<outline text="Dismissal and clean up: 6:00 to 6:15 pm.">
 </outline>
-<outline text="Saturday AM block: 9:00 am to 1:00 pm.">
 </outline>
-<outline text="Saturday transition: 1:00 to 2:00 pm (staggered pickup and drop-off; no lunch served).">
+<outline text="Weekday block rundown (inside the two hours)">
+<outline text="Limitless launch: 10 minutes.">
 </outline>
-<outline text="Saturday PM block: 2:00 to 6:00 pm.">
+<outline text="Academic session 1 (Timeback): 25 minutes.">
 </outline>
-<outline text="Saturday reset: 6:00 to 6:15 pm.">
+<outline text="Break: 5 minutes.">
+</outline>
+<outline text="Academic session 2 (Timeback): 25 minutes.">
+</outline>
+<outline text="Transition: 5 minutes.">
+</outline>
+<outline text="Life skills workshop: 40 minutes.">
+</outline>
+<outline text="Shoutouts: 10 minutes.">
+</outline>
+<outline text="Total 120 minutes.">
+</outline>
+</outline>
+<outline text="Saturday schedule">
+<outline text="Setup: 8:45 to 9:00 am.">
+</outline>
+<outline text="AM block: 9:00 am to 1:00 pm.">
+</outline>
+<outline text="Transition: 1:00 to 2:00 pm (staggered pickup and drop-off; no lunch served).">
+</outline>
+<outline text="PM block: 2:00 to 6:00 pm.">
+</outline>
+<outline text="Clean up: 6:00 to 6:15 pm.">
+</outline>
+</outline>
+<outline text="Saturday block rundown (inside the four hours)">
+<outline text="Limitless launch: 10 minutes.">
+</outline>
+<outline text="Academic session 1 (Timeback): 25 minutes.">
+</outline>
+<outline text="Break: 5 minutes.">
+</outline>
+<outline text="Academic session 2 (Timeback): 25 minutes.">
+</outline>
+<outline text="Break: 15 minutes.">
+</outline>
+<outline text="Academic session 3 (Timeback): 25 minutes.">
+</outline>
+<outline text="Break: 5 minutes.">
+</outline>
+<outline text="Academic session 4 (Timeback): 25 minutes.">
+</outline>
+<outline text="Snack break: 15 minutes.">
+</outline>
+<outline text="Life skills workshop: 80 minutes.">
+</outline>
+<outline text="Shoutouts: 10 minutes.">
+</outline>
+<outline text="Total 240 minutes. Four academic sessions. Snacks only, no meals.">
+</outline>
 </outline>
 <outline text="Every campus runs four cohorts a week: Monday/Wednesday, Tuesday/Thursday, Saturday morning, and Saturday afternoon. The same room and the same guide team serve all four, and every cohort gets the same four weekly hours.">
 </outline>
-<outline text="Weekday block rundown (inside the two hours, total 120 minutes)">
-<outline text="Limitless launch: 10 minutes">
-</outline>
-<outline text="Academic session 1 (Timeback, Math): 25 minutes">
-</outline>
-<outline text="Break: 5 minutes">
-</outline>
-<outline text="Academic session 2 (Timeback, Reading/Writing): 25 minutes">
-</outline>
-<outline text="Transition: 5 minutes">
-</outline>
-<outline text="Life skills workshop: 40 minutes">
-</outline>
-<outline text="Shoutouts: 10 minutes">
-</outline>
-</outline>
-<outline text="Saturday block rundown (inside the four hours, total 240 minutes; four academic sessions, two Math and two Reading/Writing; snacks only, no meals)">
-<outline text="Limitless launch: 10 minutes">
-</outline>
-<outline text="Academic session 1 (Timeback): 25 minutes">
-</outline>
-<outline text="Break: 5 minutes">
-</outline>
-<outline text="Academic session 2 (Timeback): 25 minutes">
-</outline>
-<outline text="Break: 15 minutes">
-</outline>
-<outline text="Academic session 3 (Timeback): 25 minutes">
-</outline>
-<outline text="Break: 5 minutes">
-</outline>
-<outline text="Academic session 4 (Timeback): 25 minutes">
-</outline>
-<outline text="Snack break: 15 minutes">
-</outline>
-<outline text="Life skills workshop: 80 minutes">
-</outline>
-<outline text="Shoutouts: 10 minutes">
-</outline>
+<outline text="Middle and high school block (launches Fall 2027): weekdays 6:15 to 8:15 pm, Monday/Wednesday or Tuesday/Thursday, drop-off 6:00 to 6:15, dismissal 8:15 to 8:30. Same spine as the K-8 block: Limitless launch, two 25-minute academic sessions on Timeback, then Alpha Max and Alpha X programming fills the workshop slot, shoutouts to close. The block adds two cohorts per campus and lifts the enrolled ceiling from four times room capacity to six. Staffing runs as a second part-time guide rotation, sized per campus when the block launches.">
 </outline>
 </outline>
 <outline text="Capacity">
@@ -76,51 +94,65 @@
 </outline>
 <outline text="Enrolled students per campus is four times the room capacity: two weekday tracks plus two Saturday blocks. A 100-seat room fills to 400 enrolled students.">
 </outline>
+<outline text="From Fall 2027, the middle and high school block adds two more weekday cohorts, lifting the ceiling to six times room capacity.">
+</outline>
 <outline text="The operating goal is to fill every cohort to capacity.">
 </outline>
 </outline>
 <outline text="Enrollment">
 <outline text="Five sessions a year, each about seven weeks (about 35 program weeks).">
 </outline>
-<outline text="Families sign up one session at a time, choosing a two-night track, with a one-session minimum. They re-enroll session to session.">
+<outline text="Families sign up one session at a time, choosing a weekday track or a Saturday block, with a one-session minimum. They re-enroll session to session.">
+</outline>
+<outline text="Current Alpha students enroll on the same terms at the same session price with a 5 percent family discount.">
+</outline>
+<outline text="Prospective families enroll at the standard rate for any five sessions, consecutive or not, essentially a full program year. Continuing past five requires a completed Alpha application on file and the continuation rate: $6,500 per session in premium markets, $5,000 standard. No family is exited for staying; the seat reprices and the family enters the admissions funnel by definition.">
+</outline>
+<outline text="Where a cohort holds a waitlist, families with applications on file hold their seats and families without release them first. Current Alpha students are exempt.">
 </outline>
 <outline text="One session at a time lowers the barrier to trying Alpha and cycles far more distinct families through each seat than an annual plan.">
 </outline>
 </outline>
-<outline text="Pricing">
-<outline text="Session price: $4,500 premium markets, $3,500 standard markets. Full year (five sessions): $22,500 premium, $17,500 standard.">
-</outline>
-<outline text="Four to five times the priciest mainstream after-school competitor (about $875 for seven weeks). Roughly a third (30 to 40 percent) of full Alpha tuition for the year.">
-</outline>
-</outline>
 <outline text="Real estate">
-<outline text="The building is a sunk cost Alpha already carries, whether it owns the campus or leases it, with after-hours access either way. Evening and Saturday use adds only marginal cost.">
+<outline text="The building is a sunk cost Alpha already carries, whether it owns the campus or leases it, with after-hours and weekend access either way. Late-afternoon and Saturday use adds only marginal cost.">
 </outline>
-<outline text="Marginal cost is $150 to $250 per weekday evening, about $400 per Saturday (custodial, HVAC and lighting, security). Because the host is an Alpha campus, the facility fee is largely intracompany.">
+<outline text="Marginal cost about $150 to $250 per weekday, about $400 per Saturday (custodial, HVAC and lighting, security). Because the host is an Alpha campus, the facility fee is largely intracompany.">
 </outline>
 </outline>
 <outline text="Team">
-<outline text="Head of Alpha Hours (Nancy Wisniewski Torvund): $400,000. Owns strategy, pricing, national rollout, campus relationships, conversion targets, and the full P&amp;L.">
+<outline text="Head of Alpha Hours: $400,000. Owns strategy, pricing, national rollout, campus relationships, guide hiring and training, conversion targets, and the full P&amp;L.">
 </outline>
-<outline text="Operations and Admin Manager: $110,000 to $130,000. Enrollment, billing, host-campus contracts, compliance, insurance, payroll, reporting.">
+<outline text="Operations and Admin VP: $200,000. A remote role supporting every campus, and the Head's right hand: the Head owns strategy, growth, hiring, and the P&amp;L, the VP runs the machine underneath it. Runs registration end to end, executes compliance (state exemptions, background checks), places and maintains insurance per site, manages the host-campus facility-use agreement, procures centrally, and reports weekly to the Head: fill rate by cohort, attendance, re-enrollment, revenue, waitlist depth, and a consolidated per-site P&amp;L. Builds the launch checklist every new campus runs. One remote VP covers the full pilot.">
 </outline>
-<outline text="Campus Coordinator: $75,000 to $95,000. Launches sites, trains guides, runs quality, owns the parent experience. One, then more as sites grow.">
+<outline text="Campus Coordinator per campus: part-time, a 50 percent role at $50,000. Inventory, laptop set-up and student accounts, coordination between admin and guides. A strong candidate pool is public school teachers looking for work.">
 </outline>
-<outline text="Site guides: $22 to $45 per hour by metro. Dedicated to Alpha Hours; about 20 staff-hours a week across four evenings and Saturday. Can also cover Alpha campus afternoon shifts for a blended full-time role of $50,000 to $85,000.">
+<outline text="Dedicated Alpha Hours guides: part-time, working only for Alpha Hours, at $50,000 a year. Weekdays run about 2.75 hours (3:30 to 6:15 with setup and dismissal), four days a week, plus a roughly 10-hour Saturday, about 21 staff-hours a week. Every guide completes the Alpha Hours training program before running a room: shadowing at Alpha NYC and an AI-first asynchronous training course. Guides are hired for their experience with children and trained out of teaching; the core discipline of the role is restraint.">
 </outline>
-<outline text="Site lead / lead guide: $30 to $55 per hour. Runs the evening, owns dismissal safety.">
+<outline text="Lead Guide per campus: $75,000. Manages the guides, in charge of onboarding and overall programming. About 21 hours a week.">
 </outline>
-<outline text="Staffing: about 1 guide per 10 students, two-adult minimum, extra attention to the youngest. Guides scale with the room, not the cohort count, so the same team serves all four cohorts.">
+<outline text="Staffing: about 1 guide per 10 students, two-adult minimum, extra attention to the youngest. The same team serves all four cohorts.">
 </outline>
 </outline>
 <outline text="Compliance">
-<outline text="Design and market as academic instruction, not childcare, to qualify for state exemptions. Avoid meals where they trigger licensing (Florida especially). Sign a formal host-campus facility-use agreement. Get a written exemption determination per state before opening.">
+<outline text="Design and market as academic instruction, not childcare, to qualify for state exemptions. Avoid meals where they trigger licensing (Florida especially). Sign a formal host-campus facility-use agreement. Get a written exemption determination per state before opening. Every block is curriculum-driven instruction end to end: timed mastery-academics sessions on Timeback and a structured life skills workshop. Flag the Saturday format specifically in each state's written exemption request.">
 </outline>
-<outline text="Every block is curriculum-driven instruction end to end: timed mastery-academics sessions on Timeback and a structured life skills workshop. Flag the Saturday format specifically in each state's written exemption request.">
-</outline>
-<outline text="Background checks on every hire: fingerprint criminal check, national sex offender registry, state child-abuse registry. Two adults on site at all times.">
+<outline text="FBI background checks on every hire: fingerprint criminal check, national sex offender registry, state child-abuse registry. Minimum two adults on site at all times.">
 </outline>
 <outline text="Insurance: general liability, professional liability, workers' compensation, and sexual abuse and molestation coverage (excluded from most general liability policies, must be added).">
+</outline>
+</outline>
+<outline text="Pricing">
+<outline text="Per session, priced on value not hours. Standard markets: $3,500 per session, $17,500 per year. Premium markets: $4,500 per session, $22,500 per year.">
+</outline>
+<outline text="Current Alpha families: same session price with a 5 percent discount ($4,275 premium, $3,325 standard).">
+</outline>
+<outline text="Continuation rate past five sessions (Alpha application required): $6,500 premium, $5,000 standard.">
+</outline>
+<outline text="The pilot prices every campus at the premium tier ($4,500), Chicago included, matching the national capacity model.">
+</outline>
+<outline text="We sell a product and measurable academic outcomes, not hours. A session is four hours a week for seven weeks, about 28 hours. At $4,500 that is roughly $161 an hour, just under elite 1:1 tutors ($200 to $300), who cover one subject; we cover multiple, supervised, with the data to prove progress. A single session is four to five times the most expensive mainstream competitor for the same span. The full year is roughly a third (30 to 40 percent) of full Alpha tuition ($40,000 to $75,000). We quote the session and full-year numbers, not the hour.">
+</outline>
+<outline text="The price point is already market-tested: 174 paid Alpha Summer registrations at $4,500 per week, one price objection in 174 transactions.">
 </outline>
 </outline>
 </outline>
