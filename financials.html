@@ -1,0 +1,271 @@
+<title>Alpha Hours: Financials</title>
+<style>
+  :root {
+    --ground: #F6F7F9; --panel: #FFFFFF; --ink: #152036; --muted: #4E5769;
+    --faint: #8A93A3; --line: #E1E4EA; --accent: #9A6A22; --accent-soft: #F0E4CE;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --ground: #0D1524; --panel: #131E33; --ink: #E9ECF3; --muted: #AEB8C9;
+      --faint: #6E7A90; --line: #23314C; --accent: #E0A94E; --accent-soft: #22292E; }
+  }
+  :root[data-theme="light"] { --ground: #F6F7F9; --panel: #FFFFFF; --ink: #152036; --muted: #4E5769;
+    --faint: #8A93A3; --line: #E1E4EA; --accent: #9A6A22; --accent-soft: #F0E4CE; }
+  :root[data-theme="dark"] { --ground: #0D1524; --panel: #131E33; --ink: #E9ECF3; --muted: #AEB8C9;
+    --faint: #6E7A90; --line: #23314C; --accent: #E0A94E; --accent-soft: #22292E; }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--ground); color: var(--ink);
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    line-height: 1.62; -webkit-font-smoothing: antialiased; overflow-x: hidden;
+  }
+  .doc { max-width: 800px; margin: 0 auto; padding: clamp(28px,5vw,64px) clamp(18px,5vw,44px) 72px; }
+  .serif { font-family: Georgia, "Iowan Old Style", "Times New Roman", serif; }
+
+  .eyebrow { font-size: 12px; letter-spacing: 0.18em; text-transform: uppercase; color: var(--accent); font-weight: 600; margin: 0 0 12px; }
+  h1 { font-family: Georgia, serif; font-weight: 600; font-size: clamp(34px,6vw,52px); line-height: 1.05; letter-spacing: -0.015em; margin: 0 0 14px; }
+  .meta { font-size: 14px; color: var(--muted); padding-bottom: 20px; border-bottom: 1px solid var(--line); }
+  .meta strong { color: var(--ink); }
+
+  h2 { font-family: Georgia, serif; font-weight: 600; font-size: clamp(21px,3vw,27px); line-height: 1.2; margin: 50px 0 10px; padding-top: 24px; border-top: 1px solid var(--line); }
+  h3 { font-family: Georgia, serif; font-weight: 600; font-size: 18px; margin: 26px 0 6px; }
+  h4 { font-size: 15px; margin: 20px 0 4px; color: var(--accent); font-weight: 650; letter-spacing: 0.01em; }
+  p { margin: 0 0 13px; }
+  strong { font-weight: 650; }
+  ul { margin: 0 0 14px; padding-left: 20px; }
+  li { margin-bottom: 6px; }
+  .lead { color: var(--muted); }
+
+  .spov { background: var(--panel); border: 1px solid var(--line); border-left: 3px solid var(--accent); border-radius: 4px; padding: 16px 20px; margin: 0 0 14px; }
+  .spov .t { font-family: Georgia, serif; font-weight: 600; font-size: 16.5px; margin: 0 0 6px; color: var(--ink); }
+  .spov p { margin: 0; font-size: 14.5px; color: var(--muted); }
+  .exp { margin: 0 0 16px; }
+  .exp .name { font-weight: 650; }
+  .exp .why { color: var(--muted); font-size: 14.5px; }
+  .foot { margin-top: 44px; padding-top: 16px; border-top: 1px solid var(--line); font-size: 12.5px; color: var(--faint); }
+  table { width: 100%; border-collapse: collapse; margin: 6px 0 18px; font-size: 14px; }
+  .tbl { overflow-x: auto; margin: 0 0 6px; }
+  th, td { text-align: left; padding: 7px 10px; border-bottom: 1px solid var(--line); vertical-align: top; }
+  th { font-size: 12.5px; letter-spacing: 0.04em; text-transform: uppercase; color: var(--muted); font-weight: 650; }
+  td:nth-child(n+2):not(:last-child), th:nth-child(n+2):not(:last-child) { white-space: nowrap; }
+  tr.total td { font-weight: 650; }
+</style>
+
+<div class="doc">
+
+  <header>
+    <p class="eyebrow">Alpha Hours</p>
+    <h1>Financials</h1>
+    <p class="meta"><strong>Owner:</strong> Nancy Wisniewski Torvund &nbsp;&#183;&nbsp; August 26, 2026 revision</p>
+  </header>
+
+  <h2>Summary</h2>
+  <p>Alpha Hours launches in Session 2, October 19 to December 18, 2026, at six campuses in four markets: New York (180 Maiden Lane, 100 seats; 156 William Street, 30 seats), Greenwich (Armonk, 80), Boston (40 and 100), Chicago (94, stepping to 517 in January 2027). Every campus is priced at $4,500 per seven-week session, five sessions a year. Every figure in this document comes from one model, the same one behind the BrainLift, and the assumptions that Session 2 exists to replace are listed at the end.</p>
+  <div class="tbl"><table>
+    <thead><tr><th>Headline</th><th>Figure</th></tr></thead>
+    <tbody>
+      <tr><td>Launch capacity, Session 2</td><td>444 seats, 1,776 enrolled, $39.96M revenue run rate, $33.4M site profit</td></tr>
+      <tr><td>Expanded capacity, Session 3 onward</td><td>867 seats, 3,468 enrolled, $78.0M run rate, $66.2M site profit, about $65.3M net</td></tr>
+      <tr><td>Year 1 plan (Sessions 2 to 5, 60/75/90/100 percent fill)</td><td>$46.2M revenue, $38.9M site profit, $38.0M net</td></tr>
+      <tr><td>Year 1 capacity</td><td>$54.8M revenue, $45.5M net</td></tr>
+      <tr><td>Year 1 floor (25 percent fill all year)</td><td>$13.7M revenue, $10.1M net</td></tr>
+      <tr><td>One-time launch budget</td><td>About $440K, covered by Session 2 deposits</td></tr>
+      <tr><td>Break-even per campus</td><td>14 enrolled students, about 4 per cohort</td></tr>
+      <tr class="total"><td>Full network at capacity (about 40 campuses, K-8)</td><td>11,908 enrolled, $267.9M revenue, about $219M net</td></tr>
+      <tr><td>Year 3 (network, with evening block and break weeks)</td><td>About $356M revenue, about $290M net</td></tr>
+      <tr><td>Feeder at 8 percent conversion, expanded pilot base</td><td>277 full-Alpha enrollments, about $67M lifetime tuition</td></tr>
+    </tbody>
+  </table></div>
+
+  <h2>Assumptions</h2>
+  <p>Price. $4,500 per session in premium markets, $3,500 standard. Every pilot campus is premium. Current Alpha families pay 5 percent less ($4,275). From the sixth session a seat reprices to $5,000 ($4,000 standard) unless the family has an Alpha application on file. A cohort that closes a session with a waitlist reprices by $500 the next session. Break weeks are $4,500 a week. All figures below are at the year-one list price; the continuation rate, waitlist repricing, and the current-family discount are not modeled and net out to a small positive.</p>
+  <p>Capacity. Room capacity is seats filled at one time. Four cohorts share every room (Monday/Wednesday, Tuesday/Thursday, Saturday morning, Saturday afternoon), so enrolled = seats x 4. The middle and high school evening block adds two cohorts, enrolled = seats x 6, where it runs.</p>
+  <p>Calendar. Five seven-week sessions a year. Session 2: October 19 to December 18, 2026. Session 3: January 4 to February 19, 2027. Session 4: February 24 to April 16, 2027. Session 5: April 26 to June 18, 2027. Year 1 is Sessions 2 through 5, four sessions. Break weeks: April 19 to 23, 2027 in Year 1, two a year from Year 2.</p>
+  <p>Cost model. Per student per year $1,875: Timeback $150 a session, supplies and rewards $30 a session, payment processing 3 percent, local marketing $300. Guides: one per 10 seats, part-time at $50,000, hired to sold seats, the same guide serving all four cohorts. Per-campus fixed cost $178,000: Lead Guide $75,000, Campus Coordinator $50,000 (a 50 percent role), facility $45,000, insurance $8,000. William Street shares New York's coordinator, so its fixed cost is $128,000. Central team $700,000 base (Head $400,000, Operations and Admin VP $200,000, $100,000 operations support), about $875,000 fully loaded, charged in full against Year 1.</p>
+  <p>Devices. The building's own laptops are free after 3:30. A loaner pool covering 20 percent of seats is in the launch budget for campuses that run short.</p>
+
+  <h2>Unit economics</h2>
+  <h3>Per student</h3>
+  <div class="tbl"><table>
+    <thead><tr><th>Line</th><th>Per session</th><th>Per year (5 sessions)</th></tr></thead>
+    <tbody>
+      <tr><td>Session fee</td><td>$4,500</td><td>$22,500</td></tr>
+      <tr><td>Timeback</td><td>$150</td><td>$750</td></tr>
+      <tr><td>Supplies and rewards</td><td>$30</td><td>$150</td></tr>
+      <tr><td>Payment processing (3 percent)</td><td>$135</td><td>$675</td></tr>
+      <tr><td>Local marketing</td><td>$60</td><td>$300</td></tr>
+      <tr class="total"><td>Variable cost</td><td>$375</td><td>$1,875</td></tr>
+      <tr class="total"><td>Contribution before guides</td><td>$4,125</td><td>$20,625</td></tr>
+      <tr><td>Guide cost at even fill (one guide per 40 enrolled)</td><td>$250</td><td>$1,250</td></tr>
+      <tr class="total"><td>Contribution after guides</td><td>$3,875</td><td>$19,375</td></tr>
+    </tbody>
+  </table></div>
+  <p>At $4,500 a session and 28 program hours, the price is about $161 an hour, just under elite one-to-one tutors at $200 to $300, who cover one subject. A full year is roughly a third of full Alpha tuition.</p>
+  <h3>Per campus</h3>
+  <p>Revenue = seats x 4 x $4,500 x 5. Cost = enrolled x $1,875 + guides x $50,000 + fixed. Margin is about 81 percent at a 40-seat room and 86 percent at 517 seats, because the fixed team spreads over more revenue.</p>
+  <div class="tbl"><table>
+    <thead><tr><th>Campus</th><th>Seats</th><th>Enrolled</th><th>Guides</th><th>Revenue a year</th><th>Variable</th><th>Guides</th><th>Fixed</th><th>Site profit</th><th>Margin</th></tr></thead>
+    <tbody>
+      <tr><td>New York, 180 Maiden Lane</td><td>100</td><td>400</td><td>10</td><td>$9.00M</td><td>$0.75M</td><td>$0.50M</td><td>$0.18M</td><td>$7.57M</td><td>84%</td></tr>
+      <tr><td>New York, 156 William Street</td><td>30</td><td>120</td><td>3</td><td>$2.70M</td><td>$0.23M</td><td>$0.15M</td><td>$0.13M</td><td>$2.20M</td><td>81%</td></tr>
+      <tr><td>Greenwich (Armonk)</td><td>80</td><td>320</td><td>8</td><td>$7.20M</td><td>$0.60M</td><td>$0.40M</td><td>$0.18M</td><td>$6.02M</td><td>84%</td></tr>
+      <tr><td>Boston A</td><td>40</td><td>160</td><td>4</td><td>$3.60M</td><td>$0.30M</td><td>$0.20M</td><td>$0.18M</td><td>$2.92M</td><td>81%</td></tr>
+      <tr><td>Boston B</td><td>100</td><td>400</td><td>10</td><td>$9.00M</td><td>$0.75M</td><td>$0.50M</td><td>$0.18M</td><td>$7.57M</td><td>84%</td></tr>
+      <tr><td>Chicago, at launch</td><td>94</td><td>376</td><td>10</td><td>$8.46M</td><td>$0.71M</td><td>$0.50M</td><td>$0.18M</td><td>$7.08M</td><td>84%</td></tr>
+      <tr class="total"><td>Launch total, Session 2</td><td>444</td><td>1,776</td><td>45</td><td>$39.96M</td><td>$3.33M</td><td>$2.25M</td><td>$1.02M</td><td>$33.36M</td><td>83%</td></tr>
+      <tr><td>Chicago, from January 2027</td><td>517</td><td>2,068</td><td>52</td><td>$46.53M</td><td>$3.88M</td><td>$2.60M</td><td>$0.18M</td><td>$39.87M</td><td>86%</td></tr>
+      <tr class="total"><td>Expanded total, Session 3 onward</td><td>867</td><td>3,468</td><td>87</td><td>$78.03M</td><td>$6.50M</td><td>$4.35M</td><td>$1.02M</td><td>$66.16M</td><td>85%</td></tr>
+    </tbody>
+  </table></div>
+  <p>New York alone: 130 seats, 520 enrolled, $11.7M revenue, $9.8M site profit.</p>
+
+  <h2>Pilot P&amp;L by session, plan case</h2>
+  <p>The plan is the number the Head is held to: 60 percent fill at launch, 75 percent in Session 3, 90 percent in Session 4, full in Session 5. Guides are hired to sold seats, so guide cost moves with fill. Fixed cost does not. Central team is charged in full against the year.</p>
+  <div class="tbl"><table>
+    <thead><tr><th>Line</th><th>Session 2</th><th>Session 3</th><th>Session 4</th><th>Session 5</th><th>Year 1</th></tr></thead>
+    <tbody>
+      <tr><td>Fill</td><td>60%</td><td>75%</td><td>90%</td><td>100%</td><td></td></tr>
+      <tr><td>Enrolled</td><td>1,066</td><td>2,601</td><td>3,121</td><td>3,468</td><td></td></tr>
+      <tr><td>Revenue</td><td>$4.80M</td><td>$11.70M</td><td>$14.05M</td><td>$15.61M</td><td>$46.15M</td></tr>
+      <tr class="total"><td>Variable cost</td><td>$0.40M</td><td>$0.98M</td><td>$1.17M</td><td>$1.30M</td><td>$3.85M</td></tr>
+      <tr><td>Guides on payroll</td><td>28</td><td>67</td><td>80</td><td>87</td><td></td></tr>
+      <tr><td>Guide cost</td><td>$0.28M</td><td>$0.67M</td><td>$0.80M</td><td>$0.87M</td><td>$2.62M</td></tr>
+      <tr><td>Campus fixed cost</td><td>$0.20M</td><td>$0.20M</td><td>$0.20M</td><td>$0.20M</td><td>$0.81M</td></tr>
+      <tr class="total"><td>Site profit</td><td>$3.91M</td><td>$9.86M</td><td>$11.87M</td><td>$13.23M</td><td>$38.87M</td></tr>
+      <tr><td>Site margin</td><td>82%</td><td>84%</td><td>84%</td><td>85%</td><td>84%</td></tr>
+      <tr><td>Central team</td><td></td><td></td><td></td><td></td><td>$0.88M</td></tr>
+      <tr class="total"><td>Net</td><td></td><td></td><td></td><td></td><td>$38.0M</td></tr>
+    </tbody>
+  </table></div>
+
+  <h2>Year 1, three cases</h2>
+  <div class="tbl"><table>
+    <thead><tr><th>Case</th><th>Revenue</th><th>Site profit</th><th>Net after central team</th></tr></thead>
+    <tbody>
+      <tr><td>Capacity (100 percent every session)</td><td>$54.8M</td><td>$46.4M</td><td>$45.5M</td></tr>
+      <tr><td>Plan (60 / 75 / 90 / 100)</td><td>$46.2M</td><td>$38.9M</td><td>$38.0M</td></tr>
+      <tr><td>Floor (25 percent all year)</td><td>$13.7M</td><td>$10.9M</td><td>$10.1M</td></tr>
+    </tbody>
+  </table></div>
+  <p>Capacity revenue by session: $7.99M in Session 2, $15.61M in each of Sessions 3 to 5. The floor case is every cohort at 25 percent all year, roughly where the cohort floor would start closing cohorts, and it still nets $10M on six campuses.</p>
+
+  <h2>Year 1 additions</h2>
+  <div class="tbl"><table>
+    <thead><tr><th>Addition</th><th>When</th><th>Basis</th><th>Revenue at capacity</th><th>Inside Year 1</th></tr></thead>
+    <tbody>
+      <tr><td>Break week</td><td>April 19 to 23, 2027</td><td>867 seats x $4,500, one seat per child</td><td>$3.9M, about $3.5M profit</td><td>$3.9M</td></tr>
+      <tr><td>Evening block, Maiden Lane and Greenwich</td><td>Session 4, February 24, 2027</td><td>180 seats x 2 cohorts x $4,500 a session</td><td>$8.1M a year (360 enrolled)</td><td>$3.2M (two sessions)</td></tr>
+      <tr class="total"><td>Total additions</td><td></td><td></td><td></td><td>$7.1M at capacity</td></tr>
+    </tbody>
+  </table></div>
+  <p>Year 1 pilot with additions: about $62M revenue at capacity, about $52M at plan. From Year 2, two break weeks a year on the pilot footprint are $7.8M, and the evening block at every pilot campus lifts the ceiling by 1,734 enrolled and $39.0M.</p>
+
+  <h2>Revenue by lane</h2>
+  <p>Revenue per seat is the same in every lane. The lane changes tenure and what the family is worth beyond the session fee. The mix is a modeled assumption Session 2 replaces.</p>
+  <div class="tbl"><table>
+    <thead><tr><th>Lane</th><th>Share</th><th>Families at expanded capacity</th><th>Session revenue a year</th><th>Value beyond the session fee</th></tr></thead>
+    <tbody>
+      <tr><td>Stay (never enrolling)</td><td>50%</td><td>1,734</td><td>$39.0M</td><td>Three years at year-one then continuation rates: $72,500 a family, before break weeks</td></tr>
+      <tr><td>Considering</td><td>30%</td><td>1,040</td><td>$23.4M</td><td>Two sessions ($9,000) plus 10 percent conversion at $240,000 lifetime tuition: $33,000 expected, non-converters move to Stay</td></tr>
+      <tr><td>Path to yes</td><td>10%</td><td>347</td><td>$7.8M</td><td>Three sessions ($13,500) plus a modeled 20 percent admit rate at $240,000: $61,500 expected</td></tr>
+      <tr><td>Current Alpha families</td><td>10%</td><td>347</td><td>$7.4M (after 5 percent discount)</td><td>Retention of the family already paying full tuition</td></tr>
+    </tbody>
+  </table></div>
+
+  <h2>Central team and launch budget</h2>
+  <p>Central team, annual: Head of Alpha Hours $400,000, Operations and Admin VP $200,000 (remote), operations support $100,000, about $875,000 fully loaded. Every other role is inside campus fixed cost or hired to sold seats.</p>
+  <p>One-time launch budget, pre-Session 2:</p>
+  <div class="tbl"><table>
+    <thead><tr><th>Item</th><th>Basis</th><th>Cost</th></tr></thead>
+    <tbody>
+      <tr><td>Guide training cohort</td><td>45 guides and 6 Lead Guides, two paid weeks before launch at the part-time rate</td><td>$98K</td></tr>
+      <tr><td>State exemption filings and legal</td><td>New York, Connecticut, Massachusetts, Illinois</td><td>$60K</td></tr>
+      <tr><td>Launch marketing</td><td>$40K per market, four markets</td><td>$160K</td></tr>
+      <tr><td>Loaner device pool</td><td>20 percent of 444 seats at $600</td><td>$53K</td></tr>
+      <tr><td>Insurance deposits</td><td>Six sites</td><td>$24K</td></tr>
+      <tr><td>Emporium opening inventory</td><td>$25 a seat</td><td>$11K</td></tr>
+      <tr><td>Registration and payments stack</td><td>Stripe, HubSpot, roster tooling</td><td>$30K</td></tr>
+      <tr class="total"><td>Total</td><td></td><td>About $440K</td></tr>
+    </tbody>
+  </table></div>
+  <p>Session 2 deposits alone ($500 on 1,066 plan enrollments, $533K) cover it. The wave 2 and wave 3 launch budgets are sized the same way per campus, about $60K to $75K a site, and are paid from the sessions before them.</p>
+
+  <h2>Cash timing</h2>
+  <p>Enrollment closes before each session starts. The $500 deposit lands at sign-up and the balance is due before day one, so each session's revenue is collected before its costs are paid. Guides are paid across the seven weeks, Timeback is billed per session, fixed cost runs monthly. In the plan case Session 2 collects $4.8M before October 19 against about $0.9M of cost paid out through December 18. The program never needs working capital from the school, and every campus is cash-positive from its first session at anything above break-even.</p>
+
+  <h2>Downside, floors, and sensitivities</h2>
+  <p>Contribution per enrolled student is $20,625 a year. Minimum operating cost per campus (fixed plus the two-adult minimum) is about $278K, so break-even is 14 enrolled students per campus, about 4 per cohort, under 4 percent of full capacity at the largest sites. Guides are hired to sold seats, so site margin holds above 80 percent at every fill level above break-even, and the maximum downside at any site is seven weeks of payroll: no capex, no lease, part-time staff, one-session enrollment.</p>
+  <p>Two mechanical floors. Cohort floor: a cohort that has not sold 10 seats two weeks before session start (October 5, 2026 for Session 2) does not open, and its families roll into another cohort. Site floor: a campus below break-even at week 3 of Session 2 (the week of November 2) closes at session end.</p>
+  <h3>Fill sensitivity, expanded footprint, annual</h3>
+  <div class="tbl"><table>
+    <thead><tr><th>Fill</th><th>Enrolled</th><th>Revenue</th><th>Site profit</th><th>Net</th><th>Margin</th></tr></thead>
+    <tbody>
+      <tr><td>25%</td><td>867</td><td>$19.5M</td><td>$15.7M</td><td>$14.8M</td><td>81%</td></tr>
+      <tr><td>50%</td><td>1,734</td><td>$39.0M</td><td>$32.5M</td><td>$31.7M</td><td>83%</td></tr>
+      <tr><td>75%</td><td>2,601</td><td>$58.5M</td><td>$49.3M</td><td>$48.4M</td><td>84%</td></tr>
+      <tr><td>100%</td><td>3,468</td><td>$78.0M</td><td>$66.2M</td><td>$65.3M</td><td>85%</td></tr>
+    </tbody>
+  </table></div>
+  <h3>Price sensitivity, expanded footprint at capacity, annual</h3>
+  <div class="tbl"><table>
+    <thead><tr><th>Session price</th><th>Revenue</th><th>Site profit</th></tr></thead>
+    <tbody>
+      <tr><td>$3,500</td><td>$60.7M</td><td>$48.8M</td></tr>
+      <tr><td>$4,000</td><td>$69.4M</td><td>$57.5M</td></tr>
+      <tr><td>$4,500</td><td>$78.0M</td><td>$66.2M</td></tr>
+      <tr><td>$5,000</td><td>$86.7M</td><td>$74.8M</td></tr>
+      <tr><td>$5,500</td><td>$95.4M</td><td>$83.5M</td></tr>
+    </tbody>
+  </table></div>
+  <p>Every $500 on the session price is $8.7M a year on the expanded pilot at capacity, which is why waitlist repricing is mechanical. The price is already tested at $4,500: 174 paid Alpha Summer registrations at $4,500 a week, one price objection.</p>
+
+  <h2>The national build</h2>
+  <p>Three waves, one session apart, released by the week-3 checkpoint of the session before. Capacity figures, K-8 blocks, premium price.</p>
+  <div class="tbl"><table>
+    <thead><tr><th>Wave</th><th>Session</th><th>Campuses added</th><th>Seats added</th><th>Enrolled added</th><th>Run rate added</th><th>Network run rate</th></tr></thead>
+    <tbody>
+      <tr><td>Pilot</td><td>Session 2, October 2026</td><td>New York (2), Greenwich, Boston (2), Chicago</td><td>444</td><td>1,776</td><td>$40.0M</td><td>$40.0M</td></tr>
+      <tr><td>Wave 2</td><td>Session 3, January 2027</td><td>Chicago expansion, Austin (300), Miami (150), Palm Beach (60), Miami Beach (50)</td><td>983</td><td>3,932</td><td>$88.5M</td><td>$128.4M</td></tr>
+      <tr><td>Wave 3</td><td>Session 4, February 2027</td><td>Every remaining campus, about 30, at 50 seats each</td><td>1,550</td><td>6,200</td><td>$139.5M</td><td>$267.9M</td></tr>
+    </tbody>
+  </table></div>
+  <p>Full network at capacity: about 40 campuses, 2,977 seats, 11,908 enrolled, $267.9M revenue, about $223M site profit, about $219M net after a central team that grows to about $4M. Year 1 network ceiling with every wave on schedule and every seat sold: $140.9M. Year 1 network plan, with the waves at 50 percent fill in their first session and 75 percent after: about $94M revenue, about $77M site profit.</p>
+  <h3>Three-year view</h3>
+  <div class="tbl"><table>
+    <thead><tr><th>Year</th><th>K-8 sessions</th><th>Evening block</th><th>Break weeks</th><th>Revenue</th><th>Net (about)</th></tr></thead>
+    <tbody>
+      <tr><td>Year 1, SY26-27, pilot plan</td><td>$46.2M</td><td>$3.2M at capacity</td><td>$3.9M at capacity</td><td>$46M to $62M</td><td>$38M to $52M</td></tr>
+      <tr><td>Year 1, SY26-27, network plan</td><td>$94M</td><td></td><td></td><td>About $94M</td><td>About $75M</td></tr>
+      <tr><td>Year 2, SY27-28, network at 75 percent</td><td>$201M</td><td>$54M (40 percent of its ceiling)</td><td>$16M (60 percent)</td><td>About $271M</td><td>About $220M</td></tr>
+      <tr><td>Year 3, SY28-29, network at 90 percent</td><td>$241M</td><td>$94M (70 percent of its ceiling)</td><td>$21M (80 percent)</td><td>About $356M</td><td>About $290M</td></tr>
+    </tbody>
+  </table></div>
+  <p>Year 2 and Year 3 hold the campus count at 40. Alpha adds about 20 campuses a year, each one a 50-seat room worth $4.5M of run rate at capacity, which is upside to this table.</p>
+
+  <h2>The feeder</h2>
+  <p>One conversion to full Alpha is worth $160,000 to $325,000 in lifetime tuition, $240,000 at the midpoint. Modeled conversion is 8 to 12 percent of the Considering and Path to yes lanes, replaced by the measured number after Session 2. The program clears its P&amp;L at zero conversions, so the acquisition cost per full enrollment is negative: the family pays $4,500 a session while it decides, against a private-school industry median of $3,677 in marketing spend per enrolled student.</p>
+  <div class="tbl"><table>
+    <thead><tr><th>Base</th><th>4 percent</th><th>8 percent</th><th>12 percent</th></tr></thead>
+    <tbody>
+      <tr><td>Expanded pilot, 3,468 enrolled</td><td>139 enrollments, $33M</td><td>277, $67M</td><td>416, $100M</td></tr>
+      <tr class="total"><td>Full network, 11,908 enrolled</td><td>476, $114M</td><td>953, $229M</td><td>1,429, $343M</td></tr>
+    </tbody>
+  </table></div>
+
+  <h2>Market size</h2>
+  <p>TAM about $40B a year: what US families already spend on tutoring ($18.9B) and after-school ($21.0B), before growth. SAM about $16B: that spend in Alpha's metros, roughly 40 percent of premium households. SOM $268M: the full network at capacity on K-8 blocks, 1.7 percent of SAM. The constraint is buildings, not demand.</p>
+
+  <h2>What Session 2 replaces</h2>
+  <p>These are the modeled assumptions, in order of how much they move the numbers. Each one is measured in Session 2 and reported by campus, cohort, lane, and market at the week-3 checkpoint and at session end.</p>
+  <ol>
+    <li>Fill. The plan says 60 percent at launch. Every dollar in this document scales with it.</li>
+    <li>Re-enrollment. The plan needs 70 percent session over session; the Stay lane's value rests on it.</li>
+    <li>Lane mix. Modeled at 50 / 30 / 10 / 10. The revenue does not change with it; the feeder and tenure do.</li>
+    <li>Price ceiling. Waitlist depth at $4,500 says how far the repricing rule can go.</li>
+    <li>Conversion. Modeled at 8 to 12 percent of two lanes. Upside only; nothing in the P&amp;L depends on it.</li>
+    <li>Guide ratio and cost. One per 10 seats at $50,000 part-time. The training program and the first payroll confirm it.</li>
+  </ol>
+
+  <p class="foot">Alpha's learning-speed and test-score figures are Alpha's own internal data and are not independently audited.</p>
+
+</div>
