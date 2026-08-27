@@ -1,31 +1,33 @@
 # Alpha Hours
 
-A premium after-school program that runs the Alpha day, mastery-based academics on Timeback followed by a life skills workshop, inside existing Alpha School buildings, sold to three lanes of families at once: families who will never enroll at Alpha (Stay), families deciding on Alpha (Considering), and families Alpha has told not yet (Path to yes), plus current Alpha students whose school day ends at 3:30. It is designed to make money first, use real estate Alpha already pays for, feed full-time Alpha enrollment, and serve Alpha's own families.
+A mastery learning center that runs inside existing Alpha School buildings after the school day, built on the Kumon model and the Timeback platform, and sold to three lanes of families at once: families who will never enroll at Alpha (Stay), families deciding on Alpha (Considering), and families Alpha has told not yet (Path to yes), plus current Alpha students at a small discount. It is designed to make money first, use real estate Alpha already pays for, feed full-time Alpha enrollment, and monetize the path to yes.
 
 **Owner:** Nancy Wisniewski Torvund, proposed Head of Alpha Hours.
 
+**Revision:** August 27, 2026 (Kumon model). Supersedes the session-based plans of July 23 and August 26, which are preserved in git history.
+
 ## The model in one paragraph
 
-The Alpha day, after school: mastery academics on Timeback plus a life skills workshop. Each family picks a two-day track, Monday/Wednesday or Tuesday/Thursday from 4:00 to 6:00 pm, or a single four-hour Saturday block, morning or afternoon; every track gets 100 minutes of academics and 80 minutes of life skills a week. Four cohorts share every room, so a campus enrolls four times its seat count (six times once the middle and high school evening block launches: Session 4, February 2027, in New York and Greenwich, everywhere else Fall 2027). Families enroll one seven-week session at a time; there are five sessions a year, each ending in an AlphaTest Showcase. Priced above every competitor at $4,500 per session in premium markets, about a third of full Alpha tuition.
+Kumon's loop with a better worksheet. A member comes to the center twice a week for a one-hour guided visit: two 25-minute mastery sessions on Timeback, one math and one reading, with a floor guide holding focus and effort, Alpha bucks and shoutouts. On the other days the child does 25 minutes of Timeback at home. Visit slots run Monday to Thursday at 3:30, 4:30, 5:30 and 6:30 and Saturday at 9:00, 10:00, 11:00 and 12:00, so every seat serves ten members. Membership is monthly and rolls until cancelled: $1,750 a month in premium markets, $1,250 standard, $750 enrollment fee that covers the placement assessment. Every member gets a mastery map, a learning velocity and a weeks-to-grade-level number every month.
 
 ## Headline numbers
 
-- **Four-market, six-campus launch (Session 2, October 19 to December 18, 2026):** New York (180 Maiden Lane 100 seats, 156 William Street 30 seats), Greenwich (Armonk), Boston (two campuses), Chicago. At launch capacity: 444 seats, 1,776 enrolled, $39.96M revenue run rate, $33.4M site profit. From Session 3 (January 2027), the Chicago expansion steps the pilot to 3,468 enrolled, $78.0M run rate, ~$65.3M net.
-- **Year 1 (Sessions 2 to 5):** capacity $54.8M revenue / $45.5M net; plan (60/75/90/100 percent fill) $46.2M / $38.0M; floor (25 percent fill all year) $13.7M / $10.1M. Break week (April 2027) and the evening block add ~$7M more at capacity.
-- **National build:** wave 2 (Session 3) adds Austin, Miami, Palm Beach, Miami Beach; wave 3 (Session 4) adds every remaining campus. Full ~40-campus network at capacity: 11,908 enrolled, $267.9M revenue, ~$219M net, about 1.7% of a ~$16B serviceable market inside a ~$40B total market. The middle and high school block lifts the ceiling by 50 percent.
-- **Pricing:** $4,500 per session premium ($3,500 standard), $5,000 continuation rate from the sixth session unless an Alpha application is on file, $500 waitlist repricing, $4,500 break weeks.
+- **Pilot (October 19, 2026):** six campuses, New York (180 Maiden Lane) 100 seats, Austin 100, Miami 60, Chicago 60, Greenwich 40, Boston 40. 400 seats, 4,000 members at capacity, $78.0M revenue, $69.0M site profit, $67.6M net at capacity.
+- **Year 1 (twelve months from launch):** plan, ramping from 10 to 50 percent fill, $25.9M revenue, $20.3M net, $39.0M exit run rate; floor $12.1M / $7.8M; strong $42.9M / $35.9M.
+- **Unit economics:** $19,180 contribution per premium member per year (91 percent), break-even 11 members a campus, launch budget about $500K.
+- **Year 2, every campus (about 40):** $230M revenue and $196M net at 50 percent fill; $461M and $403M at capacity. Company-owned satellite storefronts at about $2.5M profit each.
+- **Franchise:** no. Owned earns $2.5M a center, franchised $0.6M. Evaluated once in Year 3 for standard-tier markets only.
 
 ## Contents
 
 | File | What it is |
 |---|---|
-| `EXECUTIVE-ONE-PAGER.md` / `one-pager.html` | The executive one-pager |
-| `BUSINESS-PLAN.md` / `business-plan.html` | The full business plan |
-| `BRAINLIFT.md` / `brainlift.html` / `Alpha-Hours-BrainLift.docx` | The BrainLift (purpose, experts, spiky points of view, insights, knowledge tree, business model, financials, rollout) |
-| `FINANCIALS.md` / `financials.html` / `Alpha-Hours-Financials.docx` | The standalone financial document: unit economics, per-campus P&L, Year 1 by session in three cases, lanes, launch budget, cash timing, sensitivities, national waves, three-year view, feeder |
+| `EXECUTIVE-ONE-PAGER.md` / `one-pager.html` / `Alpha-Hours-One-Pager.docx` | The executive one-pager |
+| `BUSINESS-PLAN.md` / `business-plan.html` / `Alpha-Hours-Business-Plan.docx` | The full business plan |
+| `BRAINLIFT.md` / `brainlift.html` / `Alpha-Hours-BrainLift.docx` | The BrainLift (purpose, experts, spiky points of view, insights, knowledge tree, business model, financials, objections, rollout) |
+| `FINANCIALS.md` / `financials.html` / `Alpha-Hours-Financials.docx` | The standalone financial document |
 | `BRAINLIFT-workflowy.txt` / `BRAINLIFT.opml` | The full BrainLift as an outline for import into Workflowy |
 | `BUSINESS-MODEL.opml` | The business model and operations section as a standalone outline |
-| `national-buildout.html` | One-page national build-out and market-sizing appendix |
-| `Alpha-Hours-One-Pager.docx` / `Alpha-Hours-Business-Plan.docx` | Word versions |
+| `tools/gen.py` | Regenerates the html, opml and Workflowy files from the markdown (`python3 tools/gen.py`); docx files come from `textutil -convert docx`. |
 
-Alpha's learning-speed and test-score figures cited throughout are Alpha's own internal data and are not independently audited.
+Alpha's learning-speed and test-score figures cited throughout are Alpha's own internal data and are not independently audited. Kumon figures are approximate public figures; verify before external use.
