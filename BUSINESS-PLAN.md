@@ -21,7 +21,11 @@ The business does four things, in this order:
 
 Success is measured on the first three: site profit and revenue, re-enrollment, building utilization, and current-family enrollment. Conversions to full Alpha are reported every session as the upside line. The Head of Alpha Hours is reviewed on the P&L first.
 
-Launch: Session 2, October 19 to December 18, 2026, at six campuses in four markets. New York (180 Maiden Lane, 100 seats; 156 William Street, 30 seats), Greenwich (Armonk, 80), Boston (40 and 100), Chicago (94, stepping to 517 in January 2027). 444 seats, 1,776 enrolled at capacity, a $40M revenue run rate at launch and $78M from January.
+### Where it fits
+
+Alpha's ambition is a billion kids learning this way. Campuses get there one building and one enrolled family at a time, and a full-time seat reaches one child. Alpha Hours reaches the children who will never sit in that seat. It puts four children on every seat after 3:30, six once the evening block opens, in buildings Alpha already pays for, sold to a market Alpha has never had a product for. At capacity the full network has 11,908 children on Timeback after school, more than Alpha enrolls full-time today, without a single new lease. It is a business unit with its own P&L, it sweats assets that sit dark most of the week, and it opens a new market. Each of those moves the count of children learning on Timeback, which is the number the mission is measured in.
+
+Launch: Session 2, October 19 to December 18, 2026, in New York only: 180 Maiden Lane (100 seats) and 156 William Street (30 seats), 520 enrolled at capacity, an $11.7M revenue run rate. Session 3 (January 4, 2027) adds Greenwich (Armonk, 80) and Boston (40 and 100). Session 4 (February 24, 2027) adds Chicago at its expanded 517 seats and Miami (150), Palm Beach (60) and Miami Beach (50): nine campuses, 1,127 seats, 4,508 enrolled, a $101.4M run rate at capacity. Session 5 runs that footprint with no new openings. The national launch, every remaining campus, is Session 1 of Fall 2027.
 
 ---
 
@@ -239,7 +243,7 @@ William Street shares New York's coordinator, so its fixed cost is $138,000.
 
 ### Guides, per campus
 
-One guide per 10 seats at $50,000, hired to sold seats. At capacity: 10 guides at a 100-seat room ($500,000), 8 at Greenwich ($400,000), 4 at Boston A ($200,000), 3 at William Street ($150,000), 10 at Chicago's 94 seats ($500,000), 52 at Chicago's 517 seats ($2,600,000).
+One guide per 10 seats at $50,000, hired to sold seats. At capacity: 10 guides at a 100-seat room ($500,000), 8 at Greenwich ($400,000), 4 at Boston A ($200,000), 3 at William Street ($150,000), 15 at Miami ($750,000), 6 at Palm Beach ($300,000), 5 at Miami Beach ($250,000), 52 at Chicago's 517 seats ($2,600,000).
 
 ### A 100-seat campus at capacity, per year
 
@@ -269,91 +273,98 @@ The three biggest lines are guides, Timeback and payment processing. The motivat
 
 ### Pilot campuses at capacity
 
-| Campus | Seats | Enrolled | Guides | Revenue | Variable | Guides | Fixed | Site profit | Margin |
-|---|---|---|---|---|---|---|---|---|---|
-| New York, 180 Maiden Lane | 100 | 400 | 10 | $9.00M | $0.87M | $0.50M | $0.19M | $7.44M | 83% |
-| New York, 156 William Street | 30 | 120 | 3 | $2.70M | $0.26M | $0.15M | $0.14M | $2.15M | 80% |
-| Greenwich (Armonk) | 80 | 320 | 8 | $7.20M | $0.70M | $0.40M | $0.19M | $5.92M | 82% |
-| Boston A | 40 | 160 | 4 | $3.60M | $0.35M | $0.20M | $0.19M | $2.86M | 80% |
-| Boston B | 100 | 400 | 10 | $9.00M | $0.87M | $0.50M | $0.19M | $7.44M | 83% |
-| Chicago, at launch | 94 | 376 | 10 | $8.46M | $0.82M | $0.50M | $0.19M | $6.95M | 82% |
-| **Launch total, Session 2** | **444** | **1,776** | **45** | **$39.96M** | **$3.86M** | **$2.25M** | **$1.08M** | **$32.77M** | **82%** |
-| Chicago, from January 2027 | 517 | 2,068 | 52 | $46.53M | $4.50M | $2.60M | $0.19M | $39.24M | 84% |
-| **Expanded total, Session 3 onward** | **867** | **3,468** | **87** | **$78.03M** | **$7.54M** | **$4.35M** | **$1.08M** | **$65.06M** | **83%** |
+| Campus | Opens | Seats | Enrolled | Guides | Revenue | Variable | Guides | Fixed | Site profit | Margin |
+|---|---|---|---|---|---|---|---|---|---|---|
+| New York, 180 Maiden Lane | Session 2 | 100 | 400 | 10 | $9.00M | $0.87M | $0.50M | $0.19M | $7.44M | 83% |
+| New York, 156 William Street | Session 2 | 30 | 120 | 3 | $2.70M | $0.26M | $0.15M | $0.14M | $2.15M | 80% |
+| Greenwich (Armonk) | Session 3 | 80 | 320 | 8 | $7.20M | $0.70M | $0.40M | $0.19M | $5.92M | 82% |
+| Boston A | Session 3 | 40 | 160 | 4 | $3.60M | $0.35M | $0.20M | $0.19M | $2.86M | 80% |
+| Boston B | Session 3 | 100 | 400 | 10 | $9.00M | $0.87M | $0.50M | $0.19M | $7.44M | 83% |
+| Chicago | Session 4 | 517 | 2,068 | 52 | $46.53M | $4.50M | $2.60M | $0.19M | $39.24M | 84% |
+| Miami | Session 4 | 150 | 600 | 15 | $13.50M | $1.30M | $0.75M | $0.19M | $11.26M | 83% |
+| Palm Beach | Session 4 | 60 | 240 | 6 | $5.40M | $0.52M | $0.30M | $0.19M | $4.39M | 81% |
+| Miami Beach | Session 4 | 50 | 200 | 5 | $4.50M | $0.43M | $0.25M | $0.19M | $3.63M | 81% |
+| **Launch total, Session 2 (New York)** | | **130** | **520** | **13** | **$11.70M** | **$1.13M** | **$0.65M** | **$0.33M** | **$9.59M** | **82%** |
+| **Session 3 total (plus Greenwich, Boston)** | | **350** | **1,400** | **35** | **$31.50M** | **$3.04M** | **$1.75M** | **$0.89M** | **$25.82M** | **82%** |
+| **Full pilot total, Sessions 4 and 5** | | **1,127** | **4,508** | **113** | **$101.43M** | **$9.80M** | **$5.65M** | **$1.64M** | **$84.33M** | **83%** |
 
-New York alone: 130 seats, 520 enrolled, $11.7M revenue, $9.6M site profit. Less the central team, the expanded run rate nets about $64.2M a year.
+New York alone: 130 seats, 520 enrolled, $11.7M revenue, $9.6M site profit. Less the central team, the full pilot run rate nets about $83.5M a year.
 
 ### Pilot P&L by session, plan case
 
-The plan is the number the Head is held to: 60 percent fill at launch, 75 percent in Session 3, 90 percent in Session 4, full in Session 5. Guides are hired to sold seats, so guide cost moves with fill. Fixed cost does not.
+The plan is the number the Head is held to. Each campus follows the same ramp from its own first session: 60 percent fill in its first session, 75 percent in its second, 90 percent in its third, full from its fourth. Guides are hired to sold seats, so guide cost moves with fill. Fixed cost is charged per open campus.
 
 | Line | Session 2 | Session 3 | Session 4 | Session 5 | Year 1 |
 |---|---|---|---|---|---|
-| Fill | 60% | 75% | 90% | 100% | |
-| Enrolled | 1,066 | 2,601 | 3,121 | 3,468 | |
-| Revenue | $4.80M | $11.70M | $14.05M | $15.61M | $46.15M |
-| Variable cost (Timeback, motivation, supplies, snacks, showcase, processing, marketing) | $0.46M | $1.13M | $1.36M | $1.51M | $4.46M |
-| Guides on payroll | 28 | 67 | 80 | 87 | |
-| Guide cost | $0.28M | $0.67M | $0.80M | $0.87M | $2.62M |
-| Campus fixed cost | $0.22M | $0.22M | $0.22M | $0.22M | $0.86M |
-| Site profit | $3.84M | $9.69M | $11.67M | $13.01M | $38.21M |
-| Site margin | 80% | 83% | 83% | 83% | 83% |
+| Campuses open | 2 | 5 | 9 | 9 | |
+| Enrolled | 312 | 918 | 2,993 | 3,643 | |
+| Revenue | $1.40M | $4.13M | $13.47M | $16.39M | $35.40M |
+| Variable cost (Timeback, motivation, supplies, snacks, showcase, processing, marketing) | $0.14M | $0.40M | $1.30M | $1.58M | $3.42M |
+| Guides on payroll | 8 | 25 | 77 | 94 | |
+| Guide cost | $0.08M | $0.25M | $0.77M | $0.94M | $2.04M |
+| Campus fixed cost | $0.07M | $0.18M | $0.33M | $0.33M | $0.90M |
+| Site profit | $1.12M | $3.30M | $11.07M | $13.54M | $29.04M |
+| Site margin | 80% | 80% | 82% | 83% | 82% |
 | Central team | | | | | $0.88M |
-| **Net** | | | | | **$37.3M** |
+| **Net** | | | | | **$28.2M** |
 
 ### Year 1, three cases
 
 | Case | Revenue | Site profit | Net after central team |
 |---|---|---|---|
-| Capacity (100 percent every session) | $54.8M | $45.6M | $44.7M |
-| Plan (60 / 75 / 90 / 100) | $46.2M | $38.2M | $37.3M |
-| Floor (25 percent all year) | $13.7M | $10.7M | $9.8M |
+| Capacity (100 percent at every open campus) | $49.2M | $40.8M | $39.9M |
+| Plan (60 / 75 / 90 / 100 by each campus's own session count) | $35.4M | $29.0M | $28.2M |
+| Floor (25 percent all year) | $12.3M | $9.5M | $8.6M |
 
-Year 1 additions at capacity: the April 2027 break week ($3.9M on 867 seats) and the evening block at Maiden Lane and Greenwich from Session 4 ($3.2M inside Year 1), about $62M of Year 1 revenue at capacity and about $52M at plan.
+The exit run rate matters more than the Year 1 total: leaving Session 5 at plan, the pilot is running at $16.4M a session, $82M a year, before the national launch. Year 1 additions at capacity: the April 2027 break week ($5.1M on 1,127 seats) and the evening block at Maiden Lane and Greenwich from Session 4 ($3.2M inside Year 1), about $57M of Year 1 revenue at capacity and about $44M at plan.
 
 ### Revenue by lane
 
-| Lane | Share | Families at expanded capacity | Session revenue a year | Value beyond the session fee |
+Figures at full pilot capacity, 4,508 enrolled.
+
+| Lane | Share | Families | Session revenue a year | Value beyond the session fee |
 |---|---|---|---|---|
-| Stay (the business) | 70% | 2,428 | $54.6M | Three years at year-one then continuation rates: $72,500 a family; five years $122,500 |
-| Considering (upside) | 15% | 520 | $11.7M | Two sessions plus a 20 percent conversion at $240,000: $57,000 expected; non-converters move to Stay |
-| Path to yes (upside) | 5% | 173 | $3.9M | Three sessions plus a 20 percent admit rate at $240,000: $61,500 expected |
-| Current Alpha families | 10% | 347 | $7.4M (after discount) | Retention of a family already paying full tuition |
+| Stay (the business) | 70% | 3,156 | $71.0M | Three years at year-one then continuation rates: $72,500 a family; five years $122,500 |
+| Considering (upside) | 15% | 676 | $15.2M | Two sessions plus a 20 percent conversion at $240,000: $57,000 expected; non-converters move to Stay |
+| Path to yes (upside) | 5% | 225 | $5.1M | Three sessions plus a 20 percent admit rate at $240,000: $61,500 expected |
+| Current Alpha families | 10% | 451 | $9.6M (after discount) | Retention of a family already paying full tuition |
 
 Seventy percent of the revenue comes from families who will never enroll, and it is the most durable 70 percent.
 
 ### Launch budget and cash
 
-One-time launch budget of about $440K: guide training cohort $98K, state exemption filings and legal $60K, launch marketing $160K, loaner device pool $53K, insurance deposits $24K, Emporium opening inventory $11K, registration and payments stack $30K. Session 2 deposits alone ($500 on 1,066 plan enrollments, $533K) cover it. Enrollment closes before each session starts and the balance is due before day one, so every session's revenue is collected before its costs are paid. The program never needs working capital from the school.
+One-time launch budget for New York of about $141K: guide training cohort $29K, New York exemption filing and legal $15K, launch marketing $40K, loaner device pool $16K, insurance deposits $8K, Emporium opening inventory $3K, registration and payments stack $30K. Session 2 deposits alone ($500 on 312 plan enrollments, $156K) cover it. Each later step is paid from the sessions before it: Greenwich and Boston from Session 2 revenue, Chicago and Florida from Session 3, the national launch from Sessions 4 and 5. Enrollment closes before each session starts and the balance is due before day one, so every session's revenue is collected before its costs are paid. The program never needs working capital from the school.
 
 ### Downside and the floors
 
-Contribution per enrolled student is $20,325 a year before guides. Minimum operating cost per campus, fixed cost plus the two-adult minimum, is about $288K, so break-even is 15 enrolled students per campus, about 4 per cohort. Guides are hired to sold seats, so site margin holds between 73 and 83 percent at every fill level above break-even, and the maximum downside at any site is seven weeks of payroll: no capex, no lease, part-time staff, one-session enrollment.
+Contribution per enrolled student is $20,325 a year before guides. Minimum operating cost per campus, fixed cost plus the two-adult minimum, is about $288K, so break-even is 15 enrolled students per campus, about 4 per cohort. Guides are hired to sold seats, so site margin holds between 72 and 83 percent at every fill level above break-even, and the maximum downside at any site is seven weeks of payroll: no capex, no lease, part-time staff, one-session enrollment.
 
-Two mechanical floors. Cohort floor: a cohort that has not sold 10 seats two weeks before session start (October 5, 2026 for Session 2) does not open, and its families roll into another cohort. Site floor: a campus below break-even at week 3 of Session 2 (the week of November 2) closes at session end.
+Two mechanical floors. Cohort floor: a cohort that has not sold 10 seats two weeks before session start (October 5, 2026 for Session 2) does not open, and its families roll into another cohort. Site floor: a campus below break-even at week 3 of its first session (the week of November 2 for New York) closes at session end.
 
-| Fill, expanded footprint, annual | Enrolled | Revenue | Site profit | Net |
+| Fill, full pilot footprint, annual | Enrolled | Revenue | Site profit | Net |
 |---|---|---|---|---|
-| 25% | 867 | $19.5M | $15.4M | $14.5M |
-| 50% | 1,734 | $39.0M | $32.0M | $31.1M |
-| 75% | 2,601 | $58.5M | $48.4M | $47.6M |
-| 100% | 3,468 | $78.0M | $65.1M | $64.2M |
+| 25% | 1,127 | $25.4M | $19.7M | $18.8M |
+| 50% | 2,254 | $50.7M | $41.3M | $40.4M |
+| 75% | 3,381 | $76.1M | $62.7M | $61.8M |
+| 100% | 4,508 | $101.4M | $84.3M | $83.5M |
 
-Every $500 on the session price is $8.7M a year on the expanded pilot at capacity, which is why waitlist repricing is mechanical.
+Every $500 on the session price is $10.9M a year on the full pilot at capacity, which is why waitlist repricing is mechanical.
 
 ### The national build
 
-| Wave | Session | Campuses added | Seats added | Enrolled added | Network run rate |
+| Step | Session | Campuses added | Seats added | Enrolled added | Run rate |
 |---|---|---|---|---|---|
-| Pilot | Session 2, October 2026 | New York (2), Greenwich, Boston (2), Chicago | 444 | 1,776 | $40.0M |
-| Wave 2 | Session 3, January 2027 | Chicago expansion, Austin (300), Miami (150), Palm Beach (60), Miami Beach (50) | 983 | 3,932 | $128.4M |
-| Wave 3 | Session 4, February 2027 | Every remaining campus, about 30, at 50 seats each | 1,550 | 6,200 | $267.9M |
+| Launch | Session 2, October 19, 2026 | New York (2) | 130 | 520 | $11.7M |
+| Step 2 | Session 3, January 4, 2027 | Greenwich, Boston (2) | 220 | 880 | $31.5M |
+| Step 3 | Session 4, February 24, 2027 | Chicago (517), Miami, Palm Beach, Miami Beach | 777 | 3,108 | $101.4M |
+| Hold | Session 5, April 26, 2027 | None: nine campuses, a full session, no new openings | 0 | 0 | $101.4M |
+| National | Session 1, Fall 2027 | Austin (300) and every remaining campus, about 30 at 50 seats each | 1,850 | 7,400 | $267.9M |
 
-Full network at capacity, about 40 campuses, K-8 blocks only: 11,908 enrolled, $267.9M revenue, about $220M site profit (about 82 percent), about $216M net after a central team that grows to about $4M. Year 2 at 75 percent network fill with the evening block and break weeks: about $271M revenue, about $222M net. Year 3 at 90 percent: about $356M, about $293M.
+Full network at capacity, about 40 campuses, K-8 blocks only: 11,908 enrolled, $267.9M revenue, about $220M site profit (about 82 percent), about $216M net after a central team that grows to about $4M. Year 2 at 75 percent network fill with the evening block and break weeks: about $271M revenue, about $221M net. Year 3 at 90 percent: about $356M, about $292M.
 
 ### The feeder (upside)
 
-One conversion to full Alpha is worth $160,000 to $325,000 in lifetime tuition. Modeled conversion 4 to 8 percent of all enrolled families, replaced by the measured number after Session 2. Nothing in the plan depends on it. On the expanded pilot's 3,468 enrolled at a $240,000 midpoint: 4 percent is 139 enrollments, about $33M; 8 percent is 277, about $67M. On the full network: 4 percent about $114M, 8 percent about $229M. The family pays $4,500 a session while it decides, against a private-school industry median of about $3,700 in marketing spend per enrolled student, so acquisition cost per full enrollment is negative.
+One conversion to full Alpha is worth $160,000 to $325,000 in lifetime tuition. Modeled conversion 4 to 8 percent of all enrolled families, replaced by the measured number after Session 2. Nothing in the plan depends on it. On the full pilot's 4,508 enrolled at a $240,000 midpoint: 4 percent is 180 enrollments, about $43M; 8 percent is 361, about $87M. On the full network: 4 percent about $114M, 8 percent about $229M. The family pays $4,500 a session while it decides, against a private-school industry median of about $3,700 in marketing spend per enrolled student, so acquisition cost per full enrollment is negative.
 
 ---
 
@@ -370,7 +381,7 @@ Alpha Hours is designed and marketed as academic instruction, not childcare:
 - Every block is curriculum-driven instruction end to end: timed mastery sessions on Timeback and a structured life skills workshop.
 - Snacks only, never meals, because meals trigger childcare licensing in several states (Florida especially).
 - A formal host-campus facility-use agreement at every site.
-- A written exemption determination per state before opening, never self-declared: New York, Connecticut, Massachusetts and Illinois before Session 2; Texas and Florida filed in September for wave 2. The Saturday format and the break-week format are flagged specifically in each request.
+- A written exemption determination per state before opening, never self-declared: New York before Session 2, Connecticut and Massachusetts filed alongside it in September for Session 3, Illinois and Florida filed in November for Session 4, Texas and every remaining state in the spring for the national launch. The Saturday format and the break-week format are flagged specifically in each request.
 
 ### Safety and insurance
 
@@ -380,25 +391,29 @@ FBI background checks on every hire (fingerprint criminal check, national sex of
 
 ## 10. Rollout
 
-### Phase 1 (Session 2, October 19 to December 18, 2026): four markets, six campuses, sold to the whole city
+### Session 2 (October 19 to December 18, 2026): New York, sold to the whole city
 
-New York (Maiden Lane 100 seats, William Street 30), Greenwich (80), Boston (40 and 100), Chicago (94). Every campus opens at full capacity, all four cohorts on sale. Sales open in September to the whole city, not the funnel: the 1,000-plus HubSpot families from the Hamptons outreach, the 174 paid Hamptons families, the UHNW admissions event lists in Greenwich and Boston, and the parent networks of every school near each campus, sold as the best after-school program in the city. The admissions pipeline is the second list. Cohort floor decision October 5. Week-3 checkpoint the week of November 2. Re-enrollment for Session 3 opens the week of November 9.
+180 Maiden Lane (100 seats) and 156 William Street (30 seats), all four cohorts on sale, no cap and no small-group phase. Sales open in September to the whole city, not the funnel: the 1,000-plus HubSpot families from the Hamptons outreach, the 174 paid Hamptons families, and the parent networks of every school in the Financial District, sold as the best after-school program in the city. The admissions pipeline is the second list. Cohort floor decision October 5. Week-3 checkpoint the week of November 2. Re-enrollment for Session 3 opens the week of November 9. While New York runs, Greenwich and Boston hire and train their guides in the New York rooms.
 
-### Pilot success criteria
+### Pilot success criteria and the decision rule
 
-The pilot succeeds on two measured numbers: session-over-session re-enrollment at or above 70 percent, and plan fill (60 percent at launch, 75 percent in Session 3). Those are the business. Conversion is the upside, measured with the same rigor through a six-stage funnel, per family, per lane, per campus, against a matched baseline, without being a pass or fail condition. The decision rule runs on the business: wave 2 is released at the Session 2 week-3 checkpoint if fill across the pilot is at or above 40 percent and no campus is below its site floor; wave 3 at the Session 3 week-3 checkpoint on the same test plus Session 2 re-enrollment at or above 60 percent. Conversion below 6 percent triggers a funnel review, not a pause.
+The pilot succeeds on two measured numbers: session-over-session re-enrollment at or above 70 percent, and plan fill (60 percent in a campus's first session, 75 percent in its second). Those are the business. Conversion is the upside, measured with the same rigor through a six-stage funnel, per family, per lane, per campus, against a matched baseline, without being a pass or fail condition. Each step is released at the week-3 checkpoint of the session before it: Greenwich and Boston at the Session 2 checkpoint if New York fill is at or above 40 percent and neither building is below its site floor; Chicago and Florida at the Session 3 checkpoint on the same test plus Session 2 re-enrollment at or above 60 percent; the national launch at the Session 5 checkpoint (week of May 10, 2027) on plan fill across the pilot and Year 1 re-enrollment at or above 70 percent. Conversion below 6 percent triggers a funnel review, not a pause.
 
-### Phase 2 (Session 3, January 4, 2027)
+### Session 3 (January 4, 2027): Greenwich and Boston
 
-Chicago's expansion lands, 94 seats to 517, lifting the pilot from 1,776 to 3,468 enrolled. Austin, Miami, Palm Beach and Miami Beach open on the pilot playbook. Network at Session 3: 5,708 enrolled, $128.4M run rate at capacity.
+Greenwich (80) and both Boston campuses (40 and 100) open on the New York playbook with guides trained in the New York rooms. 350 seats, 1,400 enrolled, a $31.5M run rate at capacity. Illinois and Florida exemption requests are filed in November.
 
-### Phase 3 (Session 4, February 24, 2027)
+### Session 4 (February 24, 2027): Chicago, Florida, and the evening block
 
-Every remaining campus, about 30, opens at a conservative 50 seats. The evening block opens at Maiden Lane and Greenwich. Network: about 40 campuses, 11,908 enrolled on K-8 blocks, $267.9M run rate at capacity.
+Chicago opens at its expanded 517 seats, the network's largest room and the national build in miniature. Miami (150), Palm Beach (60) and Miami Beach (50) open the same session. Nine campuses, 1,127 seats, 4,508 enrolled, a $101.4M run rate at capacity. The evening block opens at Maiden Lane and Greenwich.
 
-### Phase 4 (April 2027 through Fall 2027)
+### Session 5 (April 26 to June 18, 2027): hold and prove
 
-First break week April 19 to 23, 2027 across the pilot. Fall 2027, the evening block at every campus and two break weeks a year as standard. The network grows with every campus Alpha opens.
+No new openings. The first break week runs April 19 to 23 across the pilot. The pilot leaves the year at an $82M run rate on plan with four sessions of measured data in five markets, and the Session 5 checkpoint releases the national launch with the summer to hire and train.
+
+### Session 1, Fall 2027: national launch
+
+Austin (300 seats) and every remaining campus, about 30 at a conservative 50 seats, open with the 2027-28 school year. Network: about 40 campuses, 11,908 enrolled on K-8 blocks, $267.9M run rate at capacity. The evening block launches at every pilot campus the same fall, and two break weeks a year become standard. The network grows with every campus Alpha opens.
 
 ---
 
@@ -409,12 +424,12 @@ First break week April 19 to 23, 2027 across the pilot. Fall 2027, the evening b
 | Reputation: Alpha Hours is many families' first Alpha experience | The guide training program runs at Alpha NYC; guides are staffed to sold seats; the Lead Guide owns quality in every building; the week-1 exit process protects every room; the AlphaTest Showcase puts the proof on a stage every seven weeks. |
 | A wrong-fit student disrupts the room | Two logged incidents in week 1 is an exit before week 2, with the incident record and a prorated refund. A child who needs a level of support that compromises the room is the second trigger. Both standards are published at enrollment. |
 | Students who need 1:1 support | The model is 1 guide per 10 students and cannot deliver 1:1. Stated on the landing page before any family pays. |
-| Fill is lower than plan | Guides are hired to sold seats, fixed cost per campus is $188K, break-even is 15 students, and the floor case still nets about $10M on six campuses. |
+| Fill is lower than plan | Guides are hired to sold seats, fixed cost per campus is $188K, break-even is 15 students, and the floor case still nets about $8.6M on nine campuses. |
 | Families park in Alpha Hours instead of converting | That is the product, and the plan is sized on it. From the sixth session the seat reprices to $5,000 unless an application is on file. |
 | Saturday competes with youth sports | Two Saturday blocks, two weekday tracks, session-at-a-time enrollment. |
 | A state treats the program as licensed childcare | Curriculum-driven blocks, snacks not meals, a host-campus agreement, a written exemption per state before opening. |
 | Guide supply at national scale | Public school and retired teachers exist at scale in every metro; the training program standardizes quality before any guide runs a room. |
-| Six campuses at once | Four markets inside one flight radius, a shared guide pool across New York, Greenwich and Boston, one remote VP, one launch checklist, every campus opening on sold seats. |
+| One market in Session 2 is slow | It is one seven-week session, and it buys the measured New York number every later step runs on. Greenwich and Boston open the next session, Chicago and Florida the one after, the network the following fall. Nothing waits a year, and every campus opens on a playbook that has already run. |
 | Alpha's academic claims are internal, not audited | Report each child's own Timeback mastery data to that child's parents rather than network-wide claims. |
 
 ---

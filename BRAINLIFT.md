@@ -12,7 +12,7 @@ Design, launch and run Alpha Hours: a premium after-school program that delivers
 
 Families attend four hours a week: a two-night track (Monday/Wednesday or Tuesday/Thursday, 4:00 to 6:00 pm) or a single four-hour Saturday block (two are offered). Every block runs Timeback in pomodoros, 25-minute mastery sessions, ends with life skills and shoutouts, and families enroll one seven-week session at a time, five sessions a year.
 
-Alpha Hours launches in Session 2, October 19 to December 18, 2026, in four markets and six campuses: New York (180 Maiden Lane, 100 seats, and 156 William Street, 30 seats), Greenwich, Boston (two campuses), and Chicago. 444 seats, 1,776 enrolled at capacity, a $40M revenue run rate on day one, $78M from January 2027 when the Chicago expansion lands.
+Alpha Hours launches in Session 2, October 19 to December 18, 2026, in New York only: 180 Maiden Lane (100 seats) and 156 William Street (30 seats), 520 enrolled at capacity and an $11.7M revenue run rate. Session 3 (January 4, 2027) adds Greenwich and both Boston campuses. Session 4 (February 24, 2027) adds Chicago at its expanded 517 seats and the three Florida campuses, Miami, Palm Beach and Miami Beach: nine campuses, 1,127 seats, 4,508 enrolled, a $101.4M run rate at capacity. Session 5 runs that footprint with no new openings, and the national launch, every remaining campus, is Session 1 of Fall 2027.
 
 ### The program exists to do four things at once
 
@@ -22,6 +22,10 @@ Alpha Hours launches in Session 2, October 19 to December 18, 2026, in four mark
 4. Upside: feed Alpha. Some families in the room are deciding on Alpha, and some were told "not yet." They get a paid trial with data instead of a free shadow day, and a paid roadmap back instead of a letter. The ones who convert are worth $160,000 to $325,000 each in lifetime tuition. That is upside on a business that already works without it.
 
 Success is measured on the first three: site profit and revenue, re-enrollment, building utilization, and current-family enrollment. Conversions to full Alpha are reported every session as the upside line. The Head of Alpha Hours is reviewed on the P&L first.
+
+### Where this fits: a billion kids
+
+Alpha's ambition is a billion kids learning this way. Campuses get there one building and one enrolled family at a time, and a full-time seat reaches one child. Alpha Hours reaches the children who will never sit in that seat. It puts four children on every seat after 3:30, six once the evening block opens, in buildings Alpha already pays for, sold to a market Alpha has never had a product for. It is a business unit with its own P&L, it sweats assets that sit dark most of the week, and it opens a new market. Each of those moves the count of children learning on Timeback, which is the number the mission is measured in.
 
 ### The market: families who will never enroll
 
@@ -141,37 +145,37 @@ Alpha gives away shadow days, staff time and the "not yet" roadmap for free, bec
 
 ## Insights
 
-### Insight 1: Alpha Hours is a business that happens to sit inside a school. The school is the upside, not the point.
+### Insight 1: Alpha Hours is a business unit that happens to sit inside a school. The school is the upside, not the point.
 
-Most of every room, seven in ten families on the plan, are Stay families who were never in the admissions funnel and never will be, and they carry the site profit on their own. That is what lets the program be sized, staffed, and judged as a business: fill, re-enrollment, revenue per seat, and margin. The school gets three things from it without paying for any of them. Trials become paid: a family deciding on Alpha pays $4,500 a session instead of getting a free shadow day. The "not yet" letter becomes a paid roadmap. And the marketing dollars behind every inquiry are recovered inside the room. Routing still has to be policy, not improvisation: admissions needs a formal disposition step for every family, yes, not yet with an Alpha Hours seat, or Alpha Hours as the product. But if every conversion stopped tomorrow, the P&L would not notice.
+Most of every room, seven in ten families on the plan, are Stay families who were never in the admissions funnel and never will be, and they carry the site profit on their own. That is what lets the program be sized, staffed, and judged as a business: fill, re-enrollment, revenue per seat, and margin. At $4,500 a session and about 82 percent site margin it makes money in its first session with zero conversions, and the Head is reviewed on that P&L first. The school gets three things from it without paying for any of them: trials become paid, the "not yet" letter becomes a paid roadmap, and the marketing dollars behind every inquiry are recovered inside the room. If every conversion stopped tomorrow, the P&L would not notice.
 
-### Insight 2: Fill the room first, then raise the price. The waitlist sets the price, not the Head.
+### Insight 2: The families who will never enroll are a new market for Alpha, and it is larger than the one Alpha sells to today.
 
-At $4,500 the pilot campuses sell out or they do not, and either answer is information. A cohort that closes a session with a waitlist is underpriced, and reprices by $500 for the following session, mechanically. A cohort that does not sell 10 seats two weeks out does not open, and its families roll into another cohort. Between those two rules the price finds the market at every campus without a single pricing meeting, and the pilot's job is to find out how high it goes.
+Alpha's admissions funnel sells to one kind of family: the kind willing to change schools. In any city that is a few percent of the families who could pay. Everyone else, the families who love their school, cannot or will not pay full tuition, live too far, or were told not yet, gets nothing from Alpha, and Alpha gets nothing from them. US families spend about $40 billion a year on tutoring and after-school, and almost none of it comes from a family shopping for a new school. It comes from families keeping the school they have and buying what it does not provide. Alpha has never had a product for that family. Alpha Hours is that product, and the full 40-campus network at capacity is 1.7 percent of the spend in Alpha's own metros, which is why the constraint is buildings and not demand.
 
 ### Insight 3: Sweating the assets has an order of operations. Alpha Hours is the first step in filling every empty hour, and each step after it gets cheaper.
 
-Alpha campuses sit empty most hours of the week. Alpha Hours fills the first slice, weekday afternoons and Saturdays, and in doing so puts a trained team, insurance, and an operating playbook in place at every campus, all carried by that first program. Once that foundation exists, every other empty block, the 6:15 to 8:15 pm middle and high school block, school-break weeks, early mornings, adult evenings, can be added without rebuilding it, so each new program starts at a higher margin than the one before it. The first two additions, the evening block and break weeks, land inside Year 1. Alpha Hours is not the whole building-utilization strategy. It is just the first block of it.
+Alpha campuses sit empty most hours of the week. Alpha Hours fills the first slice, weekday afternoons and Saturdays, and in doing so puts a trained team, insurance, and an operating playbook in place at every campus, all carried by that first program. Once that foundation exists, every other empty block, the 6:15 to 8:15 pm middle and high school block, school-break weeks, early mornings, adult evenings, can be added without rebuilding it, so each new program starts at a higher margin than the one before it. The first two additions, the evening block and break weeks, land inside Year 1 and add about $8M at capacity on the pilot alone. Alpha Hours is not the whole building-utilization strategy. It is the first block of it, and the one that pays for the rest.
 
-### Insight 4: The parking risk is a pricing question, not a policy question.
+### Insight 4: A full-time seat reaches one child. An after-school seat reaches four. The path to a billion kids runs through the hours the building is closed as much as through the buildings Alpha has not built yet.
+
+Alpha adds about 20 campuses a year, and each one is a lease, a build-out, a head of school and a year of admissions before the first child learns anything. Every one of those buildings goes dark at 3:30 and all day Saturday. Alpha Hours puts four children on every seat in those hours, six once the evening block opens, without a lease, a build-out or a new campus. At capacity the pilot has 4,508 children on Timeback after school across nine buildings that hold a few hundred full-time students between them, and the full network has 11,908, more children than Alpha enrolls full-time today. A billion kids will not arrive one enrolled family at a time. They come from reaching the children who never change schools, and Alpha Hours is Alpha's first product that does.
+
+### Insight 5: Fill the room first, then raise the price. The waitlist sets the price, not the Head.
+
+At $4,500 the pilot campuses sell out or they do not, and either answer is information. A cohort that closes a session with a waitlist is underpriced, and reprices by $500 for the following session, mechanically. A cohort that does not sell 10 seats two weeks out does not open, and its families roll into another cohort. Between those two rules the price finds the market at every campus without a single pricing meeting, and every $500 on the session price is $10.9M a year on the full pilot at capacity. The pilot's job is to find out how high it goes.
+
+### Insight 6: The parking risk is a pricing question, not a policy question.
 
 The old worry was that a family would treat Alpha Hours as Alpha at a third of the price and never enroll. Two things dissolve it. First, the family that parks is a Stay customer, and a Stay customer is worth $22,500 a year for years: parking is the product. Second, the family that would have enrolled at full Alpha and is parking instead is a Considering family whose conversion conversation fires on data, not on the Head's judgment, so the invitation comes whether or not the Head wants to keep the seat. What is left is a price: from the sixth session, every seat reprices to $5,000 in premium markets ($4,000 standard) unless the family has an Alpha application on file, in which case the year-one rate holds. The application is the discount, not the requirement. A long-stayer is either pipeline or premium revenue, never a parked seat, and no family is ever exited for staying.
 
-### Insight 5: Each lane gets its own yardstick, or the numbers lie.
+### Insight 7: Each lane gets its own yardstick, or the numbers lie.
 
 A family that pays $4,500 and commits four hours a week for seven weeks has told us far more than a family that pays $100 and fills out a form. But if every family in the room is measured on conversion, the Stay lane looks like failure and the program looks like a leaky funnel, when it is the business. So each lane is measured on what it is for. Stay: re-enrollment, tenure in sessions, revenue per seat. Considering: conversion to full Alpha by number of sessions completed, and cost per enrollment, which turns negative because the family pays us while they decide. Path to yes: the share of families who clear their published thresholds and the share of those who are admitted. Current Alpha families: fill and re-enrollment. The Head reports all four every session, is reviewed on the P&L, and reports full-time enrollments as the upside line.
 
-### Insight 6: The "not yet" path to yes letter becomes a product.
+### Insight 8: The admissions upside pays for itself, and the data moves with the child.
 
-Today a not yet costs goodwill and loses the family to another school's funnel. A not yet that ships with an Alpha Hours seat, a concrete roadmap of mastery targets, and a scheduled re-evaluation date converts a rejection into revenue, retention, and a second look on better data. The roadmap must name measurable thresholds, so re-application becomes a data check instead of a second subjective judgment.
-
-### Insight 7: Seven weeks of data should produce the admissions decision, so set the bar before the session starts.
-
-Before each session opens, we define exactly what a child needs to show to earn an invitation to apply: how much they mastered, how consistently they showed up and completed their sessions. Then the decision makes itself. By the end of seven weeks, the data says yes or not yet, the same way the week-1 exit process works: the standard is set in advance and the record makes the call, not a gut feeling. This is what makes "a more thorough evaluation" a real claim instead of a longer version of the same judgment call. And it means we can raise the quality of the students we admit without admitting fewer of them.
-
-### Insight 8: The data builds over time, and it moves with the child.
-
-A shadow day gives us a few hours of impressions, and they fade. Alpha Hours gives us weeks of real data on what the child has mastered and the life skills they learn, and the data grows every session. When that family enrolls at full Alpha, the data comes with them: the child starts on day one at exactly the right level, no testing, no ramp-up. The same data that tells us whether to admit the child also tells us where to start them. No other school's trial produces either.
+Alpha gives away shadow days, staff time and the "not yet" roadmap for free, because the school needs the families more than the families need the school. Inside Alpha Hours all three are paid. A trial is a $4,500 session. A not yet ships with a seat, a roadmap with measurable thresholds, and a re-evaluation date, so re-application becomes a data check instead of a second subjective judgment. The evaluation runs on seven weeks of mastery data instead of a few hours of impressions, and the bar is set before the session opens, so the record makes the call and the school can raise the quality of the students it admits without admitting fewer. When the family does enroll, the data comes with the child: day one starts at exactly the right level, no testing, no ramp-up. No other school's trial produces any of that, and all of it lands on top of a business that would be worth building if no family ever converted.
 
 ## Knowledge Tree
 
@@ -199,6 +203,18 @@ Demand evidence, bottom-up. After-school is unprompted inbound demand, not only 
 - Feeder economics: A private school typically spends $3,700 to $5,800 in marketing to win one enrolled student (Cube Creative Design, 2026 Private School Marketing Budget Planning Guide: industry median $3,677, secondary $5,844). Alpha Hours flips that: the prospective family pays us $4,500 a session while they decide, so evaluating Alpha earns money instead of costing it. The trial is also far stronger than a shadow day. Every session ends with a conversion artifact. The child's mastery map and a personalized projection of weeks-to-grade-level at full Alpha, so the parent leaves holding a number, not an impression. Private schools typically convert 5 to 8 percent of inquiries to enrollments (Spiral Marketing, day-school benchmarks), and an inquiry is a stranger with a phone number, while every Alpha Hours family has paid $4,500 and watched their own child's mastery data climb for seven weeks. We model conversion at 4 to 8 percent of all enrolled families, most of it from the Considering and Path to yes lanes, and Session 2 exists to replace that assumption with our own measured number. Each conversion is worth $160,000 to $325,000 in lifetime tuition, which is why the upside is large even at a low rate.
 
 Insights: Standardization plus assessment builds scalable trust. Real estate already controlled is the margin. The Stay lane is the volume and the business. For a school-owned program, the feeder is upside worth more per family than the session fee, and it only functions with an intentional, structured handoff. The same room serves both.
+
+### Category 3: Sweating fixed assets, how other operators fill idle hours
+
+Summary: Any business with a building it pays for around the clock and uses for a fraction of the week has the same opportunity: sell the idle hours to a second customer without adding fixed cost.
+
+- After-school centers: Kumon, Mathnasium and their peers run their entire business in the 3 to 7 pm window and Saturday mornings, inside strip-mall space they lease for the whole week. The after-school hours are the business, not the leftover.
+- Universities: summer sessions, executive education and conference rentals run in dormitories and lecture halls that would otherwise sit empty for a third of the year, at margins the academic year cannot match, because the buildings are already paid for.
+- Churches and community buildings: weekday preschools and after-school programs are the most common tenant of a building that is otherwise used for a few hours a week.
+- Theaters and airlines: matinee pricing and yield management exist because an empty seat at 2 pm costs the same to carry as a full one at 8 pm; the second customer is priced to fill it, and the marginal cost is close to zero.
+- Alpha: every campus is paid for seven days a week and used for about six hours on five of them. The marginal cost of a weekday afternoon is about $150 to $250 and a Saturday about $400, against $9M a year of revenue on a 100-seat room at capacity.
+
+Insights: The idle hours are a second business, not a discount on the first. The operator that sells them first builds the team, insurance and playbook that every later use of the building inherits. Price the second customer on value, not on the marginal cost of the room.
 
 ## Business Model and Operations
 
@@ -292,7 +308,7 @@ The price point is already market-tested: 174 paid Alpha Summer registrations at
 
 ## Financials
 
-All figures at list price, premium tier ($4,500 per session, five sessions), K-8 blocks only unless stated. The 5 percent current-family discount trims totals by 1 to 2 percent depending on mix. Break weeks and the middle and high school block are shown separately as additions.
+All figures at list price, premium tier ($4,500 per session, five sessions), K-8 blocks only unless stated. The 5 percent current-family discount trims totals by 1 to 2 percent depending on mix. Break weeks and the middle and high school block are shown separately as additions. The standalone financials document carries the full model; this section is the summary.
 
 ### Unit economics per campus
 
@@ -302,90 +318,93 @@ Per-student cost per session: Timeback $150, the extrinsic motivation model (Alp
 
 Guides: 1 per 10 concurrent seats, part-time at $50,000 (roughly 21 hours a week), so a campus carries seats divided by 10 guides: 10 at a 100-seat room, 52 at Chicago's 517. The same guide serves all four cohorts, so one guide supports up to 40 enrolled students, about $1,250 of guide cost per enrolled student at even fill, $250 a session.
 
-Per-campus fixed cost: Lead Guide $75,000, Campus Coordinator $50,000 (50 percent role), facility about $45,000 a year, insurance about $8,000, and the AlphaTest Showcase events at $2,000 per campus per session (four cohort showcases), $10,000 a year. About $188,000 a year. William Street shares New York's coordinator, so its fixed cost is about $138,000.
+Per-campus fixed cost: Lead Guide $75,000, Campus Coordinator $50,000 (50 percent role), facility about $45,000 a year, insurance about $8,000, and the AlphaTest Showcase events at $2,000 per campus per session (four cohort showcases), $10,000 a year. About $188,000 a year, charged only for the sessions a campus is open. William Street shares New York's coordinator, so its fixed cost is about $138,000.
 
 Contribution per enrolled student: $20,325 a year ($4,500 less $435, times five), $19,075 after guides at even fill. Margin runs about 82 percent at capacity, higher at larger campuses where the fixed team spreads over more revenue.
 
 ### Pilot campuses at capacity
 
-| Campus | Seats | Enrolled | Guides | Revenue a year | Site profit | Margin |
-|---|---|---|---|---|---|---|
-| New York, 180 Maiden Lane | 100 | 400 | 10 | $9.00M | $7.44M | 83% |
-| New York, 156 William Street | 30 | 120 | 3 | $2.70M | $2.15M | 80% |
-| Greenwich (Armonk) | 80 | 320 | 8 | $7.20M | $5.92M | 82% |
-| Boston A | 40 | 160 | 4 | $3.60M | $2.86M | 80% |
-| Boston B | 100 | 400 | 10 | $9.00M | $7.44M | 83% |
-| Chicago, at launch | 94 | 376 | 10 | $8.46M | $6.95M | 82% |
-| Launch total, Session 2 | 444 | 1,776 | 45 | $39.96M | $32.77M | 82% |
-| Chicago, from January 2027 | 517 | 2,068 | 52 | $46.53M | $39.24M | 84% |
-| Expanded total, Session 3 onward | 867 | 3,468 | 87 | $78.03M | $65.06M | 83% |
+| Campus | Opens | Seats | Enrolled | Guides | Revenue a year | Site profit | Margin |
+|---|---|---|---|---|---|---|---|
+| New York, 180 Maiden Lane | Session 2 | 100 | 400 | 10 | $9.00M | $7.44M | 83% |
+| New York, 156 William Street | Session 2 | 30 | 120 | 3 | $2.70M | $2.15M | 80% |
+| Greenwich (Armonk) | Session 3 | 80 | 320 | 8 | $7.20M | $5.92M | 82% |
+| Boston A | Session 3 | 40 | 160 | 4 | $3.60M | $2.86M | 80% |
+| Boston B | Session 3 | 100 | 400 | 10 | $9.00M | $7.44M | 83% |
+| Chicago | Session 4 | 517 | 2,068 | 52 | $46.53M | $39.24M | 84% |
+| Miami | Session 4 | 150 | 600 | 15 | $13.50M | $11.26M | 83% |
+| Palm Beach | Session 4 | 60 | 240 | 6 | $5.40M | $4.39M | 81% |
+| Miami Beach | Session 4 | 50 | 200 | 5 | $4.50M | $3.63M | 81% |
+| Launch total, Session 2 (New York) | | 130 | 520 | 13 | $11.70M | $9.59M | 82% |
+| Session 3 total (plus Greenwich, Boston) | | 350 | 1,400 | 35 | $31.50M | $25.82M | 82% |
+| Full pilot total, Sessions 4 and 5 | | 1,127 | 4,508 | 113 | $101.43M | $84.33M | 83% |
 
 New York alone is $11.7M a year at capacity, $9.6M site profit, 520 enrolled across two buildings.
 
-Per session at capacity: $7.99M revenue and $6.55M site profit at launch, $15.61M revenue and $13.01M site profit from Session 3. Less the central team ($700K base, about $875K fully loaded), the expanded run rate nets about $64.2M a year.
+Per session at capacity: $2.34M revenue and $1.92M site profit in Session 2, $6.30M and $5.16M in Session 3, $20.29M and $16.87M from Session 4. Less the central team ($700K base, about $875K fully loaded), the full pilot run rate nets about $83.5M a year.
 
 ### Year 1 by session, three cases
 
-Year 1 is four sessions, Sessions 2 through 5. Session 2 runs at launch capacity, Sessions 3 to 5 at expanded capacity. Guides are hired to sold seats, so guide cost scales with fill; fixed cost does not.
+Year 1 is four sessions, Sessions 2 through 5. The footprint steps up each session: New York in Session 2, Greenwich and Boston from Session 3, Chicago and Florida from Session 4. Guides are hired to sold seats, so guide cost scales with fill; fixed cost is charged per open campus.
 
-Capacity is the ceiling. Plan is the number the Head is held to: 60 percent fill at launch, 75 percent in Session 3, 90 percent in Session 4, full in Session 5. Floor is every cohort at 25 percent fill all year, roughly the level at which the cohort floor would start closing cohorts.
+Capacity is the ceiling. Plan is the number the Head is held to: each campus fills 60 percent in its first session, 75 percent in its second, 90 percent in its third, and 100 percent from its fourth, so New York is full by Session 5 while Chicago and Florida are at 75 percent. Floor is every cohort at 25 percent fill all year, roughly the level at which the cohort floor would start closing cohorts.
 
-| Session | Dates | Enrolled, plan | Revenue, capacity | Revenue, plan | Site profit, plan |
-|---|---|---|---|---|---|
-| Session 2 | Oct 19 to Dec 18, 2026 | 1,066 (60%) | $7.99M | $4.80M | $3.84M |
-| Session 3 | Jan 4 to Feb 19, 2027 | 2,601 (75%) | $15.61M | $11.70M | $9.69M |
-| Session 4 | Feb 24 to Apr 16, 2027 | 3,121 (90%) | $15.61M | $14.05M | $11.67M |
-| Session 5 | Apr 26 to Jun 18, 2027 | 3,468 (100%) | $15.61M | $15.61M | $13.01M |
-| Year 1 total | | | $54.81M | $46.15M | $38.21M |
+| Session | Dates | Campuses open | Enrolled, plan | Revenue, capacity | Revenue, plan | Site profit, plan |
+|---|---|---|---|---|---|---|
+| Session 2 | Oct 19 to Dec 18, 2026 | 2 | 312 | $2.34M | $1.40M | $1.12M |
+| Session 3 | Jan 4 to Feb 19, 2027 | 5 | 918 | $6.30M | $4.13M | $3.30M |
+| Session 4 | Feb 24 to Apr 16, 2027 | 9 | 2,993 | $20.29M | $13.47M | $11.07M |
+| Session 5 | Apr 26 to Jun 18, 2027 | 9 | 3,643 | $20.29M | $16.39M | $13.54M |
+| Year 1 total | | | | $49.21M | $35.40M | $29.04M |
 
 | Year 1 case | Revenue | Site profit | Net after central team |
 |---|---|---|---|
-| Capacity (100 percent every session) | $54.8M | $45.6M | $44.7M |
-| Plan (60 / 75 / 90 / 100) | $46.2M | $38.2M | $37.3M |
-| Floor (25 percent all year) | $13.7M | $10.7M | $9.8M |
+| Capacity (100 percent at every open campus) | $49.2M | $40.8M | $39.9M |
+| Plan (60 / 75 / 90 / 100 by each campus's own session count) | $35.4M | $29.0M | $28.2M |
+| Floor (25 percent all year) | $12.3M | $9.5M | $8.6M |
 
-Even the floor case clears about $10M net in Year 1 on six campuses, because the cost base is part-time staff hired to sold seats inside buildings Alpha already pays for.
+Even the floor case clears about $8.6M net in Year 1, because the cost base is part-time staff hired to sold seats inside buildings Alpha already pays for. The exit run rate matters more than the Year 1 total: leaving Session 5 at plan, the pilot is running at $16.4M a session, $82M a year, before the national launch.
 
 ### Year 1 additions
 
-Break week, April 19 to 23, 2027: 867 seats across the pilot at $4,500 a week, $3.9M revenue at capacity, about $3.5M profit (a full-day guide week and supplies are the only costs). Two break weeks a year from Year 2, about $7.8M on the pilot footprint.
+Break week, April 19 to 23, 2027: 1,127 seats across the pilot at $4,500 a week, $5.1M revenue at capacity, about $4.6M profit (a full-day guide week and supplies are the only costs). Two break weeks a year from Year 2, about $10.1M on the pilot footprint.
 
-Middle and high school block, from Session 4 (February 24, 2027) at New York Maiden Lane and Greenwich: two more cohorts per campus, 200 enrolled at Maiden Lane and 160 at Greenwich, $8.1M a year of run rate, $3.2M inside Year 1 across Sessions 4 and 5 at capacity. Every pilot campus adds it in Fall 2027, which lifts the expanded pilot ceiling by 1,734 enrolled and $39.0M a year.
+Middle and high school block, from Session 4 (February 24, 2027) at New York Maiden Lane and Greenwich: two more cohorts per campus, 200 enrolled at Maiden Lane and 160 at Greenwich, $8.1M a year of run rate, $3.2M inside Year 1 across Sessions 4 and 5 at capacity. Every pilot campus adds it in Fall 2027, which lifts the pilot ceiling by 2,254 enrolled and $50.7M a year.
 
-Year 1 pilot with additions, at capacity: about $62M revenue. At plan: about $52M.
+Year 1 pilot with additions, at capacity: about $57M revenue. At plan: about $44M.
 
 ### Revenue by lane
 
-The room is the same in every lane, so revenue per seat is the same. What the lane changes is tenure, and what the family is worth beyond the session fee. The plan is sized on Stay. Mix is a modeled assumption for the pilot: Stay 70 percent, Considering 15 percent, Path to yes 5 percent, current Alpha families 10 percent. Session 2 replaces it with the measured split.
+The room is the same in every lane, so revenue per seat is the same. What the lane changes is tenure, and what the family is worth beyond the session fee. The plan is sized on Stay. Mix is a modeled assumption for the pilot: Stay 70 percent, Considering 15 percent, Path to yes 5 percent, current Alpha families 10 percent. Session 2 replaces it with the measured split. Figures at full pilot capacity, 4,508 enrolled.
 
-| Lane | Share | Families at expanded capacity | Session revenue a year | What else the family is worth |
+| Lane | Share | Families | Session revenue a year | What else the family is worth |
 |---|---|---|---|---|
-| Stay (the business) | 70% | 2,428 | $54.6M | Tenure. Three years at year-one then continuation rates is $72,500 a family, before break weeks. Five years is $122,500. |
-| Considering (upside) | 15% | 520 | $11.7M | Conversion. Two sessions ($9,000) plus a 20 percent conversion at $240,000 lifetime tuition is $57,000 expected per family, and the non-converters move to Stay. |
-| Path to yes (upside) | 5% | 173 | $3.9M | Admission on data. Three sessions ($13,500) plus a modeled 20 percent admit rate at $240,000 is $61,500 expected per family. |
-| Current Alpha | 10% | 347 | $7.4M (after 5 percent discount) | Retention. The school day no longer ends at 3:30. |
+| Stay (the business) | 70% | 3,156 | $71.0M | Tenure. Three years at year-one then continuation rates is $72,500 a family, before break weeks. Five years is $122,500. |
+| Considering (upside) | 15% | 676 | $15.2M | Conversion. Two sessions ($9,000) plus a 20 percent conversion at $240,000 lifetime tuition is $57,000 expected per family, and the non-converters move to Stay. |
+| Path to yes (upside) | 5% | 225 | $5.1M | Admission on data. Three sessions ($13,500) plus a modeled 20 percent admit rate at $240,000 is $61,500 expected per family. |
+| Current Alpha | 10% | 451 | $9.6M (after 5 percent discount) | Retention. The school day no longer ends at 3:30. |
 
 Seventy percent of the revenue comes from families who will never enroll, and it is the most durable 70 percent: nothing about their reason for not enrolling changes year to year. Conversion rates are modeled, not measured. The program clears its P&L at zero conversions, so every conversion is upside on top of the session revenue above.
 
 ### Downside economics
 
-Contribution per enrolled student is about $20,325 a year before guides. Minimum operating cost per campus is about $288K, so break-even is 15 enrolled students per campus, about 4 per cohort, under 4 percent of full capacity at the largest sites. Enrollment closes before each session starts and guides are hired to sold seats, so every staffing step is taken against booked revenue, and site margin holds between 73 and 83 percent at every fill level above break-even. Exposure is capped by design: one-session enrollment, part-time staff, no capex, and a building Alpha already pays for mean the maximum downside at any site is seven weeks of payroll.
+Contribution per enrolled student is about $20,325 a year before guides. Minimum operating cost per campus is about $288K, so break-even is 15 enrolled students per campus, about 4 per cohort, under 4 percent of full capacity at the largest sites. Enrollment closes before each session starts and guides are hired to sold seats, so every staffing step is taken against booked revenue, and site margin holds between 72 and 83 percent at every fill level above break-even. Exposure is capped by design: one-session enrollment, part-time staff, no capex, and a building Alpha already pays for mean the maximum downside at any site is seven weeks of payroll.
 
-Two mechanical floors sit under it. Cohort floor: a cohort that has not sold 10 seats two weeks before session start (October 5, 2026 for Session 2) does not open, and its families roll into the other weekday track or a Saturday block. Site floor: a campus below break-even at week 3 of Session 2 (the week of November 2) closes at session end, staff released, room returned to the campus. Week 3 is the checkpoint because attendance and re-enrollment intent, the program's own leading indicators, are both visible by then.
+Two mechanical floors sit under it. Cohort floor: a cohort that has not sold 10 seats two weeks before session start (October 5, 2026 for Session 2) does not open, and its families roll into the other weekday track or a Saturday block. Site floor: a campus below break-even at week 3 of its first session (the week of November 2 for New York) closes at session end, staff released, room returned to the campus. Week 3 is the checkpoint because attendance and re-enrollment intent, the program's own leading indicators, are both visible by then.
 
 ### The national build
 
-The build runs in three waves behind the pilot, each one a session apart, at capacity figures.
+The build runs in steps behind the New York launch, one session apart through the pilot year, then the national launch with the 2027-28 school year. Capacity figures.
 
-| Wave | Session | Campuses added | Seats added | Enrolled added | Run rate added | Network run rate |
+| Step | Session | Campuses added | Seats added | Enrolled added | Run rate added | Run rate |
 |---|---|---|---|---|---|---|
-| Pilot | Session 2, Oct 2026 | NYC (2), Greenwich, Boston (2), Chicago | 444 | 1,776 | $40.0M | $40.0M |
-| Wave 2 | Session 3, Jan 2027 | Chicago expansion, Austin (300), Miami (150), Palm Beach (60), Miami Beach (50) | 983 | 3,932 | $88.5M | $128.4M |
-| Wave 3 | Session 4, Feb 2027 | Every remaining campus, about 30, at a conservative 50 seats each | 1,550 | 6,200 | $139.5M | $267.9M |
+| Launch | Session 2, Oct 2026 | New York (2) | 130 | 520 | $11.7M | $11.7M |
+| Step 2 | Session 3, Jan 2027 | Greenwich, Boston (2) | 220 | 880 | $19.8M | $31.5M |
+| Step 3 | Session 4, Feb 2027 | Chicago (517), Miami, Palm Beach, Miami Beach | 777 | 3,108 | $69.9M | $101.4M |
+| Hold | Session 5, Apr 2027 | None: a full session on nine campuses with no new openings | 0 | 0 | | $101.4M |
+| National | Session 1, Fall 2027 | Austin (300) and every remaining campus, about 30 at a conservative 50 seats each | 1,850 | 7,400 | $166.5M | $267.9M |
 
-Full network at capacity, about 40 campuses, K-8 blocks only: 11,908 enrolled, $267.9M revenue, about $220M site profit (about 82 percent), about $216M net after central team. Chicago: 2,068 enrolled, $46.5M. Austin: 1,200 enrolled, $27M. New York: 520 enrolled, $11.7M. The middle and high school block lifts every participating campus ceiling by 50 percent from Fall 2027, a path toward $400M+ at full capacity, and two break weeks a year across 2,977 seats add about $27M.
-
-Year 1 network ceiling with every wave on schedule and every seat sold: $140.9M revenue (Session 2 $8.0M, Session 3 $25.7M, Sessions 4 and 5 $53.6M each). That is a ceiling, not a plan. The plan is the pilot table above, and each wave is released by the week-3 checkpoint of the session before it.
+Full network at capacity, about 40 campuses, K-8 blocks only: 11,908 enrolled, $267.9M revenue, about $220M site profit (about 82 percent), about $216M net after central team. Chicago: 2,068 enrolled, $46.5M. Austin: 1,200 enrolled, $27M. New York: 520 enrolled, $11.7M. The middle and high school block lifts every participating campus ceiling by 50 percent from Fall 2027, a path toward $400M+ at full capacity, and two break weeks a year across 2,977 seats add about $27M. Year 2 at 75 percent network fill with the evening block and break weeks: about $271M revenue, about $221M net. Year 3 at 90 percent: about $356M, about $292M.
 
 ### Market size
 
@@ -395,13 +414,13 @@ TAM about $40B a year: what US families already spend on tutoring and after-scho
 
 One conversion to full Alpha is worth $160,000 to $325,000 in lifetime tuition. Modeled conversion 4 to 8 percent of all enrolled families, most of it from the Considering and Path to yes lanes, replaced by our own measured number after Session 2. Nothing in the plan depends on it. The program is profitable at zero conversions, so the effective acquisition cost per full enrollment is negative.
 
-Feeder sensitivity. At a $240,000 midpoint lifetime tuition value, on the pilot's 3,468 enrolled at expanded capacity: 4 percent conversion is 139 enrollments, about $33M; 8 percent is 277, about $67M; 12 percent is 416, about $100M. On the full national base of 11,908 enrolled: 4 percent is about $114M, 8 percent about $229M, 12 percent about $343M. That is lifetime tuition, booked by the school over years, on top of a program that clears its own P&L in its first session.
+Feeder sensitivity. At a $240,000 midpoint lifetime tuition value, on the full pilot's 4,508 enrolled at capacity: 4 percent conversion is 180 enrollments, about $43M; 8 percent is 361, about $87M; 12 percent is 541, about $130M. On the full national base of 11,908 enrolled: 4 percent is about $114M, 8 percent about $229M, 12 percent about $343M. That is lifetime tuition, booked by the school over years, on top of a program that clears its own P&L in its first session.
 
 ## Potential Objections and Challenges
 
-### Reputation, and why New York is in
+### Reputation, and why New York goes first, alone
 
-Alpha Hours will be many families' first Alpha experience, and it carries the school's brand into every one of them. A weak session damages the school and the feeder, not just the program. The earlier plan answered that by holding New York out of the pilot for a year. This plan answers it with the controls, at every campus, New York first: the guide training program runs at Alpha NYC, so New York's guides are the best-trained in the network; guides are staffed to sold seats so no room ever opens understaffed; the Lead Guide owns quality in every building; the week-1 exit process protects every room from the one child who would wreck it; and the AlphaTest Showcase puts the proof on a stage every seven weeks. New York is also where the Head sits, where the demand was measured, and where the sales list already exists. The market that can be watched most closely is the wrong one to hold back.
+Alpha Hours will be many families' first Alpha experience, and it carries the school's brand into every one of them. A weak session damages the school and the feeder, not just the program. The earlier plan answered that by holding New York out of the pilot for a year. This plan answers it the other way: New York opens first, and opens alone, so the model is proven in the one market the Head can watch every day before any other building opens. The controls are the same at every campus that follows: the guide training program runs at Alpha NYC, so New York's guides are the best-trained in the network and every later campus inherits the program; guides are staffed to sold seats so no room ever opens understaffed; the Lead Guide owns quality in every building; the week-1 exit process protects every room from the one child who would wreck it; and the AlphaTest Showcase puts the proof on a stage every seven weeks. New York is also where the Head sits, where the demand was measured, and where the sales list already exists. The market that can be watched most closely is the right one to open first.
 
 ### Wrong-fit students, and the week 1 exit process
 
@@ -427,9 +446,9 @@ Some families will treat Alpha Hours as Alpha at a third of the price and delay 
 
 Yes, it is a business, and it is built to be one: sized on families who will never enroll, staffed to sold seats, and judged on fill and re-enrollment. It does not compete with the school, because the families it serves were never going to enroll, and the ones who were get a paid trial, a mastery map, and a data-triggered invitation instead of a free shadow day. The school loses nothing and gains a revenue line, full buildings, and a stream of applicants who have already paid to be evaluated.
 
-### Six campuses at once is a lot for a launch
+### One market in Session 2 is slow
 
-It is four markets inside one flight radius, a shared guide pool across New York, Greenwich, and Boston, one remote VP, and one launch checklist. The two New York buildings share a coordinator and are blocks apart. Every campus opens on sold seats, so a slow market opens small and a fast one opens full, and the cohort and site floors decide which is which without a meeting. What six campuses buy is six measured conversion and re-enrollment numbers in one session instead of four, and a New York number, which is the one the network's largest pipeline actually needs.
+It is one session, seven weeks, and it buys the number every later decision runs on: a measured New York fill, re-enrollment and lane mix, from the two buildings the Head can walk to. Greenwich and Boston open the very next session on that number, Chicago and Florida the session after, and the whole network the following fall. Nothing waits a year. What the sequence changes is that every campus opens on a playbook that has already run once, with guides trained in a room that is already working, and the cohort and site floors decide which campuses open small and which open full without a meeting. The pilot still ends Year 1 at nine campuses, 1,127 seats and a $101M run rate at capacity, and enters the national launch with four sessions of data instead of one.
 
 ### Guide supply at national scale
 
@@ -437,38 +456,40 @@ Guide hiring and training are owned by the Head of Alpha Hours. The candidate po
 
 ## Rollout
 
-### Phase 1 (Session 2, October 19 to December 18, 2026): four markets, six campuses, sold to the whole city
+### Session 2 (October 19 to December 18, 2026): New York, sold to the whole city
 
-New York (180 Maiden Lane, 100 seats; 156 William Street, 30 seats), Greenwich (Armonk, 80), Boston (two campuses, 40 and 100), Chicago (94 until the expansion lands). Every campus opens at full capacity, all four cohorts on sale, no cap and no small-group phase: the pilot enrolls every family these markets will buy, in every lane. 444 seats, 1,776 enrolled at capacity, a $40M run rate.
+180 Maiden Lane (100 seats) and 156 William Street (30 seats), both buildings, all four cohorts on sale, no cap and no small-group phase: the launch enrolls every family New York will buy, in every lane. 130 seats, 520 enrolled at capacity, an $11.7M run rate.
 
-Sales open in September to the whole city, not the funnel: the 1,000-plus HubSpot families from the Hamptons outreach, the 174 paid Hamptons families, the UHNW admissions event lists in Greenwich and Boston, and the parent networks of every school in the Financial District, Greenwich, Back Bay, and the Gold Coast, sold as the best after-school program in the city and nothing else. The admissions pipeline is the second list: every New York family who was not a yes gets a Path to yes seat or a Considering seat with the not-yet letter. Current Alpha families in every market are the base load. Cohort floor decision October 5. Week-3 checkpoint the week of November 2. Re-enrollment for Session 3 opens in week 4, the week of November 9, to enrolled families first.
+Sales open in September to the whole city, not the funnel: the 1,000-plus HubSpot families from the Hamptons outreach, the 174 paid Hamptons families, and the parent networks of every school in the Financial District, sold as the best after-school program in the city and nothing else. The admissions pipeline is the second list: every New York family who was not a yes gets a Path to yes seat or a Considering seat with the not-yet letter. Current Alpha families are the base load. Cohort floor decision October 5. Week-3 checkpoint the week of November 2. Re-enrollment for Session 3 opens in week 4, the week of November 9, to enrolled families first.
 
-Launching at Session 2 rather than Session 1 gives campuses a settled start to the school year and the runway for guide hiring, state exemption determinations (New York, Connecticut, Massachusetts, Illinois), and insurance. Quality is carried by the guide training program at Alpha NYC, the Lead Guide at every building, and guides hired to sold seats so no room opens understaffed.
+Launching at Session 2 rather than Session 1 gives the campus a settled start to the school year and the runway for guide hiring, the New York exemption determination, and insurance. Quality is carried by the guide training program at Alpha NYC, the Lead Guide in each building, and guides hired to sold seats so no room opens understaffed. While New York runs, Greenwich and Boston hire and train their guides in the New York rooms, and Connecticut and Massachusetts exemptions are filed alongside New York's in September.
 
 ### Pilot success criteria and measurement plan
 
-The pilot succeeds on two measured numbers: session-over-session re-enrollment at or above 70 percent, and plan fill (60 percent at launch, 75 percent in Session 3). Those are the business. Conversion to full Alpha is the upside, modeled at 4 to 8 percent of all enrolled families, and it is measured with the same rigor without being a pass or fail condition. The experiment is instrumented before it opens, in five commitments.
+The pilot succeeds on two measured numbers: session-over-session re-enrollment at or above 70 percent, and plan fill (60 percent in a campus's first session, 75 percent in its second). Those are the business. Conversion to full Alpha is the upside, modeled at 4 to 8 percent of all enrolled families, and it is measured with the same rigor without being a pass or fail condition. The experiment is instrumented before it opens, in five commitments.
 
 1. The lanes and the funnel are defined before Session 2 starts. Every family is tagged to a lane at enrollment. Conversion is not one number; it is tracked per family through six stages: paid Alpha Hours enrollment, structured conversion conversation held, application submitted, admitted, full-Alpha enrollment signed, first tuition payment. Stage-level tracking is what says whether a weak result is a marketing problem, an admissions problem, or a product problem. Stay families are tracked on tenure, not conversion.
 2. The trigger is mechanical. The thresholds that fire the conversion conversation and the application invitation, mastery gains, and session completion rate, are published before Session 2 opens, so the measured rate reflects the product, not the persuasiveness of whichever Lead Guide ran the conversation that week.
 3. The number is lift, not a raw count. Conversion is measured against a matched baseline of non-Alpha-Hours inquiries from the same markets and the same window, because some share of these families would have applied anyway, and the case rests on what Alpha Hours adds, not on conversions that were coming regardless.
-4. Sample size is respected. Session 2's 1,776 families are reported as directional, with the margin of error stated; the conversion read runs on the full 3,468 base by Session 3. Every number is reported by campus, by cohort, by lane, by session count, and by market, and a material spread between Chicago and the East Coast markets is treated as a market-mix finding that reshapes rollout sequencing, not noise to average away.
-5. The decision rule is pre-committed, and it runs on the business, not on conversion. Wave 2 is released at the Session 2 week-3 checkpoint if fill across the pilot is at or above 40 percent and no campus is below its site floor. Wave 3 is released at the Session 3 week-3 checkpoint on the same test plus Session 2 re-enrollment at or above 60 percent. Conversion below 6 percent at Session 3 does not pause the build; it triggers a funnel-stage review and moves the admissions conversation, not the program. Above 10 percent, the feeder becomes the lead story to leadership. Session 3's leadership conversation is the numbers and what they trigger, not another debate.
+4. Sample size is respected. Session 2's 520 New York families are reported as directional, with the margin of error stated; the read widens to 1,400 families in Session 3 and 4,508 from Session 4. Every number is reported by campus, by cohort, by lane, by session count, and by market, and a material spread between markets is treated as a market-mix finding that reshapes the sequence, not noise to average away.
+5. The decision rule is pre-committed, and it runs on the business, not on conversion. Each step is released at the week-3 checkpoint of the session before it: Greenwich and Boston at the Session 2 checkpoint (week of November 2) if New York fill is at or above 40 percent and neither building is below its site floor; Chicago and Florida at the Session 3 checkpoint (week of January 18) on the same test plus Session 2 re-enrollment at or above 60 percent; the national launch at the Session 5 checkpoint (week of May 10) on plan fill across the pilot and Year 1 re-enrollment at or above 70 percent. Conversion below 6 percent does not pause the build; it triggers a funnel-stage review and moves the admissions conversation, not the program. Above 10 percent, the feeder becomes the lead story to leadership. Each checkpoint conversation is the numbers and what they trigger, not another debate.
 
-### Phase 2 (Session 3, January 4, 2027): the Chicago expansion and the second wave
+### Session 3 (January 4, 2027): Greenwich and Boston
 
-Chicago's campus expansion lands and Alpha Hours steps with it, from 94 seats to 517, lifting the enrolled ceiling from 376 to 2,068 and the pilot from 1,776 to 3,468. One session of Chicago operating data, a waitlist built against the 94-seat footprint, and a trained guide bench sized to sold seats carry the step. This is the national build in miniature: the same room, the same playbook, five and a half times the seats, executed mid-pilot.
+Greenwich (Armonk, 80 seats) and both Boston campuses (40 and 100) open on the New York playbook, with guides trained in the New York rooms during Session 2 and one shared coordinator pool across the corridor. 350 seats, 1,400 enrolled, a $31.5M run rate at capacity. New York enters its second session at 75 percent plan fill with a Session 3 waitlist built against Session 2. Illinois and Florida exemption requests, which flag meals and the break-week format, are filed in November.
 
-The same session, Austin (300 seats), Miami (150), Palm Beach (60), and Miami Beach (50) open on the pilot playbook, released by the Session 2 week-3 checkpoint. Florida's exemption request, which flags meals and the break-week format, is filed in September alongside the pilot states. Network at Session 3: 1,427 seats, 5,708 enrolled, $128.4M run rate at capacity.
+### Session 4 (February 24, 2027): Chicago, Florida, and the evening block in New York and Greenwich
 
-### Phase 3 (Session 4, February 24, 2027): national launch, and the evening block in New York and Greenwich
+Chicago opens at its expanded 517 seats, the network's largest room, with two sessions of operating data behind it: this is the national build in miniature, the same playbook at five times the scale of any East Coast room. Miami (150), Palm Beach (60) and Miami Beach (50) open the same session. Nine campuses, 1,127 seats, 4,508 enrolled, a $101.4M run rate at capacity. The middle and high school block opens the same session at New York Maiden Lane and Greenwich, 6:15 to 8:15 pm, adding 360 enrolled and $8.1M of run rate.
 
-Every remaining campus, about 30, opens at a conservative 50 seats with two full sessions of operating data and the first measured conversion numbers. The middle and high school block opens the same session at New York Maiden Lane and Greenwich, 6:15 to 8:15 pm, adding 360 enrolled and $8.1M of run rate. Network at Session 4: about 40 campuses, 11,908 enrolled on K-8 blocks, $267.9M run rate at capacity.
+### Session 5 (April 26 to June 18, 2027): hold and prove
 
-### Phase 4 (April 2027 through Fall 2027): break weeks and the evening block everywhere
+No new openings. Nine campuses run a full session, the first break week runs April 19 to 23 across the pilot ($5.1M at capacity), and the pilot leaves the year at plan fill of $16.4M a session, an $82M run rate, with four sessions of measured fill, re-enrollment and conversion in five markets. The Session 5 week-3 checkpoint, the week of May 10, releases the national launch, which gives every remaining campus the summer to hire and train.
 
-The first break week runs April 19 to 23, 2027 across the pilot campuses, $3.9M at capacity. Fall 2027, the middle and high school block launches at every pilot campus and across the network, lifting every participating campus ceiling by 50 percent, and two break weeks a year become standard at every campus. The network grows with every new campus Alpha opens, about 20 a year.
+### Session 1, Fall 2027: national launch
 
-### Why these campuses
+Austin (300 seats) and every remaining campus, about 30 at a conservative 50 seats, open with the 2027-28 school year on a playbook that has run four times. Network: about 40 campuses, 2,977 seats, 11,908 enrolled on K-8 blocks, $267.9M run rate at capacity. The middle and high school block launches at every pilot campus the same fall, and two break weeks a year become standard at every campus. The network grows with every new campus Alpha opens, about 20 a year.
 
-New York is the network's most valuable pipeline and its best-instrumented market: measured unprompted demand, a proven $4,500 price, the guide training site, the Head on the ground, and two buildings blocks apart that let the youngest students run in the room built for them. Chicago is the network's largest campus: 94 seats at launch, 517 from January 2027, 2,068 enrolled at capacity, so the pilot tests the model at the exact scale the national build depends on, and its mid-pilot expansion is a live rehearsal of scaling a site, in a market outside the East Coast corridor, which makes the measured numbers generalize. Greenwich and Boston are dense UHNW markets at premium tuition where every conversion is worth the most, close enough to New York that one launch team and a shared guide pool cover four buildings. Four markets, six campuses, one session: enough to measure every lane in every kind of market, and enough revenue that the answer pays for itself either way. In every one of these cities, the families who will never enroll at Alpha outnumber the ones who will by more than ten to one. That is who the program is for.
+### Why this order
+
+New York first because it is the network's most valuable pipeline and its best-instrumented market: measured unprompted demand, a proven $4,500 price, the guide training site, the Head on the ground, and two buildings blocks apart that let the youngest students run in the room built for them. Greenwich and Boston second because they are dense UHNW markets at premium tuition, close enough to New York that one launch team and a shared guide pool cover five buildings, and every conversion there is worth the most. Chicago and Florida third because Chicago is the network's largest campus, 517 seats and 2,068 enrolled at capacity, so the pilot tests the model at the exact scale the national build depends on, in a market outside the East Coast corridor, and the three Florida campuses add the second-largest market with its own licensing regime, so the national playbook has been through both before it goes everywhere. Session 5 holds so the national launch is decided on a full year of data, not a partial one, and lands with the school year instead of mid-year. In every one of these cities, the families who will never enroll at Alpha outnumber the ones who will by more than ten to one. That is who the program is for.

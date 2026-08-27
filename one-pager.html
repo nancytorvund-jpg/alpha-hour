@@ -1,587 +1,81 @@
 <title>Alpha Hours: Executive One-Pager</title>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
 <style>
-  :root {
-    --ground: #F6F7F9;
-    --panel: #FFFFFF;
-    --ink: #152036;
-    --muted: #5B6577;
-    --faint: #8A93A3;
-    --line: #E1E4EA;
-    --accent: #9A6A22;
-    --accent-soft: #F0E4CE;
-    /* constant dark spotlight, same in both themes */
-    --spot-bg: #111B2E;
-    --spot-panel: #182742;
-    --spot-ink: #EEF1F6;
-    --spot-muted: #9BA7BD;
-    --spot-accent: #E0A94E;
-    --spot-line: #2A3A57;
-  }
-  @media (prefers-color-scheme: dark) {
-    :root {
-      --ground: #0D1524;
-      --panel: #131E33;
-      --ink: #E9ECF3;
-      --muted: #9DA7BA;
-      --faint: #6E7A90;
-      --line: #23314C;
-      --accent: #E0A94E;
-      --accent-soft: #2A2213;
-    }
-  }
-  :root[data-theme="light"] {
-    --ground: #F6F7F9;
-    --panel: #FFFFFF;
-    --ink: #152036;
-    --muted: #5B6577;
-    --faint: #8A93A3;
-    --line: #E1E4EA;
-    --accent: #9A6A22;
-    --accent-soft: #F0E4CE;
-  }
-  :root[data-theme="dark"] {
-    --ground: #0D1524;
-    --panel: #131E33;
-    --ink: #E9ECF3;
-    --muted: #9DA7BA;
-    --faint: #6E7A90;
-    --line: #23314C;
-    --accent: #E0A94E;
-    --accent-soft: #2A2213;
-  }
-
-  * { box-sizing: border-box; }
-  body {
-    margin: 0;
-    background: var(--ground);
-    color: var(--ink);
-    font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
-    line-height: 1.6;
-    -webkit-font-smoothing: antialiased;
-  }
-  .wrap {
-    max-width: 880px;
-    margin: 0 auto;
-    padding: clamp(28px, 5vw, 72px) clamp(20px, 5vw, 48px) 64px;
-  }
-
-  .serif { font-family: Georgia, "Iowan Old Style", "Times New Roman", serif; }
-  .num { font-variant-numeric: tabular-nums; }
-
-  .eyebrow {
-    font-size: 12px;
-    letter-spacing: 0.18em;
-    text-transform: uppercase;
-    color: var(--accent);
-    font-weight: 600;
-    margin: 0 0 14px;
-  }
-  h1 {
-    font-family: Georgia, "Iowan Old Style", serif;
-    font-weight: 600;
-    font-size: clamp(38px, 7vw, 62px);
-    line-height: 1.02;
-    letter-spacing: -0.015em;
-    margin: 0 0 18px;
-    text-wrap: balance;
-  }
-  .thesis {
-    font-family: Georgia, "Iowan Old Style", serif;
-    font-size: clamp(19px, 2.6vw, 24px);
-    line-height: 1.4;
-    color: var(--ink);
-    max-width: 40ch;
-    margin: 0 0 20px;
-    text-wrap: balance;
-  }
-  .byline {
-    font-size: 14px;
-    color: var(--muted);
-    padding-top: 18px;
-    border-top: 1px solid var(--line);
-  }
-  .byline strong { color: var(--ink); font-weight: 600; }
-
-  section { margin-top: clamp(40px, 6vw, 64px); }
-  .kicker {
-    font-size: 12px;
-    letter-spacing: 0.16em;
-    text-transform: uppercase;
-    color: var(--faint);
-    font-weight: 600;
-    margin: 0 0 20px;
-    display: flex;
-    align-items: center;
-    gap: 14px;
-  }
-  .kicker::after {
-    content: "";
-    flex: 1;
-    height: 1px;
-    background: var(--line);
-  }
-  h2 {
-    font-family: Georgia, "Iowan Old Style", serif;
-    font-weight: 600;
-    font-size: clamp(24px, 3.4vw, 32px);
-    line-height: 1.15;
-    letter-spacing: -0.01em;
-    margin: 0 0 8px;
-  }
-  p { margin: 0 0 14px; }
-  .lead { color: var(--muted); max-width: 62ch; }
-
-  /* four jobs grid */
-  .triad {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 16px;
-  }
-  .job {
-    background: var(--panel);
-    border: 1px solid var(--line);
-    border-radius: 4px;
-    padding: 22px 20px;
-  }
-  .job .n {
-    font-family: Georgia, serif;
-    font-size: 15px;
-    color: var(--accent);
-    font-weight: 600;
-  }
-  .job h3 {
-    font-size: 17px;
-    margin: 10px 0 8px;
-    letter-spacing: -0.01em;
-  }
-  .job p { font-size: 14px; color: var(--muted); margin: 0; }
-
-  /* generic two-col reason grid */
-  .reasons {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 24px 40px;
-  }
-  .reason h3 {
-    font-size: 16px;
-    margin: 0 0 6px;
-    letter-spacing: -0.01em;
-  }
-  .reason h3 span { color: var(--accent); font-family: Georgia, serif; margin-right: 8px; }
-  .reason p { font-size: 14px; color: var(--muted); margin: 0; }
-
-  /* market stat row */
-  .stats {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 14px;
-  }
-  .stat {
-    border-top: 2px solid var(--accent);
-    padding-top: 12px;
-  }
-  .stat .v {
-    font-family: Georgia, serif;
-    font-size: clamp(22px, 3.2vw, 30px);
-    font-weight: 600;
-    letter-spacing: -0.01em;
-    line-height: 1.05;
-  }
-  .stat .l { font-size: 12.5px; color: var(--muted); margin-top: 6px; line-height: 1.35; }
-
-  /* tables */
-  .table-scroll { overflow-x: auto; margin: 4px 0 0; }
-  table { border-collapse: collapse; width: 100%; font-size: 14.5px; }
-  th, td { text-align: left; padding: 12px 14px; border-bottom: 1px solid var(--line); }
-  thead th {
-    font-size: 12px;
-    letter-spacing: 0.06em;
-    text-transform: uppercase;
-    color: var(--faint);
-    font-weight: 600;
-  }
-  td.r, th.r { text-align: right; }
-  tbody tr td:first-child { font-weight: 500; }
-  .price { color: var(--accent); font-weight: 600; font-variant-numeric: tabular-nums; }
-
-  /* spotlight financial panel: constant dark in both themes */
-  .spotlight {
-    background: var(--spot-bg);
-    color: var(--spot-ink);
-    border-radius: 6px;
-    padding: clamp(28px, 4vw, 40px);
-    background-image: radial-gradient(120% 90% at 85% 0%, rgba(224,169,78,0.10), transparent 60%);
-  }
-  .spotlight .kicker { color: var(--spot-accent); }
-  .spotlight .kicker::after { background: var(--spot-line); }
-  .spotlight h2 { color: var(--spot-ink); }
-  .spotlight .lead { color: var(--spot-muted); }
-  .tiles {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 14px;
-    margin: 22px 0 28px;
-  }
-  .tile {
-    background: var(--spot-panel);
-    border: 1px solid var(--spot-line);
-    border-radius: 5px;
-    padding: 20px 18px;
-  }
-  .tile .v {
-    font-family: Georgia, serif;
-    font-size: clamp(26px, 4vw, 36px);
-    font-weight: 600;
-    color: var(--spot-accent);
-    letter-spacing: -0.015em;
-    line-height: 1;
-    font-variant-numeric: tabular-nums;
-  }
-  .tile .l { font-size: 13px; color: var(--spot-muted); margin-top: 10px; line-height: 1.4; }
-  .spotlight table th, .spotlight table td { border-bottom-color: var(--spot-line); }
-  .spotlight thead th { color: var(--spot-muted); }
-  .spotlight tbody tr td:first-child { color: var(--spot-ink); }
-  .spotlight td.figure { color: var(--spot-ink); font-variant-numeric: tabular-nums; }
-  .spotlight .hi td { color: var(--spot-accent); font-weight: 600; }
-  .caption { font-size: 12.5px; color: var(--spot-muted); margin: 16px 0 0; }
-
-  /* team list */
-  .team { display: grid; gap: 0; }
-  .member {
-    display: flex;
-    justify-content: space-between;
-    align-items: baseline;
-    gap: 20px;
-    padding: 14px 0;
-    border-bottom: 1px solid var(--line);
-  }
-  .member:first-child { border-top: 1px solid var(--line); }
-  .member .role { font-weight: 600; font-size: 15px; }
-  .member .role small { display: block; font-weight: 400; color: var(--muted); font-size: 13px; margin-top: 2px; }
-  .member .pay { color: var(--accent); font-weight: 600; white-space: nowrap; font-variant-numeric: tabular-nums; font-size: 15px; }
-
-  /* the ask */
-  .ask {
-    background: var(--accent-soft);
-    border: 1px solid var(--line);
-    border-left: 3px solid var(--accent);
-    border-radius: 4px;
-    padding: 24px 26px;
-  }
-  .ask h2 { margin-bottom: 12px; }
-  .ask ol { margin: 0; padding-left: 20px; }
-  .ask li { margin-bottom: 8px; font-size: 15px; }
-  .ask li:last-child { margin-bottom: 0; }
-
-  .foot {
-    margin-top: 48px;
-    padding-top: 18px;
-    border-top: 1px solid var(--line);
-    font-size: 12px;
-    color: var(--faint);
-    line-height: 1.5;
-  }
-
-  @media (max-width: 680px) {
-    .triad, .stats, .tiles, .reasons { grid-template-columns: 1fr; }
-    .stats { grid-template-columns: 1fr 1fr; }
-    .member { flex-direction: column; gap: 4px; }
-  }
+:root{--blue:#0000ED;--blue-soft:#EEF0FF;--blue-line:#C9CDFF;--ink:#0B1020;--ink-2:#3A4160;--muted:#6B7290;--line:#E3E6EF;--bg:#F7F8FC}
+*{box-sizing:border-box}
+html{background:var(--bg)}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:"DM Sans",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;font-size:9.8px;line-height:1.34;-webkit-font-smoothing:antialiased;font-feature-settings:"tnum" 1}
+.sheet{width:8.5in;min-height:11in;margin:24px auto;background:#fff;padding:.5in .55in .45in;box-shadow:0 1px 0 var(--line),0 24px 60px -30px rgba(11,16,32,.25);display:flex;flex-direction:column}
+.top{display:flex;align-items:flex-start;justify-content:space-between;border-bottom:4px solid var(--blue);padding-bottom:9px;margin-bottom:10px}
+.top .logo{width:110px;height:auto;display:block;margin-bottom:6px}
+.top .eyebrow{font-family:"Space Mono",monospace;font-size:8.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--blue);font-weight:700;margin:0 0 5px}
+.top h1{font-size:28px;line-height:1;letter-spacing:-.03em;font-weight:700;margin:0 0 5px}
+.top h1 span{color:var(--blue)}
+.top .sub{font-size:12.5px;color:var(--ink-2);margin:0;font-weight:500;max-width:5.2in;line-height:1.3;letter-spacing:-.01em}
+.top .meta{text-align:right;font-family:"Space Mono",monospace;font-size:8px;color:var(--muted);text-transform:uppercase;letter-spacing:.12em;line-height:1.5;padding-top:4px}
+.top .meta b{display:block;color:var(--ink);font-family:"DM Sans",sans-serif;font-size:10px;text-transform:none;letter-spacing:0;font-weight:600}
+.stats{display:grid;grid-template-columns:repeat(6,1fr);gap:7px;margin:0 0 9px}
+.stat{border:1px solid var(--line);border-top:3px solid var(--blue);border-radius:4px;padding:6px 8px 5px}
+.stat .v{font-family:"Space Mono",monospace;font-size:14.5px;font-weight:700;color:var(--blue);letter-spacing:-.02em;line-height:1.1;white-space:nowrap}
+.stat .l{font-size:8.6px;color:var(--ink-2);margin-top:3px;line-height:1.25}
+.cols{display:grid;grid-template-columns:1fr 1fr;gap:0 22px;flex:1}
+h3{font-family:"Space Mono",monospace;font-size:8.5px;letter-spacing:.2em;text-transform:uppercase;color:var(--blue);margin:7px 0 3px;padding-top:6px;border-top:1px solid var(--line)}
+.cols > div > h3:first-child{border-top:0;padding-top:0;margin-top:0}
+p{margin:0 0 5px}
+strong{font-weight:700}
+ul{margin:0 0 5px;padding-left:13px} li{margin-bottom:3px} li::marker{color:var(--blue);font-weight:700}
+table{width:100%;border-collapse:collapse;font-size:9.4px;margin:2px 0 6px}
+table td:first-child,table th:first-child{width:30%;white-space:normal}
+table th.num{white-space:normal}
+th{background:var(--blue);color:#fff;text-align:left;padding:4px 7px;font-weight:600;font-size:8.6px}
+td{padding:4px 7px;border-bottom:1px solid var(--line);vertical-align:top}
+td.num,th.num{text-align:right;font-family:"Space Mono",monospace;font-size:9px;white-space:nowrap}
+.case{background:var(--blue);color:#fff;border-radius:5px;padding:8px 12px;margin:5px 0 5px;font-size:11px;line-height:1.35;font-weight:500}
+.case .k{font-family:"Space Mono",monospace;font-size:7.5px;letter-spacing:.22em;text-transform:uppercase;opacity:.75;display:block;margin-bottom:3px}
+.ask{border:1px solid var(--blue-line);background:var(--blue-soft);border-radius:5px;padding:8px 12px;margin-top:2px}
+.ask h3{border:0;padding:0;margin:0 0 3px}
+.foot{margin-top:auto;padding-top:8px;border-top:1px solid var(--line);display:flex;justify-content:space-between;font-family:"Space Mono",monospace;font-size:7.5px;color:var(--muted);letter-spacing:.1em;text-transform:uppercase}
+@media print{html,body{background:#fff}.sheet{margin:0;box-shadow:none;width:auto;min-height:0;padding:0;height:auto}}
+@page{size:Letter;margin:.4in .5in .35in}
 </style>
-
-<div class="wrap">
-
-  <header>
-    <p class="eyebrow">Executive One-Pager</p>
-    <h1>Alpha Hours</h1>
-    <p class="thesis">The Alpha day, mastery-based academics on Timeback plus a life skills workshop, run after school and on Saturdays, in the buildings Alpha already pays for.</p>
-    <p class="byline"><strong>Nancy Wisniewski Torvund</strong>, proposed Head of Alpha Hours &nbsp;·&nbsp; July 23, 2026</p>
-  </header>
-
-  <section>
-    <p class="kicker">The idea</p>
-    <p class="lead">Run the Alpha day after school and on Saturdays, for families who do not yet attend Alpha and for current Alpha students whose school day ends at 3:30. A family picks a two-day track, Monday/Wednesday or Tuesday/Thursday, 4:00 to 6:00 pm, or a single four-hour Saturday block, inside Alpha campuses that sit empty after the school day. Either way the child gets 100 minutes of focused mastery academics on Timeback and 80 minutes of life skills a week, supported by guides hired and trained just for this program. Families enroll one seven-week session at a time, five sessions a year, each ending in an AlphaTest Showcase in front of the parents.</p>
-    <div class="triad">
-      <div class="job">
-        <span class="n">One</span>
-        <h3>It makes money</h3>
-        <p>Premium per-session pricing, above every after-school competitor in the market.</p>
-      </div>
-      <div class="job">
-        <span class="n">Two</span>
-        <h3>It uses empty real estate</h3>
-        <p>The building is a sunk cost Alpha already carries, owned or leased, with after-hours and weekend access either way. A late-afternoon or Saturday block adds near-zero facility cost.</p>
-      </div>
-      <div class="job">
-        <span class="n">Three</span>
-        <h3>It feeds Alpha</h3>
-        <p>The lowest-friction, paid way for a family to try the model, then enroll full-time at $40k to $75k. Conversion is the one modeled number, and the pilot exists to measure it.</p>
-      </div>
-      <div class="job">
-        <span class="n">Four</span>
-        <h3>It serves Alpha's own families</h3>
-        <p>Every Alpha campus ends the day at 3:30 with nothing behind it. Current Alpha students transition directly on campus, at a 5% family discount.</p>
-      </div>
-    </div>
-  </section>
-
-  <section>
-    <p class="kicker">How it runs</p>
-    <div class="reasons">
-      <div class="reason">
-        <h3><span>&#9679;</span>The block starts where the Alpha day ends</h3>
-        <p>Guide setup 3:30 to 3:45, drop-off 3:45 to 4:00, block 4:00 to 6:00 pm, dismissal 6:00 to 6:15. Every child is home for dinner. Saturdays run two four-hour blocks.</p>
-      </div>
-      <div class="reason">
-        <h3><span>&#9679;</span>Four cohorts share every room</h3>
-        <p>Monday/Wednesday, Tuesday/Thursday, Saturday morning, Saturday afternoon. Enrolled per campus is four times room capacity, and the middle and high school block (6:15 to 8:15 pm) lifts that to six times from Fall 2027.</p>
-      </div>
-      <div class="reason">
-        <h3><span>&#9679;</span>Five sessions, one at a time, then the seat reprices</h3>
-        <p>Each session is about seven weeks with a one-session minimum. Continuing past five sessions requires an Alpha application on file and the continuation rate ($6,500 premium / $5,000 standard), so a long-stayer is either pipeline or premium revenue.</p>
-      </div>
-      <div class="reason">
-        <h3><span>&#9679;</span>Every session ends on a stage</h3>
-        <p>The AlphaTest Showcase tests students on the session's life skills in front of their parents, in the same week the parents receive the child's mastery map and weeks-to-grade-level report.</p>
-      </div>
-    </div>
-  </section>
-
-  <section>
-    <p class="kicker">The market</p>
-    <div class="stats">
-      <div class="stat">
-        <div class="v num">$40B</div>
-        <div class="l">what US families already spend on tutoring and after-school a year</div>
-      </div>
-      <div class="stat">
-        <div class="v num">$16B</div>
-        <div class="l">the share of that spend in Alpha's metros (SAM)</div>
-      </div>
-      <div class="stat">
-        <div class="v num">22.6M</div>
-        <div class="l">children shut out of after-school for lack of spots</div>
-      </div>
-      <div class="stat">
-        <div class="v num">174</div>
-        <div class="l">paid Alpha Summer registrations at $4,500 a week, one price objection</div>
-      </div>
-    </div>
-    <p class="lead" style="margin-top:22px;">Demand is unprompted: 3 of 23 NYC admissions conversations in the last 14 days included an unasked-for after-school request, with no product to point to. The full 40-campus network at capacity is ~$267M, about 1.7% of SAM. The constraint is buildings, not demand.</p>
-  </section>
-
-  <section>
-    <p class="kicker">Pricing &nbsp;&#183;&nbsp; above every competitor, a fraction of Alpha</p>
-    <div class="table-scroll">
-      <table>
-        <thead>
-          <tr>
-            <th>Market</th>
-            <th class="r">Per session (~7 weeks)</th>
-            <th class="r">Full year (5 sessions)</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>Standard markets</td>
-            <td class="r price num">$3,500</td>
-            <td class="r price num">$17,500</td>
-          </tr>
-          <tr>
-            <td>Premium markets (all pilot campuses)</td>
-            <td class="r price num">$4,500</td>
-            <td class="r price num">$22,500</td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
-    <p class="lead" style="margin-top:16px;">Current Alpha families pay the same session price with a 5% discount ($4,275 premium). A session is about 28 hours, roughly $161 an hour, just under elite 1:1 tutors who cover one subject; we cover multiple, with the data to prove progress. The full year is roughly a third of full Alpha tuition. The family buys a place in the program, not hours.</p>
-  </section>
-
-  <section>
-    <p class="kicker">Why these campuses &nbsp;&#183;&nbsp; three markets, four campuses</p>
-    <p class="lead" style="margin-bottom:22px;">The pilot is Chicago, Boston (two campuses), and Greenwich (Armonk). NYC is deliberately excluded until Fall 2027.</p>
-    <div class="reasons">
-      <div class="reason">
-        <h3><span>&#9679;</span>Chicago tests the model at national scale</h3>
-        <p>The network's largest campus: 94 seats at launch, 517 from January 2027, 2,068 enrolled at capacity. Its mid-pilot expansion is a live rehearsal of scaling a site, in a market outside the East Coast corridor, so the measured conversion number generalizes.</p>
-      </div>
-      <div class="reason">
-        <h3><span>&#9679;</span>Greenwich and Boston carry the premium</h3>
-        <p>Dense UHNW markets at premium tuition where every conversion is worth the most, close enough that one launch team and a shared guide pool cover three campuses.</p>
-      </div>
-      <div class="reason">
-        <h3><span>&#9679;</span>NYC is held back on purpose</h3>
-        <p>The network's most valuable admissions pipeline and most visible market is not put at risk before the model is proven. New York opens Fall 2027 at 125 seats with a proven playbook.</p>
-      </div>
-      <div class="reason">
-        <h3><span>&#9679;</span>The pilot is a conversion experiment</h3>
-        <p>Success is conversion at or above 8% and re-enrollment at or above 70%, measured as lift against a matched baseline through a six-stage funnel. Decision rule, pre-committed: below 6% pause, 6 to 10% measured pace, above 10% national go.</p>
-      </div>
-    </div>
-  </section>
-
-  <section class="spotlight">
-    <p class="kicker">The numbers</p>
-    <h2 class="serif">The pilot at capacity, and the step to $66M</h2>
-    <p class="lead">All four cohorts filled at every campus (room capacity times four), premium pricing at $4,500 a session.</p>
-    <div class="tiles">
-      <div class="tile">
-        <div class="v">$28.26M</div>
-        <div class="l">revenue a year at launch capacity (Session 2, Fall 2026), 1,256 enrolled</div>
-      </div>
-      <div class="tile">
-        <div class="v">$66.33M</div>
-        <div class="l">revenue a year from Session 3 (January 2027), 2,948 enrolled after the Chicago expansion</div>
-      </div>
-      <div class="tile">
-        <div class="v">~$55.5M</div>
-        <div class="l">net a year at expanded capacity, after the central team</div>
-      </div>
-    </div>
-    <div class="table-scroll">
-      <table>
-        <thead>
-          <tr>
-            <th>Pilot campus</th>
-            <th class="r">Room cap</th>
-            <th class="r">Enrolled (x4)</th>
-            <th class="r">Revenue</th>
-            <th class="r">Site profit</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr><td>Chicago (94 seats at launch, 517 from Jan 2027)</td><td class="r figure">94 &#8594; 517</td><td class="r figure">376 &#8594; 2,068</td><td class="r figure">$8.46M &#8594; $46.53M</td><td class="r figure">$7.08M &#8594; $39.87M</td></tr>
-          <tr><td>Boston (campus B)</td><td class="r figure">100</td><td class="r figure">400</td><td class="r figure">$9.00M</td><td class="r figure">$7.57M</td></tr>
-          <tr><td>Greenwich (Armonk)</td><td class="r figure">80</td><td class="r figure">320</td><td class="r figure">$7.20M</td><td class="r figure">$6.02M</td></tr>
-          <tr><td>Boston (campus A)</td><td class="r figure">40</td><td class="r figure">160</td><td class="r figure">$3.60M</td><td class="r figure">$2.92M</td></tr>
-          <tr class="hi"><td>Total at launch</td><td class="r"></td><td class="r">1,256</td><td class="r">$28.26M</td><td class="r">$23.6M</td></tr>
-          <tr class="hi"><td>Total from Session 3</td><td class="r"></td><td class="r">2,948</td><td class="r">$66.33M</td><td class="r">$56.4M</td></tr>
-        </tbody>
-      </table>
-    </div>
-    <p class="caption">Year 1 is Sessions 2 through 5, one at launch capacity and three at expanded, a ceiling of about $45M revenue and roughly $38M net at full fill. No fill forecast is offered; fill is one of the things Session 2 exists to measure. Downside is capped: break-even is ~14 students per campus, a cohort that misses 10 seats two weeks out does not open, and a campus below break-even at week 3 closes at session end. Feeder pipeline: $55M to $85M in future Alpha tuition, each conversion worth $160K to $325K.</p>
-  </section>
-
-  <section class="spotlight">
-    <p class="kicker">The national build-out &nbsp;&#183;&nbsp; and the market beyond it</p>
-    <h2 class="serif">Every Alpha campus, and no ceiling</h2>
-    <p class="lead">All ~40 K-8 Alpha campuses at capacity, premium pricing. Austin 300 seats, Chicago 517, Miami 150, New York 125, Boston 100 and 40, Greenwich 80, Palm Beach 60, Miami Beach 50, all others a conservative 50.</p>
-    <div class="tiles">
-      <div class="tile">
-        <div class="v">$267.5M</div>
-        <div class="l">annual revenue at full national capacity, 11,888 enrolled</div>
-      </div>
-      <div class="tile">
-        <div class="v">~$219M</div>
-        <div class="l">annual net operating profit after the central team</div>
-      </div>
-      <div class="tile">
-        <div class="v">$228M+</div>
-        <div class="l">future Alpha tuition pipeline at 8 to 12% conversion (up to ~$342M)</div>
-      </div>
-    </div>
-    <div class="table-scroll">
-      <table>
-        <thead>
-          <tr>
-            <th>Largest campuses</th>
-            <th class="r">Room cap</th>
-            <th class="r">Enrolled (x4)</th>
-            <th class="r">Revenue</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr><td>Alpha Chicago (from Jan 2027)</td><td class="r figure">517</td><td class="r figure">2,068</td><td class="r figure">$46.53M</td></tr>
-          <tr><td>Alpha Austin</td><td class="r figure">300</td><td class="r figure">1,200</td><td class="r figure">$27.00M</td></tr>
-          <tr><td>Alpha Miami</td><td class="r figure">150</td><td class="r figure">600</td><td class="r figure">$13.50M</td></tr>
-          <tr><td>Alpha New York (opens Fall 2027)</td><td class="r figure">125</td><td class="r figure">500</td><td class="r figure">$11.25M</td></tr>
-          <tr><td>Alpha Boston</td><td class="r figure">100</td><td class="r figure">400</td><td class="r figure">$9.00M</td></tr>
-          <tr><td>35 more campuses</td><td class="r figure">40 to 80</td><td class="r figure">7,120</td><td class="r figure">$160.2M</td></tr>
-          <tr class="hi"><td>Total, ~40 campuses</td><td class="r"></td><td class="r">11,888</td><td class="r">$267.5M</td></tr>
-        </tbody>
-      </table>
-    </div>
-    <p class="caption">These figures count K-8 blocks only. The middle and high school block lifts every participating campus ceiling by 50% from Fall 2027, a path toward $400M+. That $267.5M is about 1.7% of a ~$16B serviceable market inside a ~$40B total market, and Alpha adds roughly 20 campuses a year, so the number climbs toward the market, not toward a cap.</p>
-  </section>
-
-  <style>
-    .timeline { display: grid; grid-template-columns: repeat(4, 1fr); gap: 22px; }
-    .phase { border-top: 2px solid var(--accent); padding-top: 16px; }
-    .phase .step { font-family: Georgia, serif; color: var(--faint); font-size: 13px; font-weight: 600; display: block; margin-bottom: 8px; }
-    .phase .when { font-size: 12px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--accent); font-weight: 700; }
-    .phase h3 { font-family: Georgia, serif; font-size: 19px; letter-spacing: -0.01em; margin: 8px 0 8px; }
-    .phase p { font-size: 14px; color: var(--muted); margin: 0; }
-    @media (max-width: 680px) { .timeline { grid-template-columns: 1fr; } }
-  </style>
-  <section>
-    <p class="kicker">The rollout &nbsp;&#183;&nbsp; prove it, expand it, take it national</p>
-    <div class="timeline">
-      <div class="phase">
-        <span class="step">Phase 1</span>
-        <div class="when">Session 2, Fall 2026</div>
-        <h3>Three-market pilot</h3>
-        <p>Chicago, Boston (two sites), Greenwich (Armonk), every campus at full capacity. 1,256 enrolled at capacity, run as a pre-registered conversion experiment.</p>
-      </div>
-      <div class="phase">
-        <span class="step">Phase 2</span>
-        <div class="when">Session 3, Jan 2027</div>
-        <h3>The Chicago expansion</h3>
-        <p>94 seats to 517, the pilot steps to 2,948 enrolled. The national build in miniature, executed mid-pilot.</p>
-      </div>
-      <div class="phase">
-        <span class="step">Phase 3</span>
-        <div class="when">Session 4, Spring 2027</div>
-        <h3>National launch</h3>
-        <p>The playbook rolls across the country with two sessions of operating data and the first measured conversion numbers.</p>
-      </div>
-      <div class="phase">
-        <span class="step">Phase 4</span>
-        <div class="when">Fall 2027</div>
-        <h3>New York, and 6x</h3>
-        <p>Alpha New York opens at 125 seats with a proven playbook, and the middle and high school block lifts every participating campus ceiling by 50%.</p>
-      </div>
-    </div>
-  </section>
-
-  <section>
-    <p class="kicker">The team</p>
-    <div class="team">
-      <div class="member">
-        <div class="role">Head of Alpha Hours <small>Nancy Wisniewski Torvund. Owns strategy, rollout, guide training, and the P&amp;L. Reviewed on conversions, not fill.</small></div>
-        <div class="pay">$400,000</div>
-      </div>
-      <div class="member">
-        <div class="role">Operations &amp; Admin VP <small>Remote. Registration, compliance, insurance, procurement, weekly per-site reporting.</small></div>
-        <div class="pay">$200,000</div>
-      </div>
-      <div class="member">
-        <div class="role">Lead Guide <small>Per campus. Manages the guides, onboarding, and programming.</small></div>
-        <div class="pay">$75,000</div>
-      </div>
-      <div class="member">
-        <div class="role">Campus Coordinator <small>Per campus, 50% role. Inventory, devices, accounts, coordination.</small></div>
-        <div class="pay">$50,000</div>
-      </div>
-      <div class="member">
-        <div class="role">Guides <small>Part-time, ~21 hours a week, dedicated to Alpha Hours. Trained via Alpha NYC shadowing plus an AI-first course.</small></div>
-        <div class="pay">$50,000</div>
-      </div>
-    </div>
-  </section>
-
-  <section>
-    <div class="ask">
-      <p class="kicker">The ask</p>
-      <h2 class="serif">Approve the pilot</h2>
-      <ol>
-        <li>Green-light the three-market pilot for Session 2, Fall 2026: Chicago, two Boston campuses, and Greenwich (Armonk), every campus at full capacity.</li>
-        <li>Commit to the pre-registered conversion experiment and its decision rule: below 6% pause, 6 to 10% measured pace, above 10% full national go.</li>
-        <li>Name Nancy Wisniewski Torvund as Head of Alpha Hours.</li>
-      </ol>
-    </div>
-  </section>
-
-  <p class="foot">Sources: alpha.school (program, locations, tuition), Alpha Summer registration data, IBISWorld 2025, Afterschool Alliance America After 3PM 2025, Cube Creative Design 2026, Spiral Marketing benchmarks, and current published pricing for Kumon, Mathnasium, Huntington, Sylvan, Fusion Academy, RSM, Command Education, and Lindamood-Bell. Alpha's learning-speed and test-score figures are Alpha's own internal data and are not independently audited.</p>
-
+<div class="sheet">
+<header class="top">
+  <div>
+    <img class="logo" src="data:image/webp;base64,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" alt="Alpha">
+    <p class="eyebrow">Executive one-pager</p>
+    <h1>Alpha <span>Hours</span></h1>
+    <p class="sub">A profitable after-school business unit inside Alpha buildings, built for the families who will never enroll at Alpha.</p>
+  </div>
+  <div class="meta">Prepared by<b>Nancy Wisniewski Torvund</b>Proposed Head of Alpha Hours<b>August 27, 2026</b></div>
+</header>
+<div class="stats"><div class="stat"><div class="v">$4,500</div><div class="l">a session, $22,500 a year, about a third of Alpha tuition</div></div><div class="stat"><div class="v">NYC first</div><div class="l">Oct 19, 2026; Greenwich and Boston S3; Chicago and Florida S4; national Fall 2027</div></div><div class="stat"><div class="v">$101M</div><div class="l">run rate at capacity from Session 4, nine campuses</div></div><div class="stat"><div class="v">$28.2M</div><div class="l">Year 1 net on the plan case, $39.9M at capacity</div></div><div class="stat"><div class="v">83%</div><div class="l">site margin at capacity, break-even 15 students a campus</div></div><div class="stat"><div class="v">11,908</div><div class="l">children on Timeback after school at full-network capacity</div></div></div>
+<div class="cols">
+<div>
+<h3>The idea</h3>
+<p>The Alpha day, after school: 100 minutes a week of mastery academics on Timeback and 80 minutes of life skills, in the Alpha building down the street, sold to every family in the city who will pay for it. Most of them will never apply to Alpha and never need to. They love their school, they will not pay $40,000 to $75,000, they live too far, or they were told not yet. They will pay $4,500 a session for the Alpha day after school, for as long as their child is in K-8.</p>
+<p>It does four things at once: <strong>a business unit that makes money on its own, buildings that stop going dark at 3:30, a market Alpha has never sold to, and, as upside, a paid, data-rich path into full-time Alpha.</strong></p>
+<h3>How it runs</h3>
+<ul><li><strong>The block starts where the school day ends.</strong> Weekdays 4:00 to 6:00 pm, Monday/Wednesday or Tuesday/Thursday, or one four-hour Saturday block. Four cohorts share every room, so enrolled is four times the seats.</li><li><strong>Five seven-week sessions a year, sold one at a time,</strong> $500 deposit, no application. Every session ends with an AlphaTest Showcase in front of the parents, the same week they receive the child's mastery map.</li><li><strong>One guide per ten seats, hired to sold seats.</strong> Snacks, Alpha bucks and the Emporium, and the showcase are all in the cost model at $435 a child a session.</li><li><strong>Priced against Alpha tuition, not Kumon.</strong> $4,500 a session, $22,500 a year, about a third of Alpha. Proven: 174 paid Hamptons registrations at $4,500 a week, one price objection.</li></ul>
+<h3>Who pays</h3>
+<p><strong>Stay, 70 percent:</strong> families who will never enroll. The business, $71.0M a year at full pilot capacity, re-enrolling five times a year for years. <strong>Considering, 15 percent</strong> and <strong>Path to yes, 5 percent:</strong> the upside, conversion modeled at 4 to 8 percent of all enrolled and worth $160K to $325K each in lifetime tuition. <strong>Current Alpha families, 10 percent:</strong> the base load, at 5 percent off.</p>
+<h3>The market</h3>
+<p>US families spend about <strong>$40B a year</strong> on tutoring and after-school, about <strong>$16B</strong> of it in Alpha's metros. The full 40-campus network at capacity is 1.7 percent of that. The constraint is buildings, not demand. In NYC, 3 of 23 recent admissions conversations asked for after-school unprompted.</p>
+</div>
+<div>
+<h3>The numbers</h3>
+<table><thead><tr><th class=""></th><th class="num">S2: New York</th><th class="num">S3: + Greenwich, Boston</th><th class="num">S4 and S5: + Chicago, Florida</th></tr></thead><tbody><tr><td class="">Campuses</td><td class="num">2</td><td class="num">5</td><td class="num">9</td></tr><tr><td class="">Seats / enrolled</td><td class="num">130 / 520</td><td class="num">350 / 1,400</td><td class="num">1,127 / 4,508</td></tr><tr><td class="">Revenue run rate</td><td class="num">$11.7M</td><td class="num">$31.5M</td><td class="num">$101.4M</td></tr><tr><td class="">Site profit (margin)</td><td class="num">$9.6M (82%)</td><td class="num">$25.8M (82%)</td><td class="num">$84.3M (83%)</td></tr></tbody></table>
+<p><strong>Year 1 (Sessions 2 to 5):</strong> plan $35.4M revenue, $28.2M net, leaving Session 5 at an $82M run rate; capacity $49.2M / $39.9M; floor at 25 percent fill all year $12.3M / $8.6M. Break-even is 15 students a campus. The New York launch budget, about $141K, is covered by Session 2 deposits, and every later step is paid from the sessions before it.</p>
+<h3>The rollout</h3>
+<p><strong>Session 2, October 19, 2026: New York only,</strong> 180 Maiden Lane (100 seats) and 156 William Street (30). <strong>Session 3, January 4, 2027:</strong> Greenwich (80) and Boston (40 and 100). <strong>Session 4, February 24, 2027:</strong> Chicago at 517, Miami (150), Palm Beach (60), Miami Beach (50). <strong>Session 5:</strong> the nine campuses run a full session with no new openings. <strong>Session 1, Fall 2027: national launch,</strong> Austin and every remaining campus, to about 40 campuses, 11,908 enrolled, $268M revenue, about $216M net at capacity. Each step is released by the week-3 checkpoint of the session before it: fill at or above 40 percent, no site below its floor, re-enrollment at or above 60 percent.</p>
+<h3>Toward a billion kids</h3>
+<p>A full-time seat reaches one child. An after-school seat reaches four, in a building Alpha already pays for, sold to families who will never change schools. At capacity the network puts 11,908 children on Timeback after school, more than Alpha enrolls full-time today, without a single new lease.</p>
+<h3>The team</h3>
+<p>Head of Alpha Hours $400K, owns the P&amp;L. Operations and Admin VP $200K, remote. Per campus: Lead Guide $75K, Campus Coordinator $50K (half role), guides $50K part-time, trained at Alpha NYC. Fixed cost per campus $188K.</p>
+<div class="case"><span class="k">The one-sentence case</span>Alpha Hours turns empty Alpha buildings into a profitable, premium after-school business built for the families who will never enroll at Alpha, which is most of them, and hands the school a paid, data-rich admissions channel as the upside.</div>
+<div class="ask"><h3>The ask</h3><p style="margin:0">Approve the New York launch for Session 2, the pre-committed step-by-step rollout and decision rule, and name Nancy Wisniewski Torvund Head of Alpha Hours.</p></div>
+</div>
+</div>
+<footer class="foot"><span>Alpha Hours · Executive one-pager</span><span>August 27, 2026 · Confidential draft</span></footer>
 </div>
