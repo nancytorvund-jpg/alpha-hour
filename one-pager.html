@@ -1,4 +1,587 @@
-<!doctype html><html><head><meta charset="utf-8"><title>Alpha Hours: Executive one-pager</title><style>body{font-family:Georgia,'Times New Roman',serif;max-width:860px;margin:40px auto;padding:0 24px;color:#12100c;background:#fffdf7;line-height:1.55}
-h1{font-size:2rem;margin:0 0 .5em}h2{font-size:1.4rem;margin:2em 0 .5em;border-bottom:1px solid #d9d2c3;padding-bottom:.2em}h3{font-size:1.1rem;margin:1.5em 0 .4em}
-table{border-collapse:collapse;width:100%;margin:1em 0;font-size:.92rem}th,td{border:1px solid #d9d2c3;padding:6px 8px;text-align:left;vertical-align:top}th{background:#f3eee2}
-p{margin:.7em 0}ul,ol{margin:.6em 0 .6em 1.4em}code{background:#f3eee2;padding:1px 4px}</style></head><body><h1>Alpha Hours: Executive one-pager</h1><p><strong>Owner:</strong> Nancy Wisniewski Torvund, proposed Head of Alpha Hours. Revision August 27, 2026.</p><h2>What it is</h2><p>A mastery learning center inside Alpha campuses after the school day, built on the Kumon model and the Timeback platform. A member comes twice a week for a one-hour guided visit (two 25-minute mastery sessions in math and reading, a floor guide holding focus, Alpha bucks and shoutouts), practices 25 minutes a day at home on Timeback, and stays for as long as the family wants. Monthly membership, $1,750 in premium markets, $1,250 standard, $750 enrollment fee. Every seat serves ten members.</p><h2>Who it is for</h2><p>Three lanes in one room, same price, same visit. Stay: families who will never enroll at Alpha and want the best hour in the city after school; the largest lane, worth $21,000 a year for years. Considering: families deciding on Alpha, who pay while they try it and whose conversion conversation fires on monthly data. Path to yes: families Alpha told "not yet," who pay for a roadmap with measurable thresholds and a re-evaluation date instead of a letter. Current Alpha families join at 5 percent off.</p><h2>Why Kumon</h2><p>Kumon built the largest after-school business in the world (about four million students, about 25,000 centers, no teachers) on throughput per seat, short visits, daily practice, monthly billing and multi-year tenure. Alpha Hours keeps the business model and replaces the worksheet with Timeback, the instructor with a guide, and the gold star with Alpha's motivation system, at eight times the price.</p><h2>The numbers</h2><ul><li>Pilot: October 19, 2026, six campuses (New York, Austin, Miami, Chicago, Greenwich, Boston), 400 seats, 4,000 members at capacity, $78M revenue, $67.6M net at capacity.</li><li>Year 1 plan, ramping to half full by October 2027: $25.9M revenue, $20.3M net, $39M exit run rate. Floor case nets $7.8M. Strong case nets $35.9M.</li><li>Contribution per premium member $19,180 a year (91 percent). Break-even 11 members a campus. Launch budget about $500K, covered by the first two months.</li><li>Feeder at plan peak: 800 families in the two conversion lanes; at 10 percent, 80 full-Alpha enrollments and about $19M of lifetime tuition. The P&amp;L clears at zero conversions.</li><li>Year 2, every campus (about 40): $230M revenue and $196M net at 50 percent fill; $461M and $403M at capacity. Company-owned satellites at $2.5M profit each.</li></ul><h2>Franchise verdict</h2><p>No. A 150-member center earns Alpha $2.5M owned and $0.6M franchised. Kumon franchised because $200-a-month tuition could not fund company-owned centers. Alpha Hours has no such problem. Company-owned satellites from Year 2; franchising evaluated once, in Year 3, only for standard-tier markets Alpha will never enter.</p><h2>Decision asked</h2><p>Approve the six-campus October 19 launch, the central team ($1.35M), the $500K launch budget, and the admissions routing policy (every not-yet becomes a Path to yes membership). Wave 2 (14 more campuses, February 24, 2027) releases on the month-3 checkpoint: 20 percent fill, 92 percent monthly retention, no campus below 11 members.</p></body></html>
+<title>Alpha Hours: Executive One-Pager</title>
+<style>
+  :root {
+    --ground: #F6F7F9;
+    --panel: #FFFFFF;
+    --ink: #152036;
+    --muted: #5B6577;
+    --faint: #8A93A3;
+    --line: #E1E4EA;
+    --accent: #9A6A22;
+    --accent-soft: #F0E4CE;
+    /* constant dark spotlight, same in both themes */
+    --spot-bg: #111B2E;
+    --spot-panel: #182742;
+    --spot-ink: #EEF1F6;
+    --spot-muted: #9BA7BD;
+    --spot-accent: #E0A94E;
+    --spot-line: #2A3A57;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --ground: #0D1524;
+      --panel: #131E33;
+      --ink: #E9ECF3;
+      --muted: #9DA7BA;
+      --faint: #6E7A90;
+      --line: #23314C;
+      --accent: #E0A94E;
+      --accent-soft: #2A2213;
+    }
+  }
+  :root[data-theme="light"] {
+    --ground: #F6F7F9;
+    --panel: #FFFFFF;
+    --ink: #152036;
+    --muted: #5B6577;
+    --faint: #8A93A3;
+    --line: #E1E4EA;
+    --accent: #9A6A22;
+    --accent-soft: #F0E4CE;
+  }
+  :root[data-theme="dark"] {
+    --ground: #0D1524;
+    --panel: #131E33;
+    --ink: #E9ECF3;
+    --muted: #9DA7BA;
+    --faint: #6E7A90;
+    --line: #23314C;
+    --accent: #E0A94E;
+    --accent-soft: #2A2213;
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--ground);
+    color: var(--ink);
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+  .wrap {
+    max-width: 880px;
+    margin: 0 auto;
+    padding: clamp(28px, 5vw, 72px) clamp(20px, 5vw, 48px) 64px;
+  }
+
+  .serif { font-family: Georgia, "Iowan Old Style", "Times New Roman", serif; }
+  .num { font-variant-numeric: tabular-nums; }
+
+  .eyebrow {
+    font-size: 12px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--accent);
+    font-weight: 600;
+    margin: 0 0 14px;
+  }
+  h1 {
+    font-family: Georgia, "Iowan Old Style", serif;
+    font-weight: 600;
+    font-size: clamp(38px, 7vw, 62px);
+    line-height: 1.02;
+    letter-spacing: -0.015em;
+    margin: 0 0 18px;
+    text-wrap: balance;
+  }
+  .thesis {
+    font-family: Georgia, "Iowan Old Style", serif;
+    font-size: clamp(19px, 2.6vw, 24px);
+    line-height: 1.4;
+    color: var(--ink);
+    max-width: 40ch;
+    margin: 0 0 20px;
+    text-wrap: balance;
+  }
+  .byline {
+    font-size: 14px;
+    color: var(--muted);
+    padding-top: 18px;
+    border-top: 1px solid var(--line);
+  }
+  .byline strong { color: var(--ink); font-weight: 600; }
+
+  section { margin-top: clamp(40px, 6vw, 64px); }
+  .kicker {
+    font-size: 12px;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--faint);
+    font-weight: 600;
+    margin: 0 0 20px;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+  }
+  .kicker::after {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: var(--line);
+  }
+  h2 {
+    font-family: Georgia, "Iowan Old Style", serif;
+    font-weight: 600;
+    font-size: clamp(24px, 3.4vw, 32px);
+    line-height: 1.15;
+    letter-spacing: -0.01em;
+    margin: 0 0 8px;
+  }
+  p { margin: 0 0 14px; }
+  .lead { color: var(--muted); max-width: 62ch; }
+
+  /* four jobs grid */
+  .triad {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 16px;
+  }
+  .job {
+    background: var(--panel);
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    padding: 22px 20px;
+  }
+  .job .n {
+    font-family: Georgia, serif;
+    font-size: 15px;
+    color: var(--accent);
+    font-weight: 600;
+  }
+  .job h3 {
+    font-size: 17px;
+    margin: 10px 0 8px;
+    letter-spacing: -0.01em;
+  }
+  .job p { font-size: 14px; color: var(--muted); margin: 0; }
+
+  /* generic two-col reason grid */
+  .reasons {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 24px 40px;
+  }
+  .reason h3 {
+    font-size: 16px;
+    margin: 0 0 6px;
+    letter-spacing: -0.01em;
+  }
+  .reason h3 span { color: var(--accent); font-family: Georgia, serif; margin-right: 8px; }
+  .reason p { font-size: 14px; color: var(--muted); margin: 0; }
+
+  /* market stat row */
+  .stats {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 14px;
+  }
+  .stat {
+    border-top: 2px solid var(--accent);
+    padding-top: 12px;
+  }
+  .stat .v {
+    font-family: Georgia, serif;
+    font-size: clamp(22px, 3.2vw, 30px);
+    font-weight: 600;
+    letter-spacing: -0.01em;
+    line-height: 1.05;
+  }
+  .stat .l { font-size: 12.5px; color: var(--muted); margin-top: 6px; line-height: 1.35; }
+
+  /* tables */
+  .table-scroll { overflow-x: auto; margin: 4px 0 0; }
+  table { border-collapse: collapse; width: 100%; font-size: 14.5px; }
+  th, td { text-align: left; padding: 12px 14px; border-bottom: 1px solid var(--line); }
+  thead th {
+    font-size: 12px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--faint);
+    font-weight: 600;
+  }
+  td.r, th.r { text-align: right; }
+  tbody tr td:first-child { font-weight: 500; }
+  .price { color: var(--accent); font-weight: 600; font-variant-numeric: tabular-nums; }
+
+  /* spotlight financial panel: constant dark in both themes */
+  .spotlight {
+    background: var(--spot-bg);
+    color: var(--spot-ink);
+    border-radius: 6px;
+    padding: clamp(28px, 4vw, 40px);
+    background-image: radial-gradient(120% 90% at 85% 0%, rgba(224,169,78,0.10), transparent 60%);
+  }
+  .spotlight .kicker { color: var(--spot-accent); }
+  .spotlight .kicker::after { background: var(--spot-line); }
+  .spotlight h2 { color: var(--spot-ink); }
+  .spotlight .lead { color: var(--spot-muted); }
+  .tiles {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 14px;
+    margin: 22px 0 28px;
+  }
+  .tile {
+    background: var(--spot-panel);
+    border: 1px solid var(--spot-line);
+    border-radius: 5px;
+    padding: 20px 18px;
+  }
+  .tile .v {
+    font-family: Georgia, serif;
+    font-size: clamp(26px, 4vw, 36px);
+    font-weight: 600;
+    color: var(--spot-accent);
+    letter-spacing: -0.015em;
+    line-height: 1;
+    font-variant-numeric: tabular-nums;
+  }
+  .tile .l { font-size: 13px; color: var(--spot-muted); margin-top: 10px; line-height: 1.4; }
+  .spotlight table th, .spotlight table td { border-bottom-color: var(--spot-line); }
+  .spotlight thead th { color: var(--spot-muted); }
+  .spotlight tbody tr td:first-child { color: var(--spot-ink); }
+  .spotlight td.figure { color: var(--spot-ink); font-variant-numeric: tabular-nums; }
+  .spotlight .hi td { color: var(--spot-accent); font-weight: 600; }
+  .caption { font-size: 12.5px; color: var(--spot-muted); margin: 16px 0 0; }
+
+  /* team list */
+  .team { display: grid; gap: 0; }
+  .member {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 20px;
+    padding: 14px 0;
+    border-bottom: 1px solid var(--line);
+  }
+  .member:first-child { border-top: 1px solid var(--line); }
+  .member .role { font-weight: 600; font-size: 15px; }
+  .member .role small { display: block; font-weight: 400; color: var(--muted); font-size: 13px; margin-top: 2px; }
+  .member .pay { color: var(--accent); font-weight: 600; white-space: nowrap; font-variant-numeric: tabular-nums; font-size: 15px; }
+
+  /* the ask */
+  .ask {
+    background: var(--accent-soft);
+    border: 1px solid var(--line);
+    border-left: 3px solid var(--accent);
+    border-radius: 4px;
+    padding: 24px 26px;
+  }
+  .ask h2 { margin-bottom: 12px; }
+  .ask ol { margin: 0; padding-left: 20px; }
+  .ask li { margin-bottom: 8px; font-size: 15px; }
+  .ask li:last-child { margin-bottom: 0; }
+
+  .foot {
+    margin-top: 48px;
+    padding-top: 18px;
+    border-top: 1px solid var(--line);
+    font-size: 12px;
+    color: var(--faint);
+    line-height: 1.5;
+  }
+
+  @media (max-width: 680px) {
+    .triad, .stats, .tiles, .reasons { grid-template-columns: 1fr; }
+    .stats { grid-template-columns: 1fr 1fr; }
+    .member { flex-direction: column; gap: 4px; }
+  }
+</style>
+
+<div class="wrap">
+
+  <header>
+    <p class="eyebrow">Executive One-Pager</p>
+    <h1>Alpha Hours</h1>
+    <p class="thesis">The Alpha day, mastery-based academics on Timeback plus a life skills workshop, run after school and on Saturdays, in the buildings Alpha already pays for.</p>
+    <p class="byline"><strong>Nancy Wisniewski Torvund</strong>, proposed Head of Alpha Hours &nbsp;·&nbsp; July 23, 2026</p>
+  </header>
+
+  <section>
+    <p class="kicker">The idea</p>
+    <p class="lead">Run the Alpha day after school and on Saturdays, for families who do not yet attend Alpha and for current Alpha students whose school day ends at 3:30. A family picks a two-day track, Monday/Wednesday or Tuesday/Thursday, 4:00 to 6:00 pm, or a single four-hour Saturday block, inside Alpha campuses that sit empty after the school day. Either way the child gets 100 minutes of focused mastery academics on Timeback and 80 minutes of life skills a week, supported by guides hired and trained just for this program. Families enroll one seven-week session at a time, five sessions a year, each ending in an AlphaTest Showcase in front of the parents.</p>
+    <div class="triad">
+      <div class="job">
+        <span class="n">One</span>
+        <h3>It makes money</h3>
+        <p>Premium per-session pricing, above every after-school competitor in the market.</p>
+      </div>
+      <div class="job">
+        <span class="n">Two</span>
+        <h3>It uses empty real estate</h3>
+        <p>The building is a sunk cost Alpha already carries, owned or leased, with after-hours and weekend access either way. A late-afternoon or Saturday block adds near-zero facility cost.</p>
+      </div>
+      <div class="job">
+        <span class="n">Three</span>
+        <h3>It feeds Alpha</h3>
+        <p>The lowest-friction, paid way for a family to try the model, then enroll full-time at $40k to $75k. Conversion is the one modeled number, and the pilot exists to measure it.</p>
+      </div>
+      <div class="job">
+        <span class="n">Four</span>
+        <h3>It serves Alpha's own families</h3>
+        <p>Every Alpha campus ends the day at 3:30 with nothing behind it. Current Alpha students transition directly on campus, at a 5% family discount.</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <p class="kicker">How it runs</p>
+    <div class="reasons">
+      <div class="reason">
+        <h3><span>&#9679;</span>The block starts where the Alpha day ends</h3>
+        <p>Guide setup 3:30 to 3:45, drop-off 3:45 to 4:00, block 4:00 to 6:00 pm, dismissal 6:00 to 6:15. Every child is home for dinner. Saturdays run two four-hour blocks.</p>
+      </div>
+      <div class="reason">
+        <h3><span>&#9679;</span>Four cohorts share every room</h3>
+        <p>Monday/Wednesday, Tuesday/Thursday, Saturday morning, Saturday afternoon. Enrolled per campus is four times room capacity, and the middle and high school block (6:15 to 8:15 pm) lifts that to six times from Fall 2027.</p>
+      </div>
+      <div class="reason">
+        <h3><span>&#9679;</span>Five sessions, one at a time, then the seat reprices</h3>
+        <p>Each session is about seven weeks with a one-session minimum. Continuing past five sessions requires an Alpha application on file and the continuation rate ($6,500 premium / $5,000 standard), so a long-stayer is either pipeline or premium revenue.</p>
+      </div>
+      <div class="reason">
+        <h3><span>&#9679;</span>Every session ends on a stage</h3>
+        <p>The AlphaTest Showcase tests students on the session's life skills in front of their parents, in the same week the parents receive the child's mastery map and weeks-to-grade-level report.</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <p class="kicker">The market</p>
+    <div class="stats">
+      <div class="stat">
+        <div class="v num">$40B</div>
+        <div class="l">what US families already spend on tutoring and after-school a year</div>
+      </div>
+      <div class="stat">
+        <div class="v num">$16B</div>
+        <div class="l">the share of that spend in Alpha's metros (SAM)</div>
+      </div>
+      <div class="stat">
+        <div class="v num">22.6M</div>
+        <div class="l">children shut out of after-school for lack of spots</div>
+      </div>
+      <div class="stat">
+        <div class="v num">174</div>
+        <div class="l">paid Alpha Summer registrations at $4,500 a week, one price objection</div>
+      </div>
+    </div>
+    <p class="lead" style="margin-top:22px;">Demand is unprompted: 3 of 23 NYC admissions conversations in the last 14 days included an unasked-for after-school request, with no product to point to. The full 40-campus network at capacity is ~$267M, about 1.7% of SAM. The constraint is buildings, not demand.</p>
+  </section>
+
+  <section>
+    <p class="kicker">Pricing &nbsp;&#183;&nbsp; above every competitor, a fraction of Alpha</p>
+    <div class="table-scroll">
+      <table>
+        <thead>
+          <tr>
+            <th>Market</th>
+            <th class="r">Per session (~7 weeks)</th>
+            <th class="r">Full year (5 sessions)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Standard markets</td>
+            <td class="r price num">$3,500</td>
+            <td class="r price num">$17,500</td>
+          </tr>
+          <tr>
+            <td>Premium markets (all pilot campuses)</td>
+            <td class="r price num">$4,500</td>
+            <td class="r price num">$22,500</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="lead" style="margin-top:16px;">Current Alpha families pay the same session price with a 5% discount ($4,275 premium). A session is about 28 hours, roughly $161 an hour, just under elite 1:1 tutors who cover one subject; we cover multiple, with the data to prove progress. The full year is roughly a third of full Alpha tuition. The family buys a place in the program, not hours.</p>
+  </section>
+
+  <section>
+    <p class="kicker">Why these campuses &nbsp;&#183;&nbsp; three markets, four campuses</p>
+    <p class="lead" style="margin-bottom:22px;">The pilot is Chicago, Boston (two campuses), and Greenwich (Armonk). NYC is deliberately excluded until Fall 2027.</p>
+    <div class="reasons">
+      <div class="reason">
+        <h3><span>&#9679;</span>Chicago tests the model at national scale</h3>
+        <p>The network's largest campus: 94 seats at launch, 517 from January 2027, 2,068 enrolled at capacity. Its mid-pilot expansion is a live rehearsal of scaling a site, in a market outside the East Coast corridor, so the measured conversion number generalizes.</p>
+      </div>
+      <div class="reason">
+        <h3><span>&#9679;</span>Greenwich and Boston carry the premium</h3>
+        <p>Dense UHNW markets at premium tuition where every conversion is worth the most, close enough that one launch team and a shared guide pool cover three campuses.</p>
+      </div>
+      <div class="reason">
+        <h3><span>&#9679;</span>NYC is held back on purpose</h3>
+        <p>The network's most valuable admissions pipeline and most visible market is not put at risk before the model is proven. New York opens Fall 2027 at 125 seats with a proven playbook.</p>
+      </div>
+      <div class="reason">
+        <h3><span>&#9679;</span>The pilot is a conversion experiment</h3>
+        <p>Success is conversion at or above 8% and re-enrollment at or above 70%, measured as lift against a matched baseline through a six-stage funnel. Decision rule, pre-committed: below 6% pause, 6 to 10% measured pace, above 10% national go.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="spotlight">
+    <p class="kicker">The numbers</p>
+    <h2 class="serif">The pilot at capacity, and the step to $66M</h2>
+    <p class="lead">All four cohorts filled at every campus (room capacity times four), premium pricing at $4,500 a session.</p>
+    <div class="tiles">
+      <div class="tile">
+        <div class="v">$28.26M</div>
+        <div class="l">revenue a year at launch capacity (Session 2, Fall 2026), 1,256 enrolled</div>
+      </div>
+      <div class="tile">
+        <div class="v">$66.33M</div>
+        <div class="l">revenue a year from Session 3 (January 2027), 2,948 enrolled after the Chicago expansion</div>
+      </div>
+      <div class="tile">
+        <div class="v">~$55.5M</div>
+        <div class="l">net a year at expanded capacity, after the central team</div>
+      </div>
+    </div>
+    <div class="table-scroll">
+      <table>
+        <thead>
+          <tr>
+            <th>Pilot campus</th>
+            <th class="r">Room cap</th>
+            <th class="r">Enrolled (x4)</th>
+            <th class="r">Revenue</th>
+            <th class="r">Site profit</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td>Chicago (94 seats at launch, 517 from Jan 2027)</td><td class="r figure">94 &#8594; 517</td><td class="r figure">376 &#8594; 2,068</td><td class="r figure">$8.46M &#8594; $46.53M</td><td class="r figure">$7.08M &#8594; $39.87M</td></tr>
+          <tr><td>Boston (campus B)</td><td class="r figure">100</td><td class="r figure">400</td><td class="r figure">$9.00M</td><td class="r figure">$7.57M</td></tr>
+          <tr><td>Greenwich (Armonk)</td><td class="r figure">80</td><td class="r figure">320</td><td class="r figure">$7.20M</td><td class="r figure">$6.02M</td></tr>
+          <tr><td>Boston (campus A)</td><td class="r figure">40</td><td class="r figure">160</td><td class="r figure">$3.60M</td><td class="r figure">$2.92M</td></tr>
+          <tr class="hi"><td>Total at launch</td><td class="r"></td><td class="r">1,256</td><td class="r">$28.26M</td><td class="r">$23.6M</td></tr>
+          <tr class="hi"><td>Total from Session 3</td><td class="r"></td><td class="r">2,948</td><td class="r">$66.33M</td><td class="r">$56.4M</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="caption">Year 1 is Sessions 2 through 5, one at launch capacity and three at expanded, a ceiling of about $45M revenue and roughly $38M net at full fill. No fill forecast is offered; fill is one of the things Session 2 exists to measure. Downside is capped: break-even is ~14 students per campus, a cohort that misses 10 seats two weeks out does not open, and a campus below break-even at week 3 closes at session end. Feeder pipeline: $55M to $85M in future Alpha tuition, each conversion worth $160K to $325K.</p>
+  </section>
+
+  <section class="spotlight">
+    <p class="kicker">The national build-out &nbsp;&#183;&nbsp; and the market beyond it</p>
+    <h2 class="serif">Every Alpha campus, and no ceiling</h2>
+    <p class="lead">All ~40 K-8 Alpha campuses at capacity, premium pricing. Austin 300 seats, Chicago 517, Miami 150, New York 125, Boston 100 and 40, Greenwich 80, Palm Beach 60, Miami Beach 50, all others a conservative 50.</p>
+    <div class="tiles">
+      <div class="tile">
+        <div class="v">$267.5M</div>
+        <div class="l">annual revenue at full national capacity, 11,888 enrolled</div>
+      </div>
+      <div class="tile">
+        <div class="v">~$219M</div>
+        <div class="l">annual net operating profit after the central team</div>
+      </div>
+      <div class="tile">
+        <div class="v">$228M+</div>
+        <div class="l">future Alpha tuition pipeline at 8 to 12% conversion (up to ~$342M)</div>
+      </div>
+    </div>
+    <div class="table-scroll">
+      <table>
+        <thead>
+          <tr>
+            <th>Largest campuses</th>
+            <th class="r">Room cap</th>
+            <th class="r">Enrolled (x4)</th>
+            <th class="r">Revenue</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td>Alpha Chicago (from Jan 2027)</td><td class="r figure">517</td><td class="r figure">2,068</td><td class="r figure">$46.53M</td></tr>
+          <tr><td>Alpha Austin</td><td class="r figure">300</td><td class="r figure">1,200</td><td class="r figure">$27.00M</td></tr>
+          <tr><td>Alpha Miami</td><td class="r figure">150</td><td class="r figure">600</td><td class="r figure">$13.50M</td></tr>
+          <tr><td>Alpha New York (opens Fall 2027)</td><td class="r figure">125</td><td class="r figure">500</td><td class="r figure">$11.25M</td></tr>
+          <tr><td>Alpha Boston</td><td class="r figure">100</td><td class="r figure">400</td><td class="r figure">$9.00M</td></tr>
+          <tr><td>35 more campuses</td><td class="r figure">40 to 80</td><td class="r figure">7,120</td><td class="r figure">$160.2M</td></tr>
+          <tr class="hi"><td>Total, ~40 campuses</td><td class="r"></td><td class="r">11,888</td><td class="r">$267.5M</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="caption">These figures count K-8 blocks only. The middle and high school block lifts every participating campus ceiling by 50% from Fall 2027, a path toward $400M+. That $267.5M is about 1.7% of a ~$16B serviceable market inside a ~$40B total market, and Alpha adds roughly 20 campuses a year, so the number climbs toward the market, not toward a cap.</p>
+  </section>
+
+  <style>
+    .timeline { display: grid; grid-template-columns: repeat(4, 1fr); gap: 22px; }
+    .phase { border-top: 2px solid var(--accent); padding-top: 16px; }
+    .phase .step { font-family: Georgia, serif; color: var(--faint); font-size: 13px; font-weight: 600; display: block; margin-bottom: 8px; }
+    .phase .when { font-size: 12px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--accent); font-weight: 700; }
+    .phase h3 { font-family: Georgia, serif; font-size: 19px; letter-spacing: -0.01em; margin: 8px 0 8px; }
+    .phase p { font-size: 14px; color: var(--muted); margin: 0; }
+    @media (max-width: 680px) { .timeline { grid-template-columns: 1fr; } }
+  </style>
+  <section>
+    <p class="kicker">The rollout &nbsp;&#183;&nbsp; prove it, expand it, take it national</p>
+    <div class="timeline">
+      <div class="phase">
+        <span class="step">Phase 1</span>
+        <div class="when">Session 2, Fall 2026</div>
+        <h3>Three-market pilot</h3>
+        <p>Chicago, Boston (two sites), Greenwich (Armonk), every campus at full capacity. 1,256 enrolled at capacity, run as a pre-registered conversion experiment.</p>
+      </div>
+      <div class="phase">
+        <span class="step">Phase 2</span>
+        <div class="when">Session 3, Jan 2027</div>
+        <h3>The Chicago expansion</h3>
+        <p>94 seats to 517, the pilot steps to 2,948 enrolled. The national build in miniature, executed mid-pilot.</p>
+      </div>
+      <div class="phase">
+        <span class="step">Phase 3</span>
+        <div class="when">Session 4, Spring 2027</div>
+        <h3>National launch</h3>
+        <p>The playbook rolls across the country with two sessions of operating data and the first measured conversion numbers.</p>
+      </div>
+      <div class="phase">
+        <span class="step">Phase 4</span>
+        <div class="when">Fall 2027</div>
+        <h3>New York, and 6x</h3>
+        <p>Alpha New York opens at 125 seats with a proven playbook, and the middle and high school block lifts every participating campus ceiling by 50%.</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <p class="kicker">The team</p>
+    <div class="team">
+      <div class="member">
+        <div class="role">Head of Alpha Hours <small>Nancy Wisniewski Torvund. Owns strategy, rollout, guide training, and the P&amp;L. Reviewed on conversions, not fill.</small></div>
+        <div class="pay">$400,000</div>
+      </div>
+      <div class="member">
+        <div class="role">Operations &amp; Admin VP <small>Remote. Registration, compliance, insurance, procurement, weekly per-site reporting.</small></div>
+        <div class="pay">$200,000</div>
+      </div>
+      <div class="member">
+        <div class="role">Lead Guide <small>Per campus. Manages the guides, onboarding, and programming.</small></div>
+        <div class="pay">$75,000</div>
+      </div>
+      <div class="member">
+        <div class="role">Campus Coordinator <small>Per campus, 50% role. Inventory, devices, accounts, coordination.</small></div>
+        <div class="pay">$50,000</div>
+      </div>
+      <div class="member">
+        <div class="role">Guides <small>Part-time, ~21 hours a week, dedicated to Alpha Hours. Trained via Alpha NYC shadowing plus an AI-first course.</small></div>
+        <div class="pay">$50,000</div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="ask">
+      <p class="kicker">The ask</p>
+      <h2 class="serif">Approve the pilot</h2>
+      <ol>
+        <li>Green-light the three-market pilot for Session 2, Fall 2026: Chicago, two Boston campuses, and Greenwich (Armonk), every campus at full capacity.</li>
+        <li>Commit to the pre-registered conversion experiment and its decision rule: below 6% pause, 6 to 10% measured pace, above 10% full national go.</li>
+        <li>Name Nancy Wisniewski Torvund as Head of Alpha Hours.</li>
+      </ol>
+    </div>
+  </section>
+
+  <p class="foot">Sources: alpha.school (program, locations, tuition), Alpha Summer registration data, IBISWorld 2025, Afterschool Alliance America After 3PM 2025, Cube Creative Design 2026, Spiral Marketing benchmarks, and current published pricing for Kumon, Mathnasium, Huntington, Sylvan, Fusion Academy, RSM, Command Education, and Lindamood-Bell. Alpha's learning-speed and test-score figures are Alpha's own internal data and are not independently audited.</p>
+
+</div>

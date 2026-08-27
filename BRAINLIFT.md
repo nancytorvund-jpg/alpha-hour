@@ -8,361 +8,467 @@ Nancy Wisniewski Torvund
 
 ### Primary purpose
 
-Design, launch and run Alpha Hours: a mastery learning center that runs inside existing Alpha campuses after the school day, built on the Kumon model and the Timeback platform, and sold to three kinds of families at once: families who will never enroll at Alpha and want the best academic program in the city for their child, families who are considering Alpha and want to try it before they commit, and families Alpha has told "not yet" who want a paid, measured path back to yes.
+Design, launch and run Alpha Hours: a premium after-school program that delivers the Alpha day, mastery-based academics on Timeback followed by a life skills workshop, inside existing Alpha campuses, and sells it to the families who will never enroll at Alpha. In every city, most families will not enroll at Alpha, for reasons that have nothing to do with whether they want what Alpha does: they love their school, they cannot or will not pay $40,000 to $75,000, they were not admitted, the commute does not work, the siblings are somewhere else. Those families are the market. Alpha Hours sells them the Alpha day, after school, for $22,500 a year, for as long as their child is in K-8. Families who are considering Alpha, and families Alpha has told "not yet," buy the same product in the same room, and some of them convert to full-time enrollment. That is the upside, and it is real, but the business does not depend on it. Current Alpha students, whose school day ends at 3:30, enroll on the same terms.
 
-The Kumon model, in one line: a child comes to a center twice a week for a short, focused visit, works at exactly their level on standardized material, practices every day at home, and stays for years. Kumon built the largest supplementary education business in the world on that loop with paper worksheets and no teachers. Alpha Hours runs the same loop with Timeback in place of the worksheet, a guide in place of the instructor, and Alpha's motivation system in place of a gold star, priced at the top of the market.
+Families attend four hours a week: a two-night track (Monday/Wednesday or Tuesday/Thursday, 4:00 to 6:00 pm) or a single four-hour Saturday block (two are offered). Every block runs Timeback in pomodoros, 25-minute mastery sessions, ends with life skills and shoutouts, and families enroll one seven-week session at a time, five sessions a year.
 
-A member comes to the center twice a week for a one-hour visit (two 25-minute mastery sessions on Timeback, with a guide holding focus and effort) and does a 25-minute Timeback session at home every other day. Membership is monthly and rolls until the family cancels. Membership includes both core subjects, math and reading, the placement assessment, the monthly mastery report, and the weeks-to-grade-level projection.
-
-Alpha Hours launches October 19, 2026 at six campuses: New York (180 Maiden Lane), Austin (Spyglass), Miami (Tropical Park), Chicago (Lakeshore East), Greenwich, and Boston (Beacon Hill). 400 seats, 4,000 members at capacity, $78M of revenue at capacity. Year 1 is the pilot, run only at Alpha campuses. The national build follows in Year 2.
+Alpha Hours launches in Session 2, October 19 to December 18, 2026, in four markets and six campuses: New York (180 Maiden Lane, 100 seats, and 156 William Street, 30 seats), Greenwich, Boston (two campuses), and Chicago. 444 seats, 1,776 enrolled at capacity, a $40M revenue run rate on day one, $78M from January 2027 when the Chicago expansion lands.
 
 ### The program exists to do four things at once
 
-1. Make money. Alpha Hours is a P&L first. It is priced above every competitor, it clears its fixed cost at eleven members per campus, and it runs at about 90 percent contribution margin because the building, the platform and the placement data already exist.
-2. Feed Alpha. Every family in the Considering lane is a paying prospect whose child generates seven weeks, then seven months, of mastery data. The conversion conversation fires on that data, not on a shadow day.
-3. Monetize the path to yes. Every family Alpha tells "not yet" is offered a membership with published thresholds and a re-evaluation date instead of a letter. They pay while they get ready, and the re-evaluation is a data check.
-4. Serve the families who will never join. They are the largest lane, the longest tenured, and the reason the P&L does not depend on admissions at all.
+1. Make money on the families who will never enroll. A premium after-school offering priced above every competitor, sold to every family in the city who will pay for it, most of whom will never apply to Alpha and never need to. The program is a P&L, and it clears its P&L at zero conversions.
+2. Use real estate we already pay for, turning empty late-afternoon, evening and weekend hours in Alpha buildings into revenue.
+3. Serve Alpha's own families. Almost every Alpha campus in the country ends the school day at 3:30 with nothing behind it. Alpha Hours closes that gap on every campus, and gets paid a premium price to do it. Current Alpha students enroll at the same session price with a 5 percent family discount, and transition directly on campus at the end of the school day.
+4. Upside: feed Alpha. Some families in the room are deciding on Alpha, and some were told "not yet." They get a paid trial with data instead of a free shadow day, and a paid roadmap back instead of a letter. The ones who convert are worth $160,000 to $325,000 each in lifetime tuition. That is upside on a business that already works without it.
 
-Success is measured on all four: site profit and revenue, membership tenure, conversions to full Alpha, and the share of "not yet" families who clear their thresholds. The Head of Alpha Hours is reviewed on the P&L and on full-time enrollments, both, every month.
+Success is measured on the first three: site profit and revenue, re-enrollment, building utilization, and current-family enrollment. Conversions to full Alpha are reported every session as the upside line. The Head of Alpha Hours is reviewed on the P&L first.
+
+### The market: families who will never enroll
+
+Alpha will never enroll 100 percent of the families in any city. It will not enroll 10 percent. In New York there are roughly 190 Alpha seats and hundreds of thousands of K-8 children whose parents can pay for a premium after-school program. The families who will never enroll are not a leftover. They are the market, and they do not enroll for reasons that have nothing to do with wanting what Alpha does:
+
+- They love their school, and are not leaving it. Legacy, siblings, community, a religious or single-sex school, a public school they fought to get into.
+- They cannot or will not pay full Alpha tuition, and can pay $22,500 a year.
+- They applied and were not admitted, or were admitted and the timing did not work.
+- The commute to Alpha does not work for a full school day, and works fine for two hours or a Saturday.
+- They want a traditional school and Alpha academics on the side, and are not interested in the argument.
+- They are on a waitlist somewhere else, or moving, or waiting for a sibling to age in.
+
+None of those reasons stops the family from buying Alpha Hours, and none of them changes over time. That is what makes this lane the business: it has no ceiling on tenure, it re-enrolls five times a year for as long as the child is in K-8, and it costs nothing to acquire after the first session.
 
 ### Three lanes, one room
 
-Every family sits in one of three lanes. The room, the guide, the visit and the price are the same in every lane. What differs is what we sell the family, what we measure, and what the family is worth.
+Every family sits in one of three lanes. The room, the guides, the block and the price are the same in every lane. What differs is what we sell the family, what we measure, and what the family is worth.
 
-**Stay.** Families who never plan to enroll at Alpha. Their child is at a school they like, or a school they are stuck with, and they want the best hour in the city after it. This is Kumon's entire customer base and it is the biggest lane. A Stay family is a $21,000-a-year customer for as long as the child is in K-8, and we sell them exactly that: mastery, twice a week, for years.
+**Stay.** The families above, who never plan to enroll at Alpha. This is the business: the lane the program is built for, the lane the plan is sized on, and the lane the Head is reviewed on. A Stay family is a $22,500-a-year customer for years, and we sell them exactly that: the Alpha day, after school, every session, for as long as they want it.
 
-**Considering.** Families deciding on Alpha. They pay $1,750 a month and two visits a week, they get a mastery map and a weeks-to-grade-level projection at the end of every month, and the structured conversion conversation fires when the data clears the published bar. Some convert. The ones who do not are not lost. They move into Stay.
+**Considering.** Upside. Families who are deciding on Alpha. They pay $4,500 and four hours a week for seven weeks to try it, they get a mastery map and a weeks-to-grade-level projection at the end, and the structured conversion conversation fires on data. Some convert. The ones who do not are not lost. They move into Stay.
 
-**Path to yes.** Families Alpha has told "not yet." Today that is a letter and a roadmap and a lost family. Now it is a membership, a roadmap with measurable thresholds, a re-evaluation date, and monthly data. When the data clears the bar, the child is invited to apply. If it never does, the family is still a Stay customer.
+**Path to yes.** Upside. Families Alpha has told "not yet." Today that is a letter and a roadmap and a lost family. Now it is a seat, a roadmap with measurable thresholds, a re-evaluation date, and seven weeks of data at a time, and the family pays for it. When the data clears the bar, the child is invited to apply. If it never does, the family is still a Stay customer.
 
-Current Alpha families can join at a 5 percent discount for extra mastery time. They are modeled at 5 percent of membership and are not needed for the plan.
+A fourth group, current Alpha families, enrolls on the same terms at a 5 percent discount and is the base load on every campus from day one.
+
+Underneath all four sit Alpha's three commitments, and every one carries into Alpha Hours with its own measurement.
+
+**Kids love school.** Underneath everything sits Alpha's first commitment, kids love school, and it carries into Alpha Hours unchanged: children love coming. This is measured by session-to-session re-enrollment and attendance, in addition to student surveys, and it is the leading indicator for everything else. A child who begs to come back is what fills the cohorts, climbs the mastery data, keeps the Stay family for years, and converts the Considering family. Profit and conversion are the outcomes, love of the program is the engine, and we track it accordingly.
+
+**Learn 2x.** Students learn at the accelerated pace Alpha holds itself to during their academic minutes. Measured by following every student's academic progress and learning velocity in Timeback, session over session. We do not promise 2x learning in one session, but promise the roadmap to 2x learning should the student enroll full-time at an Alpha School.
+
+**Learn life skills.** Every session culminates in an AlphaTest Showcase, where students are tested on the life skills they have been working on, in front of their parents. The students will already be convinced by the time they have the showcase, it exists as a mechanism for convincing the parents.
 
 ### Out of scope
 
-- Life skills workshops, showcases and enrichment as part of the program. Alpha Hours is academics. The Alpha day's afternoon is a separate effort.
-- Custom changes to Timeback for after-school use. The program runs the platform as built.
-- One-to-one human tutoring. Alpha Hours cannot accommodate students who need 1:1 support, and says so publicly.
-- Test-prep-only offerings.
-- Full-day or full-time schooling. This is a center, not a school.
-- Online-only delivery. Home practice is on Timeback, but the product is the center visit.
-- Childcare or custodial care. Alpha Hours is instruction, structured to qualify under state exemptions.
-- Grades outside K-8 at launch. A middle and high school evening slot is a Year 2 addition.
-- Franchising in Year 1 or Year 2. See the rollout section for the verdict.
+- Custom changes to Timeback for after-school use. The program runs the platform as built, not subject-by-subject.
+- Certified-teacher tutoring models or one-on-one private tutoring. Alpha Hours cannot accommodate students who need 1:1 support, and says so publicly on the landing page.
+- Test-prep-only offerings (SAT and ACT, APs).
+- Non-academic enrichment (arts, sports, social clubs) as the core product.
+- Full-day or full-time schooling. This is strictly after-school, Saturday, and school-break weeks.
+- Online-only delivery. The program is in-person inside Alpha buildings.
+- Childcare or custodial care. Alpha Hours is academic instruction, structured to qualify as instruction under state exemptions.
+- Subjects beyond Timeback. Grades outside K-8 at launch; the middle and high school evening block launches Session 4 (February 2027) in New York and Greenwich and everywhere else in Fall 2027.
 
 ## Experts
 
-### Toru Kumon, founder of Kumon
-
-A high school math teacher in Osaka who in 1954 wrote worksheets for his own son and by 1958 had a company. Kumon today has roughly four million students and about 25,000 centers in more than 50 countries, run by franchisees who are not certified teachers.
-
-Why follow: He built the largest supplementary education business in history on five rules that every other after-school program ignores: start the child below their current level so the first win is fast; make the material, not the person, carry the instruction; keep the visit short and the practice daily; bill monthly with no end date; and open the room only when it is full of children working. Alpha Hours is Kumon's business model with a better worksheet. Every operating decision in this document is checked against what Kumon would do.
-
 ### MacKenzie Price, co-founder of Alpha School
 
-Co-founded Alpha in Austin in 2014 and is the public voice of the model. Built a private-school network that puts core academics on an AI platform for about two hours a day, now approaching 50 campuses.
+Co-founded Alpha in Austin in 2014 and is the public voice of the model. Built a private-school network that puts core academics on an AI platform for about two hours a day, growing from about 200 students to over 1,000 in two years across a fast-expanding campus network.
 
-Why follow: She proved the model draws families at $40,000 to $75,000 tuition and that parents pay for measurable results delivered by software plus guides, not teachers. Alpha Hours is her academic block, sold by the month.
+Why follow: She proved the Alpha model draws families at $40,000 to $75,000 tuition and that parents will pay for measurable results delivered by software plus guides, not teachers. Alpha Hours is her model, moved into the after-school hours.
+
+### Toru Kumon, founder of Kumon
+
+Built one of the largest after-school brands in history, 25,000+ centers, on a simple idea, to master before you progress, and make progress visible to parents.
+
+Why follow: He showed a tightly standardized, low-touch mastery system scales globally without certified teachers, and that most of his customers never wanted anything more than Kumon. Kumon is the volume baseline Alpha Hours must beat on outcomes and price, and the proof that the Stay lane is a business on its own.
 
 ### Larry Martinek, co-founder of Mathnasium
 
-Turned classroom math methods into a franchise of about 1,000 centers built on trained non-teacher instructors and a fixed method, at $250 to $500 a month.
+Turned classroom math methods into a franchise built on trained non-teacher instructors and a fixed method.
 
-Why follow: Mathnasium is Kumon's model with more instructor contact and a higher price. It proves the market pays a premium for a guided center visit over a worksheet, which is exactly the step Alpha Hours takes with guides.
+Why follow: His model proves the market pays a premium for structured help delivered by trained guides rather than credentialed teachers, which is exactly Alpha Hours' staffing thesis.
 
 ### Raymond and Eileen Huntington, founders of Huntington Learning Center
 
-Built one of the first broad-subject tutoring franchises, anchored on a diagnostic assessment and structured programs.
+Built one of the first broad-subject tutoring franchises, anchored on diagnostic assessment and structured programs.
 
-Why follow: They showed the assessment builds trust and justifies the price. Alpha Hours replaces their one-time diagnostic with a placement assessment at enrollment and a mastery map every month.
+Why follow: They showed assessment data builds trust and justifies higher prices. Alpha Hours replaces their diagnostics with continuous Timeback mastery data, which is stronger proof delivered more often.
 
 ### Michelle Rose Gilman, founder of Fusion Academy
 
 Grew a garage tutoring program into a one-to-one private school charging roughly $8,000 to $17,000 per course per year.
 
-Why follow: Fusion is the current price ceiling for structured academic programs below full private school, and the reference class Alpha Hours prices against, not Kumon.
+Why follow: Fusion is the current price ceiling for structured academic programs below full private school, and the reference price class Alpha Hours should be compared against, not Kumon.
 
 ### Command Education and Lindamood-Bell (premium-pricing reference)
 
 Command Education charges $120,000 a year, up to $750,000 for a six-year package. Lindamood-Bell charges over $10,000 for a six-week reading intensive.
 
-Why follow: Both price against the value of the outcome, not hours delivered. They are the template for Alpha Hours' pricing logic: anchor on the result, quote the month, never the hour.
+Why follow: Both price against the value of the outcome, not hours delivered. They are the template for Alpha Hours' pricing logic: anchor on the result, quote the session number, not hourly number.
 
 ## Spiky Points of View
 
-### SPOV 1: The most profitable after-school program in the world charges $200 a month. We charge $1,750 and are more profitable per seat.
+### SPOV 1: We will never get 100 percent of the families in any city to enroll at Alpha. We can make money on the ones who don't.
 
-Kumon's economics come from throughput and tenure, not price: a seat serves ten children a week, the material does the teaching, and a family stays for years. Everyone who copies Kumon copies the worksheet. We copy the throughput. A 20-seat room at Alpha Hours serves 200 members, the same as a good Kumon center, at eight times Kumon's price and with a guide instead of a franchisee, and it runs inside a building we already pay for. The per-seat economics beat Kumon's by an order of magnitude and the product is better.
+Alpha's growth is capped by seats and by the share of families who will ever change schools, and both caps are low. Every other family in the city, the ones who love their school, cannot pay full tuition, were not admitted, live too far, or just want what they have plus Alpha academics on the side, is written off today. Every version of an after-school feeder treats the family that stays and never applies as a leak. It is the opposite. In every city we operate in, the families who can pay $4,500 a session and will never leave their current school outnumber the families who will ever apply to Alpha by ten to one or more. They are not a risk to the funnel. They are the business. A Stay family re-enrolls five times a year for as long as the child is in K-8, and costs us nothing to acquire after the first session. We sell them Alpha Hours on its own merits, we size the plan on them, and the families who do enroll at Alpha are the upside.
 
-### SPOV 2: The family that will never enroll at Alpha is worth $21,000 a year, and there are more of them than applicants.
+### SPOV 2: Alpha Hours is a business unit, not an admissions program. It is judged on profit, fill and re-enrollment, and the school is the upside.
 
-Every version of an after-school feeder treats the family that stays and never applies as a leak. It is the opposite. In every city we operate in, the families who can pay $1,750 a month and will never leave their current school outnumber the families who will ever apply to Alpha by ten to one or more. They are not a risk to the funnel. They are the business. A Stay family renews every month for as long as the child is in K-8 and costs us nothing to acquire after the first month.
+Every after-school idea inside a school gets built as a feeder and judged on conversions, and every one of them stays small, because a feeder can only be as big as the applicant pool. Alpha Hours is built the other way around. It is a P&L with its own Head, its own revenue, its own cost base and its own customers, most of whom will never apply to Alpha. At $4,500 a session and about 82 percent site margin it makes money in its first session with zero conversions. Whatever admissions gets out of it is upside on top, and the Head is reviewed on the business first.
 
-### SPOV 3: It is bad business to give away all of our trials for free when we can make money on them.
+### SPOV 3: The family that never switches schools is the best customer in education.
 
-Traditional school admissions gives free trials because the schools need the families more than the families need the school. Alpha does this today with free shadow days. Alpha Hours funnels a portion of prospective families into a paid membership, monetizing the trial that would otherwise be free, and the trial produces months of data instead of hours of impressions.
+A family that enrolls at Alpha pays once a year and can leave at any renewal. A family that stays at its own school and buys Alpha Hours re-enrolls five times a year, for as long as the child is in K-8, and never has to be sold again after the first session. Their reason for not enrolling, they love their school, they cannot pay full tuition, they live too far, they were not admitted, does not change, so their tenure has no ceiling. Kumon built four million students on this customer at $200 a month. We serve the same customer at $4,500 a session, and it is the lane the plan is sized on.
 
-### SPOV 4: Every pathway to yes outside of Alpha is losing us money.
+### SPOV 4: 100 minutes a week and a roadmap is superior to six hours a day and a letter grade.
 
-At Alpha a no is never a no forever; it is a "not yet" with a pathway to yes. Today the pathway is feedback and a roadmap, delivered free, and the family leaves for another school's funnel. A pathway to yes that runs inside Alpha Hours is paid monthly, measured monthly, and ends in a data check instead of a second interview.
+What 100 weekly minutes of Timeback produces something no school or human teacher in America can give a parent, a precise mastery map of where the child actually is in every subject, the child's measured learning velocity, and a computed answer to the only question that matters, which is exactly how many weeks at full Alpha until this child is at grade level, or the next one. The traditional school has the child six hours a day for years and produces a report card guessing subjectively at all of this. Seven weeks with us produces the map and the timeline. Every family who pays for Alpha Hours is running an experiment that indicts the school they already write checks to. We do not compete with Kumon. We compete with six hours of no information, and we win in seven weeks.
 
-### SPOV 5: Two hours a week and daily practice beat four hours a week with no practice.
+### SPOV 5: Price against Alpha tuition, not against Kumon.
 
-The old Alpha Hours design put the child in the building four hours a week and sent nothing home. Kumon's insight is that the center visit is the checkpoint and the daily practice is the dose. A child who does 25 minutes of Timeback at home on the days between visits gets more mastery minutes a week than the old design delivered, at half the seat time and half the labor. The home practice is also the thing that makes the family's evening different, and a family whose evenings changed does not cancel.
+Every after-school program in America prices against the one next door: $200 a month at Kumon, $400 at Mathnasium, $75 an hour at Huntington. Alpha Hours prices against the thing the family cannot or will not buy, a $40,000 to $75,000 Alpha seat, and sells the Alpha day after school for about a third of it: $22,500 a year. The number is already proven, 174 paid Hamptons registrations at $4,500 a week with one price objection. Where a cohort sells out, the waitlist reprices it by $500 the next session, mechanically, and the pilot's job is to find out how high the ceiling is.
 
-### SPOV 6: The month is the unit, not the session.
+### SPOV 6: Sell one session at a time, and you keep the family for years.
 
-Sessions are a school habit. They create five re-enrollment decisions a year, five moments a family can leave, and five weeks of enrollment work per campus. Kumon bills monthly and lets the family decide to leave rather than decide to stay. Alpha Hours bills monthly, auto-renews, requires 30 days' notice, and measures tenure in months. The decision to stay is the default.
+Annual enrollment is a school habit that suits families switching schools. A family that is not switching wants a low door and a product worth walking through again. One seven-week session at a time, a $500 deposit, no application and no interview lets a family that would never fill out an Alpha application try Alpha Hours, and five re-enrollment points a year turn one good session into a multi-year customer. The annual prepay is there for the families who already know.
 
-### SPOV 7: Seven months of data is a better admissions decision than one shadow day, and the family paid us for it.
+### SPOV 7: Every building sitting empty after 3:30 PM is a waste of assets that we should be sweating.
 
-Some students are stand-out yeses on a shadow day; most are not. Data gathered over months is better than data gathered over hours, and the placement assessment at enrollment gives every member a baseline on day one. We raise the quality of the students we admit without admitting fewer of them, and the family funds the evaluation.
+We have buildings, owned or leased, across the country that are sitting empty for the majority of hours in the week. We should be sweating our assets to maximum capacity. Alpha Hours is just the start of a path to making money on every single available hour.
 
-### SPOV 8: Every building sitting empty after 3:30 pm is an asset we should be sweating, and the Kumon model sweats it hardest.
+### SPOV 8: Admissions is the upside, and the upside should pay for itself.
 
-The old design used a room for one two-hour block a night. The Kumon model runs four one-hour visit slots a night and four on Saturday, so every seat carries ten members instead of four. The rooms, the devices, the Wi-Fi and the placement data are paid for by the school day. Alpha Hours' cost of goods is a part-time floor guide and a Timeback seat.
-
-### SPOV 9: Franchising is how Kumon grew, and it is the wrong answer for us.
-
-Kumon franchised because its tuition was too low to fund company-owned centers and because it had no capital. Neither is true here. A company-owned 150-member satellite earns Alpha about $2.5M a year; the same center franchised at a Kumon-style royalty earns Alpha about $0.6M and hands the franchisee $1.9M. Franchising gives away four fifths of the profit, the data, and control of the brand. In the markets Alpha Hours serves, the answer is company-owned satellites once the campus centers are full, and no franchise at all in the plan horizon.
+Alpha gives away shadow days, staff time and the "not yet" roadmap for free, because the school needs the families more than the families need the school. Inside Alpha Hours the trial is paid, the path to yes is paid, and the evaluation runs on seven weeks of mastery data instead of a few hours of impressions. A family deciding on Alpha pays $4,500 a session while it decides, so the cost of acquiring a full-time student turns negative, and each conversion is worth $160,000 to $325,000 in lifetime tuition. That is worth a lot, and it is still upside, on a business that would be worth building if no family ever converted.
 
 ## Insights
 
-### Insight 1: The Kumon loop has five parts, and Timeback improves every one of them.
+### Insight 1: Alpha Hours is a business that happens to sit inside a school. The school is the upside, not the point.
 
-Placement below level: Kumon uses a paper test; Timeback places by skill with MAP-anchored diagnostics. Standardized material: Kumon's worksheets are fixed; Timeback adapts every session. Short visit, daily practice: Kumon's worksheets go home in a folder; Timeback goes home on the family's device and reports back. Visible progress: Kumon gives level certificates; Timeback gives a mastery map, a learning velocity, and a weeks-to-grade-level number every month. Monthly tenure: Kumon families stay for years because the child is always at the right level; so are Timeback's. The business model is Kumon's. The product is not.
+Most of every room, seven in ten families on the plan, are Stay families who were never in the admissions funnel and never will be, and they carry the site profit on their own. That is what lets the program be sized, staffed, and judged as a business: fill, re-enrollment, revenue per seat, and margin. The school gets three things from it without paying for any of them. Trials become paid: a family deciding on Alpha pays $4,500 a session instead of getting a free shadow day. The "not yet" letter becomes a paid roadmap. And the marketing dollars behind every inquiry are recovered inside the room. Routing still has to be policy, not improvisation: admissions needs a formal disposition step for every family, yes, not yet with an Alpha Hours seat, or Alpha Hours as the product. But if every conversion stopped tomorrow, the P&L would not notice.
 
-### Insight 2: Throughput is the whole economic difference between a center and a program.
+### Insight 2: Fill the room first, then raise the price. The waitlist sets the price, not the Head.
 
-A program books a room for a cohort; a center books a seat for a visit. At two visits a week, twenty visit slots a week, and one seat per visit, a seat serves ten members. The old Alpha Hours design served four. Same room, same devices, same building, two and a half times the revenue, and the floor guide is paid by the slot, so labor scales with fill and not with seats.
+At $4,500 the pilot campuses sell out or they do not, and either answer is information. A cohort that closes a session with a waitlist is underpriced, and reprices by $500 for the following session, mechanically. A cohort that does not sell 10 seats two weeks out does not open, and its families roll into another cohort. Between those two rules the price finds the market at every campus without a single pricing meeting, and the pilot's job is to find out how high it goes.
 
-### Insight 3: Labor is the cost that decides the margin, so the guide's job is narrow on purpose.
+### Insight 3: Sweating the assets has an order of operations. Alpha Hours is the first step in filling every empty hour, and each step after it gets cheaper.
 
-Guides at Alpha Hours do no academic instruction. They hold focus, effort and motivation for up to twenty children at a time, run the Alpha bucks economy, and hand off to the Lead Guide anything that needs a conversation. That is a part-time role at $30 an hour, 22 hours a week, and one floor guide covers a 20-seat room for the entire week. A Lead Guide per campus runs the center, reads the data and holds the parent conversations. Labor is under 2 percent of revenue at capacity.
+Alpha campuses sit empty most hours of the week. Alpha Hours fills the first slice, weekday afternoons and Saturdays, and in doing so puts a trained team, insurance, and an operating playbook in place at every campus, all carried by that first program. Once that foundation exists, every other empty block, the 6:15 to 8:15 pm middle and high school block, school-break weeks, early mornings, adult evenings, can be added without rebuilding it, so each new program starts at a higher margin than the one before it. The first two additions, the evening block and break weeks, land inside Year 1. Alpha Hours is not the whole building-utilization strategy. It is just the first block of it.
 
-### Insight 4: Alpha Hours turns admissions from a cost center into a P&L, and the P&L does not need admissions to work.
+### Insight 4: The parking risk is a pricing question, not a policy question.
 
-Once trials are paid and the pathway to yes is monetized, admissions stops being pure spend. But the P&L does not rest on that. More than half of every room is Stay families who were never in the funnel and never will be, and they carry the site profit on their own. Conversion is upside on a business that already works. Routing still has to be policy, not improvisation: admissions needs a formal disposition step for every family, yes, not yet with an Alpha Hours membership, or Alpha Hours as the product.
+The old worry was that a family would treat Alpha Hours as Alpha at a third of the price and never enroll. Two things dissolve it. First, the family that parks is a Stay customer, and a Stay customer is worth $22,500 a year for years: parking is the product. Second, the family that would have enrolled at full Alpha and is parking instead is a Considering family whose conversion conversation fires on data, not on the Head's judgment, so the invitation comes whether or not the Head wants to keep the seat. What is left is a price: from the sixth session, every seat reprices to $5,000 in premium markets ($4,000 standard) unless the family has an Alpha application on file, in which case the year-one rate holds. The application is the discount, not the requirement. A long-stayer is either pipeline or premium revenue, never a parked seat, and no family is ever exited for staying.
 
 ### Insight 5: Each lane gets its own yardstick, or the numbers lie.
 
-Stay: monthly retention, tenure in months, revenue per seat. Considering: conversion to full Alpha by month of membership, and cost per enrollment, which is negative because the family pays us while it decides. Path to yes: the share of families who clear their published thresholds and the share of those admitted. Current Alpha families: fill and retention. The Head reports all four every month.
+A family that pays $4,500 and commits four hours a week for seven weeks has told us far more than a family that pays $100 and fills out a form. But if every family in the room is measured on conversion, the Stay lane looks like failure and the program looks like a leaky funnel, when it is the business. So each lane is measured on what it is for. Stay: re-enrollment, tenure in sessions, revenue per seat. Considering: conversion to full Alpha by number of sessions completed, and cost per enrollment, which turns negative because the family pays us while they decide. Path to yes: the share of families who clear their published thresholds and the share of those who are admitted. Current Alpha families: fill and re-enrollment. The Head reports all four every session, is reviewed on the P&L, and reports full-time enrollments as the upside line.
 
-### Insight 6: The data builds over time, and it moves with the child.
+### Insight 6: The "not yet" path to yes letter becomes a product.
 
-A shadow day gives us a few hours of impressions. Alpha Hours gives us months of mastery data that grows every visit. When a family enrolls at full Alpha, the data comes with them: the child starts on day one at exactly the right level. The same data that tells us whether to admit the child tells us where to start them.
+Today a not yet costs goodwill and loses the family to another school's funnel. A not yet that ships with an Alpha Hours seat, a concrete roadmap of mastery targets, and a scheduled re-evaluation date converts a rejection into revenue, retention, and a second look on better data. The roadmap must name measurable thresholds, so re-application becomes a data check instead of a second subjective judgment.
 
-### Insight 7: The parking risk is a pricing question, not a policy question.
+### Insight 7: Seven weeks of data should produce the admissions decision, so set the bar before the session starts.
 
-The old worry was that a family would treat Alpha Hours as Alpha at a fraction of the price and never enroll. Two things dissolve it. The family that parks is a Stay customer worth $21,000 a year for years: parking is the product. The family that would have enrolled at full Alpha and is parking instead is a Considering family whose conversion conversation fires on data whether or not the Head wants to keep the seat. No family is ever exited for staying.
+Before each session opens, we define exactly what a child needs to show to earn an invitation to apply: how much they mastered, how consistently they showed up and completed their sessions. Then the decision makes itself. By the end of seven weeks, the data says yes or not yet, the same way the week-1 exit process works: the standard is set in advance and the record makes the call, not a gut feeling. This is what makes "a more thorough evaluation" a real claim instead of a longer version of the same judgment call. And it means we can raise the quality of the students we admit without admitting fewer of them.
 
-### Insight 8: Fill the room first, then raise the price. The waitlist sets the price, not the Head.
+### Insight 8: The data builds over time, and it moves with the child.
 
-At $1,750 a month the pilot campuses fill or they do not, and either answer is information. A campus that carries a waitlist for two consecutive months reprices new memberships by $100 a month, mechanically. A campus that is not at eleven members by its third month closes its evening slots to Saturday only. Between those two rules the price finds the market at every campus without a pricing meeting.
-
-### Insight 9: Sweating the assets has an order of operations, and the center is the first step.
-
-Alpha Hours puts a trained team, insurance, a compliance filing and an operating playbook into every campus, all carried by the first product. Every other empty block, the 7:30 to 9:00 pm teen slot, Sundays, break weeks, can be added to the center without rebuilding it.
+A shadow day gives us a few hours of impressions, and they fade. Alpha Hours gives us weeks of real data on what the child has mastered and the life skills they learn, and the data grows every session. When that family enrolls at full Alpha, the data comes with them: the child starts on day one at exactly the right level, no testing, no ramp-up. The same data that tells us whether to admit the child also tells us where to start them. No other school's trial produces either.
 
 ## Knowledge Tree
 
-### Category 1: The Kumon model, and what makes it profitable
+### Category 1: How non-school learning environments drive academic gains
 
-Summary: Kumon is the most successful after-school education business ever built. Its economics come from throughput per seat, standardized material that does the teaching, daily home practice, monthly billing, and families that stay for years. None of it depends on the worksheet being good.
+Summary: Mastery pedagogy, standardized pacing, and visible progress let after school programs outperform classrooms, using process-driven personalization rather than teacher variation.
 
-- Origin: Toru Kumon, a high school math teacher, wrote worksheets for his son in 1954 and founded the company in 1958. About four million students, about 25,000 centers, more than 50 countries. Figures are approximate; verify before external use.
-- The visit: children attend twice a week, typically about 30 minutes per subject, and complete worksheets at home on the other five days. Centers are commonly open two afternoons a week.
-- Placement: every child starts on a placement test and is placed below their current level so early work is easy and fast. Kumon calls this the "just-right" level. Nancy's shadow-day observation matches: the children who leave lit up are the ones who cleared something they were stuck on.
-- Staffing: instructors are franchisees, not certified teachers, supported by part-time assistants who grade worksheets. The material carries the instruction.
-- Pricing: about $150 to $220 per subject per month in the US, plus a registration fee. Two subjects run $300 to $440 a month. Franchisees pay Kumon a royalty per student per subject per month, roughly a fifth of tuition.
-- Tenure: the business runs on families that stay for years. Level completion certificates and awards make progress visible and give the family a reason to continue.
-- Throughput: a typical center serves 100 to 300 children with one instructor, a few assistants, and one room. The seat is the unit, not the class.
+- Kumon: Founded 1954. Worksheet-based mastery, non-certified staff, 25,000+ centers, $150 to $220 per subject per month. Personalization lives in the process (worksheets and standards), not the content.
+- Mathnasium: Founded 2002. Trained non-teacher instructors, fixed method, math only, $250 to $500 per month.
+- Fusion Academy: One-to-one private school, $8,000 to $17,000 per course per year. Proves premium willingness to pay for personalized academics.
+- Alpha / Timeback / Alpha Hours: Leverages AI to deliver personalized academics equivalent/superior to 1:1 tutoring with a human, keeping each child in his or her zone of proximal development in each subject, delivering 2x learning.
 
-Insights: Kumon proves that a standardized, low-touch mastery system scales globally without teachers and that most of its customers never wanted more than Kumon. Its weaknesses are the ones Timeback fixes: fixed material, paper feedback, progress reported by level rather than by skill, and no measurement of learning speed. Its strengths are the ones Alpha Hours copies exactly: placement below level, short visits, daily practice, monthly billing, and a room that only exists to hold children working.
+Insights: Mastery scales when the system, not the teacher, carries instruction. Parents validate trust through visible, measurable progress. Premium after-school is about quality of result, not quantity of hours. Alpha Hours will provide personalized academic reports at the start and end of every session.
 
-### Category 2: How non-school learning environments drive academic gains
+### Category 2: After-school business models and the feeder
 
-Summary: Mastery pedagogy, standardized pacing and visible progress let after-school programs outperform classrooms, using process-driven personalization rather than teacher variation.
+Summary: After-school programs scale through standardization and real-estate leverage, on families who never change schools. For a school-owned program, conversion to full enrollment is a second, smaller source of value on top.
 
-- Mathnasium: founded 2002. Trained non-teacher instructors, fixed method, math only, $250 to $500 a month, about 1,000 centers.
-- Huntington: founded 1977. Diagnostic-driven, multi-subject, $40 to $75 an hour. The assessment builds trust and justifies the price.
-- Fusion Academy: one-to-one private school, $8,000 to $17,000 per course per year. Proves premium willingness to pay for personalized academics.
-- Alpha / Timeback: personalized academics that keep each child in the zone of proximal development in each subject, with Alpha's internal data showing 2x learning. Alpha's figures are internal and not independently audited.
+Market size: US families already spend about $40B a year on tutoring and after-school combined: tutoring is an $18.9B industry growing about 11 percent annually with K-5 the fastest segment (IBISWorld 2025); after-school is $21.0B, with 7M children enrolled and 22.6M more whose families want a spot and cannot get one (Afterschool Alliance 2025). Tutoring participation rose from 19 to 24 percent of students between 2024 and 2025, and high-income families already spend up to $9,000 per child per year on tutoring and enrichment. Almost none of that spend comes from families shopping for a new school. It comes from families keeping the school they have and buying what it does not provide. Alpha's full 40-campus network at capacity is $268M, well under 1 percent of what families already spend today. The constraint is buildings, not demand.
 
-Insights: Mastery scales when the system, not the teacher, carries instruction. Parents validate trust through visible, measurable progress. Alpha Hours delivers a mastery report every month, not at the end of a term.
+Demand evidence, bottom-up. After-school is unprompted inbound demand, not only a hypothesis. In NYC admissions conversations, families ask whether Alpha offers after-school without being prompted. In the last 14 days, 3 of 23 NYC admissions conversations included an unprompted ask for after-school, 13 percent of all conversations, with no marketing and no product to point to. Most recently last week on Wednesday, a family said they would continue with Alpha by trying it that way if after school existed. The same pattern held in my prior private-school sales role, where the after-school question came up at least biweekly across a national territory. The demand also runs inside our own walls: Alpha parents nationwide ask what happens after the school day ends at 3:30, and today the answer is nothing. These are families telling us the entry product they want to buy before we have built it. Price acceptance is already proven at this exact number: Alpha Summer in the Hamptons has 174 paid registrations at $4,500 per week, with one price objection total. Alpha Hours asks the same families the same number for seven weeks instead of one. New York also holds the sales list: the 1,000-plus HubSpot families from the Hamptons outreach, the 174 paid Hamptons families, and every family in the NYC admissions pipeline who was not a yes.
 
-### Category 3: After-school business models and the feeder
+- Huntington: Founded 1977. Diagnostic-driven, multi-subject, $40 to $75 per hour. The assessments build trust and justify the price.
+- Premium pricing precedent: Command Education $120,000 a year, up to $750,000 for a multi-year package; Lindamood-Bell $10,000+ for six weeks; Fusion $60,000+ full-time. All price against outcome value, not hours, and all quote the package, not the hour.
+- Feeder economics: A private school typically spends $3,700 to $5,800 in marketing to win one enrolled student (Cube Creative Design, 2026 Private School Marketing Budget Planning Guide: industry median $3,677, secondary $5,844). Alpha Hours flips that: the prospective family pays us $4,500 a session while they decide, so evaluating Alpha earns money instead of costing it. The trial is also far stronger than a shadow day. Every session ends with a conversion artifact. The child's mastery map and a personalized projection of weeks-to-grade-level at full Alpha, so the parent leaves holding a number, not an impression. Private schools typically convert 5 to 8 percent of inquiries to enrollments (Spiral Marketing, day-school benchmarks), and an inquiry is a stranger with a phone number, while every Alpha Hours family has paid $4,500 and watched their own child's mastery data climb for seven weeks. We model conversion at 4 to 8 percent of all enrolled families, most of it from the Considering and Path to yes lanes, and Session 2 exists to replace that assumption with our own measured number. Each conversion is worth $160,000 to $325,000 in lifetime tuition, which is why the upside is large even at a low rate.
 
-Summary: After-school programs scale through standardization, real estate already paid for, and, for a school-owned program, conversion to full enrollment. The volume is in families who never change schools.
-
-- Market size: US families spend about $40B a year on tutoring and after-school combined: tutoring about $18.9B growing about 11 percent a year, after-school about $21.0B with 7M children enrolled and 22.6M more whose families want a spot (IBISWorld 2025, Afterschool Alliance 2025). High-income families already spend up to $9,000 a child a year on tutoring and enrichment.
-- Demand evidence, bottom-up: in NYC admissions conversations, families ask whether Alpha offers after-school without being prompted, 3 of 23 conversations in a recent two-week window. Alpha families ask what happens after 3:30 and today the answer is nothing. Price acceptance at premium numbers is proven: Alpha Summer in the Hamptons took 174 paid registrations at $4,500 a week with one price objection.
-- Feeder economics: a private school typically spends $3,700 to $5,800 in marketing to win one enrolled student. Alpha Hours flips that: the prospective family pays $1,750 a month while it decides. Private schools convert 5 to 8 percent of inquiries; every Alpha Hours family has paid and watched the data for months, so we model 6 to 14 percent of the Considering and Path to yes lanes and measure the real number in Year 1. Each conversion is worth $160,000 to $325,000 in lifetime tuition.
-- Premium pricing precedent: Command Education $120,000 a year; Lindamood-Bell $10,000+ for six weeks; Fusion $60,000+ full-time. All price against outcome value, not hours.
-
-Insights: Standardization plus assessment builds scalable trust. Real estate already controlled is the margin. The Stay lane is the volume, the feeder is the upside, and the same room serves both.
+Insights: Standardization plus assessment builds scalable trust. Real estate already controlled is the margin. The Stay lane is the volume and the business. For a school-owned program, the feeder is upside worth more per family than the session fee, and it only functions with an intentional, structured handoff. The same room serves both.
 
 ## Business Model and Operations
 
-### The membership
+### The program
 
-A member gets: two one-hour center visits a week at fixed slots, Timeback at home every day, both core subjects, the placement assessment at enrollment, a mastery report and weeks-to-grade-level projection every month, Alpha bucks and the Emporium, and a parent conversation with the Lead Guide every month for Considering and Path to yes families and every quarter for Stay families.
-
-Tiers, premium markets: Standard membership (two visits a week) $1,750 a month. Plus (three visits) $2,250. Daily (Monday to Thursday plus Saturday) $3,000. Standard-tier markets: $1,250, $1,600, $2,150. Enrollment fee $750, which covers the placement assessment and the first month's Emporium balance. No sibling discount. Current Alpha families 5 percent off. Annual prepay accepted at list, no discount. Thirty days' notice to cancel. Month-to-month, auto-renew.
-
-### The visit
-
-A visit is 60 minutes. Arrival and check-in in the first five minutes: the child collects their device, opens Timeback, and the floor guide confirms the day's target. Two 25-minute mastery sessions, one math and one reading, with a five-minute break between. Alpha bucks are earned on XP and on completing the visit's target. Shoutouts and dismissal in the last five minutes: the guide names two or three mastery wins in the room, out loud, every visit.
-
-Between visits, the child does one 25-minute Timeback session at home on each of the other days, tracked in the same account. The Lead Guide sees a home-practice streak for every member and the floor guide mentions it at check-in. Alpha bucks are earned at home too, at half rate.
-
-### Center hours and slots
-
-Monday to Thursday: visit slots at 3:30, 4:30, 5:30 and 6:30 pm. Saturday: 9:00, 10:00, 11:00 and 12:00. Friday closed to members; the Lead Guide uses Friday for placement assessments, parent conversations and path-to-yes re-evaluations. Twenty slots a week per seat. A family chooses two fixed slots at enrollment and can move them with a week's notice when space allows. Current Alpha students take the 3:30 slot and walk down the hall.
-
-### Capacity
-
-Members per seat is twenty slots divided by two visits: ten. A 20-seat room serves 200 members. Pilot seats: New York 100, Austin 100, Miami 60, Chicago 60, Greenwich 40, Boston 40, a total of 400 seats and 4,000 members at capacity. Every campus can add seats by opening another room; the constraint is demand and floor guides, not space.
+An Alpha day runs primarily on two things: mastery-based academics on Timeback and life skills workshops. Alpha Hours compresses that whole day into one or two blocks. A weekday block is two hours, and requires a Monday/Wednesday or Tuesday/Thursday registration. Each weekday block is organized as this: a ten-minute Limitless launch, two 25-minute academic sessions on Timeback with a short break between, a 40-minute life skills workshop, and ten minutes of shoutouts. Each of the two Saturday blocks runs the same day at double length: four 25-minute academic sessions, an 80-minute workshop, and a snack break in the middle. Either way the child gets the same week: 100 minutes of focused, adaptive mastery academics and 80 minutes of life skills. Timeback delivers the instruction and adapts to each child. The guide holds focus, effort, and motivation, and leads the workshop. That is the whole model: the Alpha day, academics and life skills, in one or two blocks.
 
 ### The lanes in operation
 
-Every family answers one question at enrollment: are you considering Alpha full-time? Three answers: no, we love our school (Stay); yes, we are deciding (Considering); we applied and were told not yet (Path to yes, set by admissions, not the family). Current Alpha families are flagged from the roster. The lane is on the roster, the Lead Guide sees it, and the data can move a family between lanes: a Stay family whose child's mastery map shows a two-grade jump gets the Considering conversation whether they asked for it or not, and a Considering family who declines twice moves to Stay and stops getting the pitch.
+Every family answers one question at enrollment: are you considering Alpha full-time? Three answers: no, we love our school (Stay); yes, we are deciding (Considering); we applied and were told not yet (Path to yes, set by admissions, not the family). Current Alpha families are flagged from the roster. The lane is on the roster, the Lead Guide sees it, and the data can move a family between lanes: a Stay family whose child's mastery map shows a two-grade jump gets the Considering conversation whether they asked for it or not, and a Considering family who declines twice moves to Stay and stops getting the pitch. What the lane changes is the conversation at the AlphaTest Showcase and the report the family receives. What it never changes is the room.
 
-The Stay family gets the monthly report and a quarterly conversation. The Considering family gets the same report plus the weeks-to-grade-level projection at full Alpha and the structured conversion conversation, which fires only when published thresholds are met. The Path to yes family gets the report scored against their roadmap thresholds and an invitation to apply the month they clear them.
+The Stay family gets a re-enrollment link, the next session's schedule, and a mastery report that shows the child's progress against grade level, on Timeback data. The Considering family gets the same report plus the weeks-to-grade-level projection at full Alpha and the structured conversion conversation, which fires only when the published thresholds are met. The Path to yes family gets the report scored against their roadmap thresholds, and an invitation to apply the session they clear them.
 
 ### Motivation and incentives
 
-The child walks in tired at 4:30 pm after six hours of school. Alpha's motivation model carries into the center unchanged: Alpha bucks for XP and for completing the visit target, earned at the center and at home, spent in the Emporium. Shoutouts every visit. The monthly report goes to the parent with three numbers: where the child is, where they were last month, and what is next.
+Alpha Hours runs the same rhythm as Alpha, starting with academics in Timeback, followed by a life skills workshop. What is different from Alpha is the child's day. The child has already been through six hours of regular school, and walks in tired at 4 pm, and needs a reason to give full effort. Alpha already has this reason, built into the model twice. The first is Timeback's own promise, carried into every block: get through your academics with focus, and the rest of the block is an amazing life skills workshop, the part of the block built around things kids actually love. The academics are the shortest path to the good part, exactly the trade Alpha kids make every day. The second is the extrinsic motivational model, and we will mirror this in Alpha Hours. Students will earn the Alpha currency for XP earned in Timeback, and will have the opportunity to purchase items in the Alpha Hours Emporium. Both motivators become even more important for a child who has been through six hours of school: they keep the child working diligently, and boost love of Alpha Hours.
 
-### Placement and the honest number
+### AlphaTest Showcase
 
-Every member starts with a placement assessment: MAP math and reading, and a two-hour Timeback block that measures learning velocity. Children are placed slightly below where they test so the first win comes in the first week. The placement report is the first thing the family receives and, for most of them, the first real number they have ever seen for their child.
+Every session ends with an AlphaTest Showcase in the final week. Students are tested on the life skills they have worked on across the session's workshops, and parents come to see it. The showcase does double duty: it is how the life skills commitment gets measured instead of assumed, and it puts every parent in the building in the same week they receive their child's mastery map and weeks-to-grade-level report, which makes it the natural setting for the re-enrollment and full-Alpha conversation. No other after-school program ends a term by putting the child's growth on a stage in front of the person who paid for it.
+
+### Schedule and tracks
+
+Runs Monday through Thursday afternoons and Saturday, inside existing Alpha campuses. The weekday block starts right where the Alpha school day ends, so the building never goes dark and every child is home for dinner.
+
+Weekday schedule. Requires Monday/Wednesday or Tuesday/Thursday registration.
+
+Guide setup: 3:30 to 3:45 pm (guides prepare, devices ready). Drop-off: 3:45 to 4:00 pm. Current Alpha students transition directly on campus at the end of the school day. Block: 4:00 to 6:00 pm. Dismissal and clean up: 6:00 to 6:15 pm.
+
+Weekday block rundown (inside the two hours): Limitless launch: 10 minutes. Academic session 1 (25 minutes). Break: 5 minutes. Academic session 2 (25 minutes). Transition: 5 minutes. Life skills workshop: 40 minutes. Shoutouts: 10 minutes. Total 120 minutes.
+
+Saturday schedule: Setup: 8:45 to 9:00 am. AM block: 9:00 am to 1:00 pm. Transition: 1:00 to 2:00 pm (staggered pickup and drop-off; no lunch served). PM block: 2:00 to 6:00 pm. Clean up: 6:00 to 6:15 pm.
+
+Saturday block rundown (inside the four hours): Limitless launch: 10 minutes. Academic session 1 (25 minutes). Break: 5 minutes. Academic session 2 (25 minutes). Break: 15 minutes. Academic session 3 (25 minutes). Break: 5 minutes. Academic session 4 (25 minutes). Snack break: 15 minutes. Life skills workshop: 80 minutes. Shoutouts: 10 minutes. Total 240 minutes. Four academic sessions. Snacks only, no meals.
+
+Every campus runs four cohorts a week: Monday/Wednesday, Tuesday/Thursday, Saturday morning, and Saturday afternoon. The same room and the same guide team serve all four, and every cohort gets the same four weekly hours.
+
+Middle and high school block (Session 4, February 24, 2027, at New York Maiden Lane and Greenwich; all pilot campuses Fall 2027; national with the build): Weekdays 6:15 to 8:15 pm, Monday/Wednesday or Tuesday/Thursday, drop-off 6:00 to 6:15, dismissal 8:15 to 8:30. Same spine as the K-8 block: Limitless launch, two 25-minute academic sessions on Timeback, then Alpha Max and Alpha X programming fills the workshop slot, shoutouts to close. The block adds two cohorts per campus and lifts the enrolled ceiling from four times room capacity to six. Staffing runs as a second part-time guide rotation, sized per campus when the block launches.
+
+Break weeks: the same room runs a full-day week, 9:00 am to 3:00 pm, in the school-break weeks between sessions, at the Alpha Summer price of $4,500 a week. The first is April 19 to 23, 2027, across every pilot campus. From Year 2, two break weeks a year at every campus. One seat per child, no cohort multiplier.
+
+### Capacity
+
+Room capacity is the seats filled at one time, set per campus. Enrolled students per campus is four times the room capacity: two weekday tracks plus two Saturday blocks. A 100-seat room fills to 400 enrolled students. The middle and high school block adds two more weekday cohorts, lifting the ceiling to six times room capacity. The operating goal is to fill every cohort to capacity, then reprice.
+
+New York runs two rooms. 180 Maiden Lane, the main campus, holds 100 seats, 400 enrolled. 156 William Street, the Early Learning Center, holds 30 seats, 120 enrolled, and is the early-years room: the youngest Alpha Hours students, kindergarten through second grade, in the building already set up for them, with the older students at Maiden Lane. Both buildings are in the Financial District, blocks apart, and share one Campus Coordinator.
+
+### Enrollment
+
+Five sessions a year, each about seven weeks (about 35 program weeks). Families sign up one session at a time, choosing a weekday track or a Saturday block, with a one-session minimum and a $500 non-refundable deposit at sign-up applied to the session fee. They re-enroll session to session, and re-enrollment for the next session opens in week 4 of the current one, before the general public. Families who want the year buy it: five sessions prepaid at $22,500 holds the seat and the track for the year, with first pick of cohort. No discount for prepaying, no sibling discount. Seats are scarce and priced accordingly.
+
+Current Alpha students enroll on the same terms at the same session price with a 5 percent family discount. From the sixth session, every seat reprices to the continuation rate, $5,000 per session in premium markets and $4,000 standard, unless the family has a completed Alpha application on file, in which case the year-one rate holds. Nobody is required to apply. The application is the discount. No family is exited for staying. Where a cohort holds a waitlist, families with applications on file hold their seats and families without release them first. Current Alpha students are exempt from both. One session at a time lowers the barrier to trying Alpha and cycles far more distinct families through each seat than an annual plan, and the annual plan captures the families who already know they are staying.
+
+### Real estate
+
+The building is a sunk cost Alpha already carries, whether it owns the campus or leases it, with after-hours and weekend access either way. Late-afternoon and Saturday use adds only marginal cost. Marginal cost about $150 to $250 per weekday, about $400 per Saturday (custodial, HVAC and lighting, security). Because the host is an Alpha campus, the facility fee is largely intracompany.
 
 ### Team
 
-Central: Head of Alpha Hours ($400,000), Operations VP ($200,000, remote), Admissions Integration Lead ($150,000, owns lane routing and the conversion process with every campus admissions team), AI-first engineer ($200,000, owns the roster, reporting and Timeback integration), Finance and compliance ($150,000), tooling $250,000. About $1.35M a year.
+Head of Alpha Hours: $400,000. Owns strategy, pricing, national rollout, campus relationships, guide hiring and training, and the full P&L. Reviewed every session on revenue, site profit, and re-enrollment; reports full-time Alpha enrollments as the upside line.
 
-Per campus: Lead Guide (full-time, $100,000) runs the center, reads the data, holds every parent conversation and every re-evaluation. Center Coordinator ($60,000) runs enrollment, scheduling, billing and the Emporium. Floor guides at one per 20 seats, part-time at $30 an hour, 22 hours a week, about $32,000 a year each, scheduled to fill. Alpha High students may serve as paid floor assistants at one per 40 seats, at the campus's discretion.
+Operations and Admin VP: $200,000. A remote role supporting every campus, and the Head of Alpha Hours' right hand: the Head owns strategy, growth, hiring, and the P&L, the VP runs the machine underneath it.
+
+For each campus, the VP: Runs registration end to end: session sign-ups, lane tagging, cohort placement, waitlists, repricing, and the roster handoff to the Campus Coordinator before every session. Executes compliance: secures the written state exemption determination before the campus opens, keeps it current, and verifies every hire's background checks are complete before day one. Places and maintains insurance per site: general liability, professional liability, workers' compensation, and sexual abuse and molestation coverage. Drafts and manages the host-campus facility-use agreement, and coordinates access, security, and custodial arrangements with campus leadership. Procures centrally: laptops, supplies, and Alpha Hours Emporium inventory, shipped to the Campus Coordinator. Reports weekly to the Head: fill rate by cohort and lane, attendance, re-enrollment, revenue, waitlist depth, and a consolidated per-site P&L.
+
+Across the network, the VP builds the launch checklist every new campus runs, manages the launch calendar with the Head, and prepares the reporting the Head takes to leadership. One remote VP covers the full pilot, and the role adds operations support underneath it as the national footprint grows.
+
+Campus Coordinator per campus: part-time, a 50 percent role at $50,000. Inventory, responsible for laptop set-up and student accounts, coordination between admin and guides. A strong candidate pool is public school teachers looking for work: organized, experienced with children and school operations, and available in every metro. Coordinators run operations. New York's two buildings share one.
+
+Dedicated Alpha Hours guides: part-time, working only for Alpha Hours, at $50,000 a year. Weekdays run about 2.75 hours (3:30 to 6:15 with setup and dismissal), four days a week, plus a roughly 10-hour Saturday, about 21 staff-hours a week. Every guide completes the Alpha Hours training program before running a room: shadowing at Alpha NYC and an AI-first asynchronous training course. Guides are hired for their experience with children and trained out of teaching; the core discipline of the role is restraint. Guide hiring and training are owned by the Head of Alpha Hours.
+
+Lead Guide per campus: $75,000. Manages the guides, in charge of onboarding and overall programming. Same number of working hours as guides, about 21 hours a week. Every building has one, William Street included.
+
+Staffing: about 1 guide per 10 students, two-adult minimum, extra attention to the youngest. The same team serves all four cohorts.
 
 ### Compliance
 
-Alpha Hours is instruction, not care. Filings before launch: New York (OCFS Policy 16-1: tutoring and classes exemption; multi-purpose programs registered case by case), Texas (HHSC Form 2820 exemption for programs operated by an accredited private school), Florida (s. 402.305 school-site exemption), Illinois, Connecticut, Massachusetts. Background screening for every adult in the room regardless of exemption. Cognia systemwide accreditation covers the campuses. Legal budget $60,000 in the launch budget.
+Design and market as academic instruction, not childcare, to qualify for state exemptions. Avoid meals where they trigger licensing (Florida especially). Sign a formal host-campus facility-use agreement. Get a written exemption determination per state before opening: New York, Connecticut, Massachusetts, and Illinois before Session 2. Every block is curriculum-driven instruction end to end: timed mastery-academics sessions on Timeback and a structured life skills workshop. Flag the Saturday format and the break-week format specifically in each state's written exemption request.
 
-### Pricing logic
+FBI background checks on every hire: fingerprint criminal check, national sex offender registry, state child-abuse registry. Minimum two adults on site at all times.
 
-The price is quoted per month, never per hour, and anchored on the outcome: a mastery map, a learning velocity, and a weeks-to-grade-level number no school or tutor can produce. At $1,750 a month a family pays less than one hour a week of an elite tutor and gets two guided hours plus daily practice in both subjects. A year is $21,000, about a third of full Alpha tuition in premium markets. Waitlist repricing: two consecutive months with a waitlist reprices new memberships by $100 a month. Annual step: list price rises $100 a month every September for new members; existing members hold their rate for twelve months from enrollment.
+Insurance: general liability, professional liability, workers' compensation, and sexual abuse and molestation coverage (excluded from most general liability policies, must be added).
+
+### Pricing
+
+Per session, priced on value not hours. Standard markets: $3,500 per session, $17,500 per year. Premium markets: $4,500 per session, $22,500 per year. Current Alpha families: same session price with a 5 percent discount ($4,275 premium, $3,325 standard). Every pilot campus is priced at the premium tier ($4,500), Chicago included, matching the national capacity model. Continuation rate from the sixth session: $5,000 premium, $4,000 standard, waived to the year-one rate for families with an Alpha application on file. Break weeks: $4,500 a week. Waitlist repricing: any cohort that closes a session with a waitlist reprices by $500 for the following session.
+
+We sell a product and measurable academic outcomes, not hours. A session is four hours a week for seven weeks, about 28 hours. At $4,500 that is roughly $161 an hour, just under elite 1:1 tutors ($200 to $300), who cover one subject; we cover multiple, supervised, with the data to prove progress. A single session is four to five times the most expensive mainstream competitor for the same span. The full year is roughly a third (30 to 40 percent) of full Alpha tuition ($40,000 to $75,000). We quote the session and full-year numbers, not the hour.
+
+The price point is already market-tested: 174 paid Alpha Summer registrations at $4,500 per week, one price objection in 174 transactions. At $4,500 per seven-week session, Alpha Hours is the same number for seven times the duration.
 
 ## Financials
 
-All figures come from one model. Assumptions: premium $1,750 and standard $1,250 a month at the base tier; enrollment fee $750; variable cost per member per year $1,820 premium ($1,640 standard): Timeback $750, rewards and Emporium $200, MAP tests $40, referral marketing $200, processing 3 percent; floor guides one per 20 seats at $31,680 a year, scheduled to fill; per-campus fixed cost $213,000 (Lead Guide $100,000, Coordinator $60,000, facility $45,000, insurance $8,000); central team $1.35M; one-time launch $500,000.
+All figures at list price, premium tier ($4,500 per session, five sessions), K-8 blocks only unless stated. The 5 percent current-family discount trims totals by 1 to 2 percent depending on mix. Break weeks and the middle and high school block are shown separately as additions.
 
-### Unit economics
+### Unit economics per campus
 
-Per premium member per year: $21,000 revenue, $1,820 variable, $19,180 contribution (91 percent). Per standard member: $15,000, $1,640, $13,360 (89 percent). Break-even per campus: 11 members. A 20-seat room at capacity: 200 members, $4.2M revenue, $3.8M site profit.
+Revenue = enrolled x $4,500 x 5 sessions. Enrolled = room capacity x 4.
 
-### Pilot at capacity
+Per-student cost per session: Timeback $150, the extrinsic motivation model (Alpha bucks redeemed in the Emporium, inventory at cost) $40, supplies $15, snacks $30, the child's share of the AlphaTest Showcase (printed mastery map and certificate) $5, payment processing 3 percent ($135), local marketing $60. About $435 per student per session, $2,175 per student per year.
 
-| Campus | Seats | Members | Revenue | Site profit | Margin |
+Guides: 1 per 10 concurrent seats, part-time at $50,000 (roughly 21 hours a week), so a campus carries seats divided by 10 guides: 10 at a 100-seat room, 52 at Chicago's 517. The same guide serves all four cohorts, so one guide supports up to 40 enrolled students, about $1,250 of guide cost per enrolled student at even fill, $250 a session.
+
+Per-campus fixed cost: Lead Guide $75,000, Campus Coordinator $50,000 (50 percent role), facility about $45,000 a year, insurance about $8,000, and the AlphaTest Showcase events at $2,000 per campus per session (four cohort showcases), $10,000 a year. About $188,000 a year. William Street shares New York's coordinator, so its fixed cost is about $138,000.
+
+Contribution per enrolled student: $20,325 a year ($4,500 less $435, times five), $19,075 after guides at even fill. Margin runs about 82 percent at capacity, higher at larger campuses where the fixed team spreads over more revenue.
+
+### Pilot campuses at capacity
+
+| Campus | Seats | Enrolled | Guides | Revenue a year | Site profit | Margin |
+|---|---|---|---|---|---|---|
+| New York, 180 Maiden Lane | 100 | 400 | 10 | $9.00M | $7.44M | 83% |
+| New York, 156 William Street | 30 | 120 | 3 | $2.70M | $2.15M | 80% |
+| Greenwich (Armonk) | 80 | 320 | 8 | $7.20M | $5.92M | 82% |
+| Boston A | 40 | 160 | 4 | $3.60M | $2.86M | 80% |
+| Boston B | 100 | 400 | 10 | $9.00M | $7.44M | 83% |
+| Chicago, at launch | 94 | 376 | 10 | $8.46M | $6.95M | 82% |
+| Launch total, Session 2 | 444 | 1,776 | 45 | $39.96M | $32.77M | 82% |
+| Chicago, from January 2027 | 517 | 2,068 | 52 | $46.53M | $39.24M | 84% |
+| Expanded total, Session 3 onward | 867 | 3,468 | 87 | $78.03M | $65.06M | 83% |
+
+New York alone is $11.7M a year at capacity, $9.6M site profit, 520 enrolled across two buildings.
+
+Per session at capacity: $7.99M revenue and $6.55M site profit at launch, $15.61M revenue and $13.01M site profit from Session 3. Less the central team ($700K base, about $875K fully loaded), the expanded run rate nets about $64.2M a year.
+
+### Year 1 by session, three cases
+
+Year 1 is four sessions, Sessions 2 through 5. Session 2 runs at launch capacity, Sessions 3 to 5 at expanded capacity. Guides are hired to sold seats, so guide cost scales with fill; fixed cost does not.
+
+Capacity is the ceiling. Plan is the number the Head is held to: 60 percent fill at launch, 75 percent in Session 3, 90 percent in Session 4, full in Session 5. Floor is every cohort at 25 percent fill all year, roughly the level at which the cohort floor would start closing cohorts.
+
+| Session | Dates | Enrolled, plan | Revenue, capacity | Revenue, plan | Site profit, plan |
 |---|---|---|---|---|---|
-| New York, 180 Maiden Lane | 100 | 1,000 | $21.0M | $18.8M | 90% |
-| Austin, Spyglass (standard) | 100 | 1,000 | $15.0M | $13.0M | 87% |
-| Miami, Tropical Park | 60 | 600 | $12.6M | $11.2M | 89% |
-| Chicago, Lakeshore East | 60 | 600 | $12.6M | $11.2M | 89% |
-| Greenwich | 40 | 400 | $8.4M | $7.4M | 88% |
-| Boston, Beacon Hill | 40 | 400 | $8.4M | $7.4M | 88% |
-| Pilot total | 400 | 4,000 | $78.0M | $69.0M | 88% |
+| Session 2 | Oct 19 to Dec 18, 2026 | 1,066 (60%) | $7.99M | $4.80M | $3.84M |
+| Session 3 | Jan 4 to Feb 19, 2027 | 2,601 (75%) | $15.61M | $11.70M | $9.69M |
+| Session 4 | Feb 24 to Apr 16, 2027 | 3,121 (90%) | $15.61M | $14.05M | $11.67M |
+| Session 5 | Apr 26 to Jun 18, 2027 | 3,468 (100%) | $15.61M | $15.61M | $13.01M |
+| Year 1 total | | | $54.81M | $46.15M | $38.21M |
 
-Net after central team at capacity: $67.6M.
-
-### Year 1, three cases
-
-Year 1 is twelve billing months from October 19, 2026. Fill is the share of member capacity, ramping monthly. Plan: 10 percent in month one to 50 percent in month twelve. Floor: 5 to 20 percent. Strong: 15 to 80 percent.
-
-| Case | Average fill | Peak members | Membership revenue | Enrollment fees | Site profit | Net | Exit run rate |
-|---|---|---|---|---|---|---|---|
-| Plan | 31% | 2,000 | $24.0M | $1.9M | $22.2M | $20.3M | $39.0M |
-| Floor | 14% | 800 | $11.3M | $0.8M | $9.6M | $7.8M | $15.6M |
-| Strong | 51% | 3,200 | $39.9M | $3.0M | $37.7M | $35.9M | $62.4M |
-
-The plan is the number the Head is held to: 2,000 members across six campuses by October 2027, half of capacity, which is Kumon's growth curve compressed by Alpha's brand and lists.
-
-### Revenue by lane, plan peak
-
-| Lane | Share | Members | Value beyond the monthly fee |
+| Year 1 case | Revenue | Site profit | Net after central team |
 |---|---|---|---|
-| Stay | 55% | 1,100 | Three-year tenure: $63,000 a family |
-| Considering | 25% | 500 | Six months ($10,500) plus 10 percent conversion at $240,000 lifetime tuition: $34,500 expected; non-converters move to Stay |
-| Path to yes | 15% | 300 | Nine months ($15,750) plus a modeled 20 percent admit rate at $240,000: $63,750 expected |
-| Current Alpha | 5% | 100 | Retention of a family already paying full tuition |
+| Capacity (100 percent every session) | $54.8M | $45.6M | $44.7M |
+| Plan (60 / 75 / 90 / 100) | $46.2M | $38.2M | $37.3M |
+| Floor (25 percent all year) | $13.7M | $10.7M | $9.8M |
 
-Feeder at plan peak: 800 families in the two conversion lanes. At 6, 10 and 14 percent: 48, 80 and 112 full-Alpha enrollments, $11.5M, $19.2M and $26.9M in lifetime tuition. The program clears its P&L at zero conversions.
+Even the floor case clears about $10M net in Year 1 on six campuses, because the cost base is part-time staff hired to sold seats inside buildings Alpha already pays for.
+
+### Year 1 additions
+
+Break week, April 19 to 23, 2027: 867 seats across the pilot at $4,500 a week, $3.9M revenue at capacity, about $3.5M profit (a full-day guide week and supplies are the only costs). Two break weeks a year from Year 2, about $7.8M on the pilot footprint.
+
+Middle and high school block, from Session 4 (February 24, 2027) at New York Maiden Lane and Greenwich: two more cohorts per campus, 200 enrolled at Maiden Lane and 160 at Greenwich, $8.1M a year of run rate, $3.2M inside Year 1 across Sessions 4 and 5 at capacity. Every pilot campus adds it in Fall 2027, which lifts the expanded pilot ceiling by 1,734 enrolled and $39.0M a year.
+
+Year 1 pilot with additions, at capacity: about $62M revenue. At plan: about $52M.
+
+### Revenue by lane
+
+The room is the same in every lane, so revenue per seat is the same. What the lane changes is tenure, and what the family is worth beyond the session fee. The plan is sized on Stay. Mix is a modeled assumption for the pilot: Stay 70 percent, Considering 15 percent, Path to yes 5 percent, current Alpha families 10 percent. Session 2 replaces it with the measured split.
+
+| Lane | Share | Families at expanded capacity | Session revenue a year | What else the family is worth |
+|---|---|---|---|---|
+| Stay (the business) | 70% | 2,428 | $54.6M | Tenure. Three years at year-one then continuation rates is $72,500 a family, before break weeks. Five years is $122,500. |
+| Considering (upside) | 15% | 520 | $11.7M | Conversion. Two sessions ($9,000) plus a 20 percent conversion at $240,000 lifetime tuition is $57,000 expected per family, and the non-converters move to Stay. |
+| Path to yes (upside) | 5% | 173 | $3.9M | Admission on data. Three sessions ($13,500) plus a modeled 20 percent admit rate at $240,000 is $61,500 expected per family. |
+| Current Alpha | 10% | 347 | $7.4M (after 5 percent discount) | Retention. The school day no longer ends at 3:30. |
+
+Seventy percent of the revenue comes from families who will never enroll, and it is the most durable 70 percent: nothing about their reason for not enrolling changes year to year. Conversion rates are modeled, not measured. The program clears its P&L at zero conversions, so every conversion is upside on top of the session revenue above.
+
+### Downside economics
+
+Contribution per enrolled student is about $20,325 a year before guides. Minimum operating cost per campus is about $288K, so break-even is 15 enrolled students per campus, about 4 per cohort, under 4 percent of full capacity at the largest sites. Enrollment closes before each session starts and guides are hired to sold seats, so every staffing step is taken against booked revenue, and site margin holds between 73 and 83 percent at every fill level above break-even. Exposure is capped by design: one-session enrollment, part-time staff, no capex, and a building Alpha already pays for mean the maximum downside at any site is seven weeks of payroll.
+
+Two mechanical floors sit under it. Cohort floor: a cohort that has not sold 10 seats two weeks before session start (October 5, 2026 for Session 2) does not open, and its families roll into the other weekday track or a Saturday block. Site floor: a campus below break-even at week 3 of Session 2 (the week of November 2) closes at session end, staff released, room returned to the campus. Week 3 is the checkpoint because attendance and re-enrollment intent, the program's own leading indicators, are both visible by then.
 
 ### The national build
 
-Year 2 takes Alpha Hours to every campus, about 40, at an average of 60 seats: 2,400 seats, 24,000 members at capacity.
+The build runs in three waves behind the pilot, each one a session apart, at capacity figures.
 
-| Fill | Members | Revenue | Site profit | Net after central |
-|---|---|---|---|---|
-| 30% | 7,200 | $138M | $116M | $113M |
-| 50% | 12,000 | $230M | $199M | $196M |
-| 70% | 16,800 | $323M | $282M | $279M |
-| 100% | 24,000 | $461M | $406M | $403M |
+| Wave | Session | Campuses added | Seats added | Enrolled added | Run rate added | Network run rate |
+|---|---|---|---|---|---|---|
+| Pilot | Session 2, Oct 2026 | NYC (2), Greenwich, Boston (2), Chicago | 444 | 1,776 | $40.0M | $40.0M |
+| Wave 2 | Session 3, Jan 2027 | Chicago expansion, Austin (300), Miami (150), Palm Beach (60), Miami Beach (50) | 983 | 3,932 | $88.5M | $128.4M |
+| Wave 3 | Session 4, Feb 2027 | Every remaining campus, about 30, at a conservative 50 seats each | 1,550 | 6,200 | $139.5M | $267.9M |
 
-Satellite centers (company-owned, Kumon-sized storefronts of about 1,500 square feet in the same metros, opened once a campus center passes 70 percent): 150 members, $3.15M revenue, about $0.64M cost including rent, $2.5M profit each.
+Full network at capacity, about 40 campuses, K-8 blocks only: 11,908 enrolled, $267.9M revenue, about $220M site profit (about 82 percent), about $216M net after central team. Chicago: 2,068 enrolled, $46.5M. Austin: 1,200 enrolled, $27M. New York: 520 enrolled, $11.7M. The middle and high school block lifts every participating campus ceiling by 50 percent from Fall 2027, a path toward $400M+ at full capacity, and two break weeks a year across 2,977 seats add about $27M.
+
+Year 1 network ceiling with every wave on schedule and every seat sold: $140.9M revenue (Session 2 $8.0M, Session 3 $25.7M, Sessions 4 and 5 $53.6M each). That is a ceiling, not a plan. The plan is the pilot table above, and each wave is released by the week-3 checkpoint of the session before it.
+
+### Market size
+
+TAM about $40B a year: what US families already spend on tutoring and after-school combined ($18.9B tutoring, $21.0B after-school), before any category growth. SAM about $16B a year: the share of that spend in Alpha's metros, roughly 40 percent of premium households. SOM today about $268M a year: the full 40-campus network at capacity on K-8 blocks, about 1.7 percent of SAM. The constraint is buildings, and Alpha adds about 20 a year.
+
+### The feeder (upside)
+
+One conversion to full Alpha is worth $160,000 to $325,000 in lifetime tuition. Modeled conversion 4 to 8 percent of all enrolled families, most of it from the Considering and Path to yes lanes, replaced by our own measured number after Session 2. Nothing in the plan depends on it. The program is profitable at zero conversions, so the effective acquisition cost per full enrollment is negative.
+
+Feeder sensitivity. At a $240,000 midpoint lifetime tuition value, on the pilot's 3,468 enrolled at expanded capacity: 4 percent conversion is 139 enrollments, about $33M; 8 percent is 277, about $67M; 12 percent is 416, about $100M. On the full national base of 11,908 enrolled: 4 percent is about $114M, 8 percent about $229M, 12 percent about $343M. That is lifetime tuition, booked by the school over years, on top of a program that clears its own P&L in its first session.
 
 ## Potential Objections and Challenges
 
-### Someone else is building after-school academics for Alpha
+### Reputation, and why New York is in
 
-Alpha Hours is that product, run as a center rather than a program, and it should be the same effort. The plan is written so it can absorb the current work: same platform, same guides, a membership instead of a session. The Head's first job is to merge the two.
+Alpha Hours will be many families' first Alpha experience, and it carries the school's brand into every one of them. A weak session damages the school and the feeder, not just the program. The earlier plan answered that by holding New York out of the pilot for a year. This plan answers it with the controls, at every campus, New York first: the guide training program runs at Alpha NYC, so New York's guides are the best-trained in the network; guides are staffed to sold seats so no room ever opens understaffed; the Lead Guide owns quality in every building; the week-1 exit process protects every room from the one child who would wreck it; and the AlphaTest Showcase puts the proof on a stage every seven weeks. New York is also where the Head sits, where the demand was measured, and where the sales list already exists. The market that can be watched most closely is the wrong one to hold back.
 
-### It is Kumon at eight times the price
+### Wrong-fit students, and the week 1 exit process
 
-Yes. Kumon sells a worksheet and a level certificate. Alpha Hours sells an adaptive platform, a guide, a placement assessment, a monthly mastery map, a learning velocity and a weeks-to-grade-level number, inside a building families already want to be in. The price is tested at $4,500 a week for Alpha Summer. If it is wrong, the waitlist rule finds the right one.
-
-### Fill, not seats, is the constraint
-
-True, and the model is built that way. Floor guides are scheduled to fill, fixed cost per campus is $213,000, and break-even is 11 members. The floor case still nets $7.8M on six campuses.
-
-### Wrong-fit students
-
-A week-one exit process: two logged incidents in the first month and the family is refunded and released. The Lead Guide owns it.
+One student who cannot function in a 1:10 room destroys the product for the nine other families who paid $4,500, and at this price that is not survivable. So the exit trigger is behavioral and mechanical, not a judgment call. Two things trigger it: behavior, every incident that pulls a guide off the room, disrupting another student's session, refusing to remain in the block, is logged the moment it happens, and two logged incidents in week 1 is an exit before week 2. And level of support, a child who requires a level of individual support that compromises the program's ability to deliver the three commitments, kids love school, learn 2x, learn life skills, to the rest of the room. The Head of Alpha Hours delivers the decision to the family, the log makes it. The family receives the incident record and a prorated refund. Both standards are published at enrollment, so an exit is the program enforcing what every family in the room paid for.
 
 ### Students who need 1:1 support
 
-Alpha Hours cannot accommodate them and says so on the landing page and at placement.
+The staffing model is 1 guide per 10 students, and it cannot deliver one-to-one support. This is publicly listed on the landing page before any family pays: Alpha Hours cannot accommodate students who need 1:1 support. Stating it up front protects the ratio, sets expectations honestly, and filters at the top of the funnel instead of in week 1.
 
-### The 6:30 slot is late for young children
+### The arrival window for non-Alpha students
 
-It is the slot for grades 4 to 8 and for current Alpha families; K-3 fill 3:30 and 4:30 first. Saturday morning carries the rest.
+Outside schools dismiss around 3:00, and drop-off closes at 4:00. For most target families this is routine, and for the rest the two Saturday blocks carry the load. The window is held at 15 minutes on purpose: the block starts on time for everyone, every time.
+
+### Saturday competes with youth sports
+
+Saturday morning is prime league time in exactly our demographic. Two Saturday blocks, two weekday tracks, and session-at-a-time enrollment let families rotate around sports seasons instead of choosing against them permanently.
+
+### The parking risk
+
+Some families will treat Alpha Hours as Alpha at a third of the price and delay full enrollment. For most of them that is the product, that is the plan, and they are Stay customers worth $22,500 a year for years. The program is built for them. For the family that would have enrolled full-time, the structured conversion conversation, the mastery map, and the weeks-to-grade-level projection make the ceiling explicit: 100 minutes a week produces the map, full Alpha produces the acceleration. And from the sixth session the seat reprices to $5,000 unless an application is on file, so a long-stayer is either pipeline by definition or premium revenue, and where a waitlist stands, non-applicants release the seat first.
+
+### This is a tutoring business competing with the school
+
+Yes, it is a business, and it is built to be one: sized on families who will never enroll, staffed to sold seats, and judged on fill and re-enrollment. It does not compete with the school, because the families it serves were never going to enroll, and the ones who were get a paid trial, a mastery map, and a data-triggered invitation instead of a free shadow day. The school loses nothing and gains a revenue line, full buildings, and a stream of applicants who have already paid to be evaluated.
+
+### Six campuses at once is a lot for a launch
+
+It is four markets inside one flight radius, a shared guide pool across New York, Greenwich, and Boston, one remote VP, and one launch checklist. The two New York buildings share a coordinator and are blocks apart. Every campus opens on sold seats, so a slow market opens small and a fast one opens full, and the cohort and site floors decide which is which without a meeting. What six campuses buy is six measured conversion and re-enrollment numbers in one session instead of four, and a New York number, which is the one the network's largest pipeline actually needs.
 
 ### Guide supply at national scale
 
-One floor guide per 20 seats, part-time, no subject expertise required, hired through Crossover from the pool that already produced 80,000 guide applications. Lead Guides are the constraint and are hired one campus at a time.
-
-### Parking
-
-See Insight 7. Parking is the product.
+Guide hiring and training are owned by the Head of Alpha Hours. The candidate pool, public school teachers and retired teachers, exists at scale in every metro, and the Alpha Hours training program, shadowing at Alpha NYC plus AI-first asynchronous training, standardizes quality before any guide runs a room.
 
 ## Rollout
 
-### Year 1: the pilot, six campuses, Alpha buildings only (October 19, 2026 to October 18, 2027)
+### Phase 1 (Session 2, October 19 to December 18, 2026): four markets, six campuses, sold to the whole city
 
-Launch at New York, Austin, Miami, Chicago, Greenwich and Boston with 400 seats. Enrollment opens September 21. The first four weeks are placement assessments and Stay-lane enrollment from the HubSpot lists, Alpha families' referrals and the admissions pipeline's non-yeses. Admissions begins routing every not-yet to a Path to yes membership from day one.
+New York (180 Maiden Lane, 100 seats; 156 William Street, 30 seats), Greenwich (Armonk, 80), Boston (two campuses, 40 and 100), Chicago (94 until the expansion lands). Every campus opens at full capacity, all four cohorts on sale, no cap and no small-group phase: the pilot enrolls every family these markets will buy, in every lane. 444 seats, 1,776 enrolled at capacity, a $40M run rate.
 
-Month-3 checkpoint (January 18, 2027), reported by campus and lane: fill, monthly retention, home-practice streak rate, placement-to-first-win days, Considering conversation rate. Release rule for wave 2: fill at or above 20 percent of member capacity across the pilot, monthly retention at or above 92 percent, no campus below 11 members.
+Sales open in September to the whole city, not the funnel: the 1,000-plus HubSpot families from the Hamptons outreach, the 174 paid Hamptons families, the UHNW admissions event lists in Greenwich and Boston, and the parent networks of every school in the Financial District, Greenwich, Back Bay, and the Gold Coast, sold as the best after-school program in the city and nothing else. The admissions pipeline is the second list: every New York family who was not a yes gets a Path to yes seat or a Considering seat with the not-yet letter. Current Alpha families in every market are the base load. Cohort floor decision October 5. Week-3 checkpoint the week of November 2. Re-enrollment for Session 3 opens in week 4, the week of November 9, to enrolled families first.
 
-Wave 2 (February 24, 2027, Session 4 start): 14 more campuses at 40 to 60 seats each, chosen by parent-base size, bringing the pilot to 20 campuses and about 1,100 seats. Still Alpha buildings only. Year 1 numbers above are for the original six; wave 2 is upside.
+Launching at Session 2 rather than Session 1 gives campuses a settled start to the school year and the runway for guide hiring, state exemption determinations (New York, Connecticut, Massachusetts, Illinois), and insurance. Quality is carried by the guide training program at Alpha NYC, the Lead Guide at every building, and guides hired to sold seats so no room opens understaffed.
 
-Month-9 checkpoint (July 2027): the measured conversion rate, tenure, and the price ceiling by campus decide Year 2's price list and the satellite plan.
+### Pilot success criteria and measurement plan
 
-### Year 2: every campus, first satellites (October 2027)
+The pilot succeeds on two measured numbers: session-over-session re-enrollment at or above 70 percent, and plan fill (60 percent at launch, 75 percent in Session 3). Those are the business. Conversion to full Alpha is the upside, modeled at 4 to 8 percent of all enrolled families, and it is measured with the same rigor without being a pass or fail condition. The experiment is instrumented before it opens, in five commitments.
 
-Every Alpha campus, about 40, at 40 to 100 seats. Satellite storefronts open in the metros where a campus center has passed 70 percent fill for two months, company-owned, 1,500 square feet, 15 to 20 seats, 150 to 200 members each. The teen slot (7:30 to 9:00 pm) opens at campuses with middle and high school demand.
+1. The lanes and the funnel are defined before Session 2 starts. Every family is tagged to a lane at enrollment. Conversion is not one number; it is tracked per family through six stages: paid Alpha Hours enrollment, structured conversion conversation held, application submitted, admitted, full-Alpha enrollment signed, first tuition payment. Stage-level tracking is what says whether a weak result is a marketing problem, an admissions problem, or a product problem. Stay families are tracked on tenure, not conversion.
+2. The trigger is mechanical. The thresholds that fire the conversion conversation and the application invitation, mastery gains, and session completion rate, are published before Session 2 opens, so the measured rate reflects the product, not the persuasiveness of whichever Lead Guide ran the conversation that week.
+3. The number is lift, not a raw count. Conversion is measured against a matched baseline of non-Alpha-Hours inquiries from the same markets and the same window, because some share of these families would have applied anyway, and the case rests on what Alpha Hours adds, not on conversions that were coming regardless.
+4. Sample size is respected. Session 2's 1,776 families are reported as directional, with the margin of error stated; the conversion read runs on the full 3,468 base by Session 3. Every number is reported by campus, by cohort, by lane, by session count, and by market, and a material spread between Chicago and the East Coast markets is treated as a market-mix finding that reshapes rollout sequencing, not noise to average away.
+5. The decision rule is pre-committed, and it runs on the business, not on conversion. Wave 2 is released at the Session 2 week-3 checkpoint if fill across the pilot is at or above 40 percent and no campus is below its site floor. Wave 3 is released at the Session 3 week-3 checkpoint on the same test plus Session 2 re-enrollment at or above 60 percent. Conversion below 6 percent at Session 3 does not pause the build; it triggers a funnel-stage review and moves the admissions conversation, not the program. Above 10 percent, the feeder becomes the lead story to leadership. Session 3's leadership conversation is the numbers and what they trigger, not another debate.
 
-### Year 3: satellites at scale, and the franchise verdict
+### Phase 2 (Session 3, January 4, 2027): the Chicago expansion and the second wave
 
-Satellites in every metro with a campus. Franchising is evaluated once, in Year 3, only for standard-tier markets Alpha will not enter with a campus or a satellite, and only if a royalty above 40 percent of tuition is achievable. In premium markets the answer is company-owned, because a 150-member center earns Alpha $2.5M owned and $0.6M franchised. Kumon franchised because it had to. We do not.
+Chicago's campus expansion lands and Alpha Hours steps with it, from 94 seats to 517, lifting the enrolled ceiling from 376 to 2,068 and the pilot from 1,776 to 3,468. One session of Chicago operating data, a waitlist built against the 94-seat footprint, and a trained guide bench sized to sold seats carry the step. This is the national build in miniature: the same room, the same playbook, five and a half times the seats, executed mid-pilot.
 
-### What Year 1 replaces
+The same session, Austin (300 seats), Miami (150), Palm Beach (60), and Miami Beach (50) open on the pilot playbook, released by the Session 2 week-3 checkpoint. Florida's exemption request, which flags meals and the break-week format, is filed in September alongside the pilot states. Network at Session 3: 1,427 seats, 5,708 enrolled, $128.4M run rate at capacity.
 
-In order of how much they move the numbers: fill and its ramp; monthly retention (the plan needs 92 percent); lane mix (modeled 55 / 25 / 15 / 5); the price ceiling (waitlist depth at $1,750); conversion (modeled 6 to 14 percent of two lanes, upside only); home-practice compliance (the dose depends on it); floor-guide ratio (one per 20 seats).
+### Phase 3 (Session 4, February 24, 2027): national launch, and the evening block in New York and Greenwich
+
+Every remaining campus, about 30, opens at a conservative 50 seats with two full sessions of operating data and the first measured conversion numbers. The middle and high school block opens the same session at New York Maiden Lane and Greenwich, 6:15 to 8:15 pm, adding 360 enrolled and $8.1M of run rate. Network at Session 4: about 40 campuses, 11,908 enrolled on K-8 blocks, $267.9M run rate at capacity.
+
+### Phase 4 (April 2027 through Fall 2027): break weeks and the evening block everywhere
+
+The first break week runs April 19 to 23, 2027 across the pilot campuses, $3.9M at capacity. Fall 2027, the middle and high school block launches at every pilot campus and across the network, lifting every participating campus ceiling by 50 percent, and two break weeks a year become standard at every campus. The network grows with every new campus Alpha opens, about 20 a year.
+
+### Why these campuses
+
+New York is the network's most valuable pipeline and its best-instrumented market: measured unprompted demand, a proven $4,500 price, the guide training site, the Head on the ground, and two buildings blocks apart that let the youngest students run in the room built for them. Chicago is the network's largest campus: 94 seats at launch, 517 from January 2027, 2,068 enrolled at capacity, so the pilot tests the model at the exact scale the national build depends on, and its mid-pilot expansion is a live rehearsal of scaling a site, in a market outside the East Coast corridor, which makes the measured numbers generalize. Greenwich and Boston are dense UHNW markets at premium tuition where every conversion is worth the most, close enough to New York that one launch team and a shared guide pool cover four buildings. Four markets, six campuses, one session: enough to measure every lane in every kind of market, and enough revenue that the answer pays for itself either way. In every one of these cities, the families who will never enroll at Alpha outnumber the ones who will by more than ten to one. That is who the program is for.

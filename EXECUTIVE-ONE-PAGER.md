@@ -1,31 +1,104 @@
 # Alpha Hours: Executive one-pager
 
-**Owner:** Nancy Wisniewski Torvund, proposed Head of Alpha Hours. Revision August 27, 2026.
+**A premium after-school program that fills empty Alpha buildings, turns a profit, feeds full-time Alpha enrollment, and serves Alpha's own families after 3:30.**
 
-## What it is
+Prepared by Nancy Wisniewski Torvund, proposed Head of Alpha Hours. July 23, 2026.
 
-A mastery learning center inside Alpha campuses after the school day, built on the Kumon model and the Timeback platform. A member comes twice a week for a one-hour guided visit (two 25-minute mastery sessions in math and reading, a floor guide holding focus, Alpha bucks and shoutouts), practices 25 minutes a day at home on Timeback, and stays for as long as the family wants. Monthly membership, $1,750 in premium markets, $1,250 standard, $750 enrollment fee. Every seat serves ten members.
+---
 
-## Who it is for
+### The idea
 
-Three lanes in one room, same price, same visit. Stay: families who will never enroll at Alpha and want the best hour in the city after school; the largest lane, worth $21,000 a year for years. Considering: families deciding on Alpha, who pay while they try it and whose conversion conversation fires on monthly data. Path to yes: families Alpha told "not yet," who pay for a roadmap with measurable thresholds and a re-evaluation date instead of a letter. Current Alpha families join at 5 percent off.
+The Alpha day, after school: mastery-based academics on Timeback followed by a life skills workshop. A family picks a two-day track, Monday/Wednesday or Tuesday/Thursday at 4:00 to 6:00 pm, or a single four-hour Saturday block, morning or afternoon. Either way the child gets the same week: 100 minutes of focused, adaptive mastery academics and 80 minutes of life skills. Timeback delivers the instruction and adapts to each child; the guide holds focus, effort, and motivation, and leads the workshop.
 
-## Why Kumon
+It does four things at once: **it makes money, it uses real estate we already pay for, it feeds Alpha, and it serves current Alpha families** whose school day ends at 3:30 with nothing behind it.
 
-Kumon built the largest after-school business in the world (about four million students, about 25,000 centers, no teachers) on throughput per seat, short visits, daily practice, monthly billing and multi-year tenure. Alpha Hours keeps the business model and replaces the worksheet with Timeback, the instructor with a guide, and the gold star with Alpha's motivation system, at eight times the price.
+---
 
-## The numbers
+### How it runs
 
-- Pilot: October 19, 2026, six campuses (New York, Austin, Miami, Chicago, Greenwich, Boston), 400 seats, 4,000 members at capacity, $78M revenue, $67.6M net at capacity.
-- Year 1 plan, ramping to half full by October 2027: $25.9M revenue, $20.3M net, $39M exit run rate. Floor case nets $7.8M. Strong case nets $35.9M.
-- Contribution per premium member $19,180 a year (91 percent). Break-even 11 members a campus. Launch budget about $500K, covered by the first two months.
-- Feeder at plan peak: 800 families in the two conversion lanes; at 10 percent, 80 full-Alpha enrollments and about $19M of lifetime tuition. The P&L clears at zero conversions.
-- Year 2, every campus (about 40): $230M revenue and $196M net at 50 percent fill; $461M and $403M at capacity. Company-owned satellites at $2.5M profit each.
+- **The weekday block starts where the Alpha day ends.** Guide setup 3:30 to 3:45, drop-off 3:45 to 4:00 (current Alpha students transition directly on campus), block 4:00 to 6:00 pm, dismissal 6:00 to 6:15. Every child is home for dinner.
+- **Four cohorts share every room:** Monday/Wednesday, Tuesday/Thursday, Saturday morning, Saturday afternoon. Enrolled students per campus is four times the room capacity. A middle and high school block (6:15 to 8:15 pm) lifts that ceiling to six times from Fall 2027.
+- **Five sessions a year, sign up one at a time,** each about seven weeks. Current Alpha families get a 5 percent discount ($4,275 premium). Continuing past five sessions requires an Alpha application on file and the continuation rate ($6,500 premium / $5,000 standard), so a long-stayer is either pipeline or premium revenue.
+- **Every session ends with an AlphaTest Showcase:** students are tested on the session's life skills in front of their parents, in the same week the parents receive the child's mastery map and weeks-to-grade-level report.
 
-## Franchise verdict
+---
 
-No. A 150-member center earns Alpha $2.5M owned and $0.6M franchised. Kumon franchised because $200-a-month tuition could not fund company-owned centers. Alpha Hours has no such problem. Company-owned satellites from Year 2; franchising evaluated once, in Year 3, only for standard-tier markets Alpha will never enter.
+### Pricing (above every competitor, a fraction of Alpha)
 
-## Decision asked
+| | Per session (about 7 weeks) | Full year (5 sessions) |
+|---|---|---|
+| Standard markets | $3,500 | $17,500 |
+| Premium markets (all pilot campuses) | $4,500 | $22,500 |
 
-Approve the six-campus October 19 launch, the central team ($1.35M), the $500K launch budget, and the admissions routing policy (every not-yet becomes a Path to yes membership). Wave 2 (14 more campuses, February 24, 2027) releases on the month-3 checkpoint: 20 percent fill, 92 percent monthly retention, no campus below 11 members.
+Priced on value, not hours: about 28 hours a session, roughly $161 an hour, just under elite 1:1 tutors who cover one subject; we cover multiple, with the data to prove progress. The full year is roughly a third of full Alpha tuition. The price is market-tested: 174 paid Alpha Summer registrations at $4,500 per week, one price objection total.
+
+---
+
+### The market
+
+- US families already spend about **$40B a year** on tutoring ($18.9B, growing ~11%) and after-school ($21.0B, with 22.6 million children shut out for lack of spots). SAM in Alpha's metros: **~$16B**. The full 40-campus network at capacity is ~$267M, about 1.7% of SAM. The constraint is buildings, not demand.
+- Demand is unprompted: 3 of 23 NYC admissions conversations in the last 14 days included an unasked-for after-school request, with no product to point to.
+
+---
+
+### The team
+
+| Role | Compensation |
+|---|---|
+| Head of Alpha Hours (Nancy) | $400,000 |
+| Operations and Admin VP (remote) | $200,000 |
+| Lead Guide (per campus) | $75,000 |
+| Campus Coordinator (per campus, 50% role) | $50,000 |
+| Guides (part-time, ~21 hrs/week, trained at Alpha NYC) | $50,000 |
+
+---
+
+### The pilot: three markets, four campuses, full capacity from day one
+
+Chicago (94 seats, expanding to 517 in January 2027), Boston campus B (100), Greenwich/Armonk (80), Boston campus A (40). All premium-priced at $4,500. NYC is deliberately excluded until Fall 2027: the network's most valuable pipeline is not put at risk before the model is proven.
+
+| | At launch (Session 2, Fall 2026) | From Session 3 (January 2027) |
+|---|---|---|
+| Enrolled | 1,256 | 2,948 |
+| Revenue / year | $28.26M | $66.33M |
+| Site profit / year | $23.6M (~83%) | $56.4M (~85%) |
+
+Net about **$55.5M** a year at expanded capacity after the central team ($700K base). Year 1 (Sessions 2 through 5) ceiling: about **$45M revenue, roughly $38M net** at full fill. Downside is capped: break-even is ~14 students per campus, cohorts that miss 10 seats two weeks out do not open, and a campus below break-even at week 3 closes at session end.
+
+**The pilot is a conversion experiment.** Success is conversion to full Alpha at or above 8% and re-enrollment at or above 70%, measured as lift against a matched baseline through a six-stage funnel with pre-published triggers. The decision rule is pre-committed: below 6%, pause; 6 to 10%, measured regional pace; above 10%, full national go. Each conversion is worth $160K to $325K in lifetime tuition; the pilot feeder pipeline is $55M to $85M.
+
+---
+
+### The national build-out
+
+Every K-8 Alpha campus at capacity, premium pricing: Austin 300 seats, Chicago 517, Miami 150, New York 125, Boston 100 and 40, Greenwich 80, Palm Beach 60, Miami Beach 50, all others a conservative 50.
+
+| Today's ~40-campus network at full capacity | |
+|---|---|
+| Students enrolled | 11,888 |
+| **Revenue** | **$267.5M** |
+| **Net operating profit** | **~$219M** |
+| Feeder pipeline (8 to 12% conversion) | ~$228M to $342M |
+
+The middle and high school block lifts every participating campus ceiling by 50 percent from Fall 2027, a path toward $400M+. Alpha adds about 20 campuses a year, so the number climbs toward the market, not toward a cap.
+
+---
+
+### Rollout
+
+- **Phase 1, Session 2 (Fall 2026):** three-market pilot at full capacity: Chicago, Boston (two sites), Greenwich (Armonk).
+- **Phase 2, Session 3 (January 2027):** the Chicago expansion, 94 seats to 517, the national build in miniature.
+- **Phase 3, Session 4 (Spring 2027):** national launch with two sessions of operating data and measured conversion numbers.
+- **Phase 4, Fall 2027:** New York opens at 125 seats with a proven playbook, and the middle and high school evening block launches.
+
+---
+
+### The one-sentence case
+
+Alpha Hours turns empty Alpha buildings into a profitable, premium after-school program that also functions as the lowest-cost, highest-intent enrollment channel Alpha has.
+
+---
+
+### The ask
+
+Approve the three-market pilot for Session 2, Fall 2026 (Chicago, two Boston campuses, Greenwich/Armonk), commit to the pre-registered conversion experiment and decision rule, and name Nancy Wisniewski Torvund as Head of Alpha Hours.
