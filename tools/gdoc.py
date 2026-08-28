@@ -4,7 +4,7 @@ Google Drive converts HTML into a Google Doc, keeping inline colors, fonts that 
 table cell fills and remote images. It drops CSS grid/flex, data URIs and most class-based layout, so
 this generator emits plain, inline-styled HTML with tables for cards and callouts.
 
-Usage: python3 tools/gdoc.py plan|brainlift|financials|onepager|all  -> writes gdoc-<key>.html into the scratchpad dir
+Usage: python3 tools/gdoc.py plan|brainlift|financials|ask|onepager|all  -> writes gdoc-<key>.html into the scratchpad dir
 """
 import re, html, sys, os
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -93,7 +93,7 @@ def cover(cfg):
             + eyebrow(cfg["eyebrow"], size="9pt", margin="0 0 4pt 0")
             + f'<p style="{SANS};margin:0 0 6pt 0;font-size:34pt;color:{INK};font-weight:bold">Alpha <span style="color:{BLUE}">Hours</span></p>'
             + p(cfg["sub"], "13pt", INK2, margin="0 0 10pt 0")
-            + f'<p style="{SANS};margin:0 0 6pt 0;font-size:9.5pt;color:{INK}"><span style="font-size:7.5pt;color:{MUTED};letter-spacing:1.5pt">PREPARED BY</span> <b>Nancy Wisniewski Torvund, proposed Head of Alpha Hours</b> &nbsp;&nbsp; <span style="font-size:7.5pt;color:{MUTED};letter-spacing:1.5pt">DATE</span> <b>{DATE}</b> &nbsp;&nbsp; <span style="font-size:7.5pt;color:{MUTED};letter-spacing:1.5pt">STATUS</span> <b>Draft for review</b></p>'
+            + f'<p style="{SANS};margin:0 0 6pt 0;font-size:9.5pt;color:{INK}"><span style="font-size:7.5pt;color:{MUTED};letter-spacing:1.5pt">PREPARED BY</span> <b>Nancy Wisniewski Torvund, proposed Head of Alpha Hours</b> &nbsp;&nbsp; <span style="font-size:7.5pt;color:{MUTED};letter-spacing:1.5pt">DATE</span> <b>{cfg.get("date", DATE)}</b> &nbsp;&nbsp; <span style="font-size:7.5pt;color:{MUTED};letter-spacing:1.5pt">STATUS</span> <b>Draft for review</b></p>'
             + rule() + eyebrow("At a glance", margin="8pt 0 4pt 0") + cards(cfg["cards"]))
 
 def build_doc(key):
@@ -123,7 +123,7 @@ def build_doc(key):
             if m: out.append(eyebrow(f"Insight {m.group(1)}", margin="12pt 0 2pt 0")); out.append(p(m.group(2), "12.5pt", INK, True, "0 0 5pt 0")); i += 1; continue
             out.append(eyebrow(val, margin="12pt 0 4pt 0") if section == "Purpose" else h3(val))
         elif kind == "p":
-            if cfg["callout"] and val.startswith(cfg["callout"]): out.append(callout("The one-sentence case", val))
+            if cfg["callout"] and val.startswith(cfg["callout"]): out.append(callout(cfg.get("callout_label", "The one-sentence case"), val))
             elif section == "Knowledge Tree" and re.match(r"^(Summary|Insights):", val): out.append(p(val, "10.5pt", INK2))
             else: out.append(p(val))
         elif kind in ("ul", "ol"):

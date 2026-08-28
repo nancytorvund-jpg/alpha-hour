@@ -25,6 +25,7 @@ Google Docs and the Google Sheet are the working copies (links in the project no
 | `BUSINESS-PLAN.md` / `business-plan.html` / `Alpha-Hours-Business-Plan.pdf` | The full business plan |
 | `BRAINLIFT.md` / `brainlift.html` / `Alpha-Hours-BrainLift.pdf` | The BrainLift (purpose, experts, spiky points of view, insights, knowledge tree, business model, financials, rollout) |
 | `FINANCIALS.md` / `financials.html` / `Alpha-Hours-Financials.pdf` | The standalone financial document: unit economics, per-campus P&L, Year 1 by session in three cases, lanes, launch budget, cash timing, sensitivities, the national build, three-year view, feeder |
+| `THE-ASK.md` / `the-ask.html` / `Alpha-Hours-The-Ask.pdf` | The ask: the four decisions to launch Session 2 (Head, Operations and Admin VP, New York guide team, $365K launch and its return) |
 | `BRAINLIFT-workflowy.txt` / `BRAINLIFT.opml` | The full BrainLift as an outline for import into Workflowy |
 | `BUSINESS-MODEL.opml` | The business model and operations section as a standalone outline |
 | `tools/` | `brand.py` (markdown to Alpha-branded html), `pdf.sh` (html to PDF with headless Chrome), `gen.py` (BrainLift outlines), `model-check.py` (the reference model every number is checked against), `build-financial-model.py` (builds the workbook that becomes the Google Sheet) |

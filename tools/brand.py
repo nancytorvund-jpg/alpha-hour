@@ -1,6 +1,6 @@
 """Alpha-branded HTML for every Alpha Hours document.
 
-Usage: python3 tools/brand.py plan|brainlift|financials|onepager|all
+Usage: python3 tools/brand.py plan|brainlift|financials|ask|onepager|all
 Reads the markdown source, writes the html next to it. PDFs are made from the html by tools/pdf.sh.
 """
 import re, html, base64, sys, os
@@ -36,6 +36,15 @@ DOCS = {
                         ("15 students", "break-even per campus. Maximum downside at any site is seven weeks of payroll."),
                         ("$268M", "full-network revenue at capacity, about $216M net, 1.7 percent of the serviceable market.")],
                  callout=None, foot="Financials"),
+    "ask": dict(md="THE-ASK.md", out="the-ask.html", title="Alpha Hours: The Ask", eyebrow="The ask", date="August 28, 2026",
+                 sub="Four decisions to launch Alpha Hours in New York on October 19, 2026: the Head, the Operations and Admin VP, the New York guide team, and a $365K launch that returns about $1.1M in its first session.",
+                 cards=[("Head", "Nancy Wisniewski Torvund at $400K, owning the P&L, held to plan fill, site profit and re-enrollment."),
+                        ("VP Ops", "Operations and Admin VP at $200K, remote, hired in September before the first family signs up."),
+                        ("13 guides", "one per ten seats at $50K part-time, plus two Lead Guides and a coordinator, hired to sold seats."),
+                        ("$365K", "to launch and run Session 2: the $141K one-time budget plus the Head and VP from September 1 to December 18."),
+                        ("$1.12M", "Session 2 site profit on the plan case, 3.1x the investment inside the first session."),
+                        ("$28.2M", "Year 1 net on the plan, leaving Session 5 at an $82M run rate. Every later step is paid from the session before it.")],
+                 callout="Approve four things by September 1", callout_label="The decision", foot="The ask"),
 }
 
 # ---------------- markdown parser ----------------
@@ -151,7 +160,7 @@ def cover(cfg, h1="Alpha <span>Hours</span>"):
   <p class="eyebrow">{cfg["eyebrow"]}</p>
   <h1>{h1}</h1>
   <p class="sub">{cfg["sub"]}</p>
-  <div class="meta"><div>Prepared by<b>Nancy Wisniewski Torvund, proposed Head of Alpha Hours</b></div><div>Date<b>{DATE}</b></div><div>Status<b>Draft for review</b></div></div>
+  <div class="meta"><div>Prepared by<b>Nancy Wisniewski Torvund, proposed Head of Alpha Hours</b></div><div>Date<b>{cfg.get("date", DATE)}</b></div><div>Status<b>Draft for review</b></div></div>
 </header>
 <section class="glance">
   <h2>At a glance</h2>
@@ -195,7 +204,7 @@ def build_doc(key):
             out.append(f"<{tag}>{inl(val)}</{tag}>")
         elif kind == "p":
             if cfg["callout"] and val.startswith(cfg["callout"]):
-                out.append(f'<div class="callout"><span class="k">The one-sentence case</span>{inl(val)}</div>')
+                out.append(f'<div class="callout"><span class="k">{cfg.get("callout_label", "The one-sentence case")}</span>{inl(val)}</div>')
             elif section == "Knowledge Tree" and re.match(r"^(Summary|Insights):", val):
                 out.append(f'<p class="lead">{inl(val)}</p>')
             else: out.append(f"<p>{inl(val)}</p>")
@@ -204,7 +213,7 @@ def build_doc(key):
         elif kind == "table": out.append(table_html(val))
         i += 1
     out.append(f'''<p class="sources">Alpha's learning-speed and test-score figures cited throughout are Alpha's own internal data and are not independently audited.</p></main>
-<footer class="foot"><span>Alpha Hours · {cfg["foot"]}</span><span>{DATE} · Confidential draft</span></footer>
+<footer class="foot"><span>Alpha Hours · {cfg["foot"]}</span><span>{cfg.get("date", DATE)} · Confidential draft</span></footer>
 </div>''')
     path = os.path.join(ROOT, cfg["out"])
     open(path, "w", encoding="utf-8").write("\n".join(out)); print("wrote", cfg["out"], len("\n".join(out)))
