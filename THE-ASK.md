@@ -44,7 +44,7 @@ One guide per ten seats. The same guide team serves all four cohorts, so one gui
 | Guides, 180 Maiden Lane (100 seats) | Up to 10 | $50,000 each, part-time | Hired to sold seats, September 21 to October 2 |
 | Guides, 156 William Street (30 seats) | Up to 3 | $50,000 each, part-time | Hired to sold seats, September 21 to October 2 |
 
-**On the plan case,** Session 2 opens with 312 enrolled and 8 guides on payroll, $80K of guide cost for the session. At capacity, 520 enrolled and 13 guides, $130K. A guide works about 21 hours a week: four weekday blocks from 3:30 to 6:15 and a Saturday.
+**On the plan case,** Session 2 opens with 312 enrolled and 8 guides on payroll, $80K of guide cost for the session. At capacity, 520 enrolled and 13 guides, $130K. A guide works about 21 hours a week: four weekday blocks from 3:30 to 6:15 and a Saturday. Pay is weekly, two weeks in arrears, for every role.
 
 **Training.** Every guide completes the Alpha Hours training program before running a room: two paid weeks, October 5 to 16, shadowing at Alpha New York plus an AI-first asynchronous course. The two paid weeks for 13 guides and 2 Lead Guides are the $29K training line in the launch budget. While New York runs, Greenwich and Boston train their guides in the New York rooms.
 
@@ -66,16 +66,16 @@ One guide per ten seats. The same guide team serves all four cohorts, so one gui
 | Emporium opening inventory | $25 a seat | $3K |
 | Registration and payments stack | Stripe, HubSpot, roster tooling | $30K |
 | One-time launch budget | | $141K |
-| Central team, September 1 to December 18 | Head and VP, fully loaded, seven weeks before launch and nine weeks of Session 2 | $225K |
+| Central team, September 1 to December 18 | Head and VP, fully loaded, seven weeks before launch and nine weeks of Session 2, paid weekly two weeks in arrears | $225K |
 | Total investment to launch and run Session 2 | | About $365K |
 
 Session 2's own operating cost (Timeback, the motivation model, snacks, supplies, showcase, processing, marketing at $435 a child; guides at $10,000 each for the session; the two buildings' fixed cost of $65K for the session) is about $0.28M on the plan case. It is paid across the nine weeks from revenue collected before day one, so it is not part of the ask.
 
 ### When the cash goes out and comes back
 
-- **September 1 to October 19.** Cash out before the first tuition dollar is about $240K: the $141K launch budget and about $100K of Head and VP payroll. Sales open in September; the $500 deposit on each sign-up lands the same day, $156K on the plan case. Net exposure before launch is under $100K.
+- **September 1 to October 19.** Cash out before the first tuition dollar is about $210K: the $141K launch budget and about $70K of Head and VP pay. Pay runs weekly, two weeks in arrears, so five of the seven pre-launch weeks are paid out by October 19 and the rest lands after tuition is in. Sales open in September; the $500 deposit on each sign-up lands the same day, $156K on the plan case. Net exposure before launch is about $55K.
 - **Before October 19.** The balance of every family's $4,500 is due before day one. On the plan case $1.40M is collected before the first block runs. At capacity, $2.34M.
-- **October 19 to December 18.** Guides are paid across the seven weeks, Timeback is billed per session, fixed cost runs monthly: about $0.28M out against $1.40M already in. Re-enrollment for Session 3 opens the week of November 9, so Session 3 deposits arrive before Session 2 ends.
+- **October 19 to December 18.** Guides are paid weekly, two weeks in arrears: the two training weeks land October 19 and 26, after tuition is in, and the seven session weeks land November 2 through January 1. Timeback is billed per session, fixed cost runs monthly. About $0.28M goes out against $1.40M already in, and the last two weeks of payroll, about $50K of central and guide pay, lands after December 18 from cash collected in October. Re-enrollment for Session 3 opens the week of November 9, so Session 3 deposits arrive before Session 2 ends.
 
 The program never needs working capital from the school after the launch budget, and no lease, build-out, or capital purchase is required. The buildings are already paid for.
 
