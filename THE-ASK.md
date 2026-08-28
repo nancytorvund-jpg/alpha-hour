@@ -1,6 +1,6 @@
 # Alpha Hours: The Ask
 
-**Four decisions to launch Alpha Hours in New York on October 19, 2026: name the Head, approve the Operations and Admin VP, approve the New York guide team, and fund a $365K launch that returns about $1.1M in its first session.**
+**Four decisions to launch Alpha Hours in New York on October 19, 2026: name the Head, approve the Operations and Admin VP, approve the New York guide team, and invest $365,000 that returns $1,123,000 in Session 2, a 208 percent return in one session.**
 
 Prepared by Nancy Wisniewski Torvund, proposed Head of Alpha Hours. August 28, 2026.
 
@@ -8,7 +8,7 @@ Prepared by Nancy Wisniewski Torvund, proposed Head of Alpha Hours. August 28, 2
 
 ## 1. The ask in one paragraph
 
-I am asking Alpha to approve four things by September 1. Name me Head of Alpha Hours at $400,000, owning the P&L. Approve one Operations and Admin VP at $200,000, remote, hired in September before the first family signs up. Approve the New York site team: two Lead Guides, one Campus Coordinator, and up to 13 guides at one guide per ten seats, hired to sold seats. Fund the launch: a $141K one-time budget plus the central team from September 1 through December 18, about $365K in total. Session 2 on the plan case collects $1.40M before it opens and produces $1.12M of site profit, about three times the investment, inside the first session. Everything after New York is paid from the sessions before it.
+I am asking Alpha to approve four things by September 1. Name me Head of Alpha Hours at $400,000, owning the P&L. Approve one Operations and Admin VP at $200,000, remote, hired in September before the first family signs up. Approve the New York site team: two Lead Guides, one Campus Coordinator, and up to 13 guides at one guide per ten seats, hired to sold seats. Fund the launch: a $141,000 one-time budget plus the Head and VP from September 1 through December 18, $365,000 in total. Session 2 on the plan case collects $1,404,000 before it opens and produces $1,123,000 of site profit: $758,000 net of the investment, a 208 percent return, inside the first session. Everything after New York is paid from the sessions before it.
 
 ---
 
@@ -66,8 +66,8 @@ One guide per ten seats. The same guide team serves all four cohorts, so one gui
 | Emporium opening inventory | $25 a seat | $3K |
 | Registration and payments stack | Stripe, HubSpot, roster tooling | $30K |
 | One-time launch budget | | $141K |
-| Central team, September 1 to December 18 | Head and VP, fully loaded, seven weeks before launch and nine weeks of Session 2, paid weekly two weeks in arrears | $225K |
-| Total investment to launch and run Session 2 | | About $365K |
+| Central team, September 1 to December 18 | Head and VP, fully loaded, seven weeks before launch and nine weeks of Session 2, paid weekly two weeks in arrears | $224K |
+| Total investment to launch and run Session 2 | | $365,000 |
 
 Session 2's own operating cost (Timeback, the motivation model, snacks, supplies, showcase, processing, marketing at $435 a child; guides at $10,000 each for the session; the two buildings' fixed cost of $65K for the session) is about $0.28M on the plan case. It is paid across the nine weeks from revenue collected before day one, so it is not part of the ask.
 
@@ -81,19 +81,21 @@ The program never needs working capital from the school after the launch budget,
 
 ### The return
 
-| Case | Enrolled | Session 2 revenue | Session 2 site profit | Net after the $365K | Return on the investment |
-|---|---|---|---|---|---|
-| Floor (25 percent fill) | 130 | $0.59M | $0.42M | $0.06M | 1.2x |
-| Plan (60 percent fill) | 312 | $1.40M | $1.12M | $0.76M | 3.1x |
-| Capacity (100 percent fill) | 520 | $2.34M | $1.92M | $1.55M | 5.3x |
+**$365,000 in. $1,123,000 back by December 18. $758,000 net. A 208 percent return on the investment, 3.1 times the money, inside one nine-week session.** That is the plan case, 312 enrolled at 60 percent fill, the number I am held to. Payback is October 19, the day tuition is collected: $1,404,000 lands before the first block runs, 3.8 times the investment.
 
-Even the floor case, every cohort a quarter full, pays back the launch inside the session. On the plan case the $365K comes back three times over by December 18, and the two buildings leave Session 2 running at a $7.0M annual revenue rate on their way to $11.7M.
+| Case | Enrolled | Session 2 revenue | Session 2 site profit | Net of the $365,000 | Return on investment |
+|---|---|---|---|---|---|
+| Floor (25 percent fill) | 130 | $585,000 | $423,000 | $58,000 | 16% (1.2x) |
+| Plan (60 percent fill) | 312 | $1,404,000 | $1,123,000 | $758,000 | 208% (3.1x) |
+| Capacity (100 percent fill) | 520 | $2,340,000 | $1,919,000 | $1,554,000 | 426% (5.3x) |
+
+Even the floor case, every cohort a quarter full, pays back the launch inside the session. On the plan case the two buildings leave Session 2 running at a $7.0M annual revenue rate on their way to $11.7M.
 
 ### What Session 2 buys after Session 2
 
 - **Session 3 (January 4, 2027).** Greenwich (80 seats) and Boston (40 and 100) open. Their launch cost, about $200K, is paid from Session 2 revenue. Five campuses, 350 seats, $31.5M run rate at capacity.
 - **Session 4 (February 24, 2027).** Chicago (517), Miami (150), Palm Beach (60), Miami Beach (50). About $400K of launch cost, paid from Session 3. Nine campuses, 1,127 seats, 4,508 enrolled, $101.4M run rate, $83.5M net at capacity.
-- **Year 1 (Sessions 2 to 5).** Plan $35.4M revenue, $28.2M net after the full $875K central team, leaving Session 5 at an $82M run rate. Capacity $49.2M / $39.9M. Floor $12.3M / $8.6M. Total one-time launch cost across the year is about $0.74M, all of it paid from the sessions before it. The $365K in this document is the only money that comes from Alpha.
+- **Year 1 (Sessions 2 to 5).** Plan $35.4M revenue, $28.2M net after the full $875K central team, leaving Session 5 at an $82M run rate. Capacity $49.2M / $39.9M. Floor $12.3M / $8.6M. Total one-time launch cost across the year is about $0.74M, all of it paid from the sessions before it. The $365,000 in this document is the only money that comes from Alpha.
 - **Session 1, Fall 2027.** National launch, about 40 campuses, 11,908 children on Timeback after school, $268M revenue, about $216M net at capacity.
 
 ### The downside
@@ -131,4 +133,4 @@ Weekly reporting by cohort and lane. Every session reviewed on revenue, site pro
 
 ## 8. The decision
 
-Approve four things by September 1: Nancy Wisniewski Torvund as Head of Alpha Hours at $400K, an Operations and Admin VP at $200K, the New York site team of two Lead Guides, a coordinator and up to 13 guides hired to sold seats, and a $365K launch that Session 2 returns three times over before December 18.
+Approve four things by September 1: Nancy Wisniewski Torvund as Head of Alpha Hours at $400K, an Operations and Admin VP at $200K, the New York site team of two Lead Guides, a coordinator and up to 13 guides hired to sold seats, and $365,000 that Session 2 returns as $1,123,000 by December 18, a 208 percent return.
