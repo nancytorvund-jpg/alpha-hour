@@ -14,7 +14,7 @@ I am asking Alpha to approve four things by September 1. Name me Head of Alpha H
 
 ## 2. Ask one: name me Head of Alpha Hours
 
-**The role.** Head of Alpha Hours, $400,000. Strategy, pricing, campus relationships, guide hiring and training, the rollout, and the full P&L. Full time from September 1.
+**The role.** Head of Alpha Hours, $400,000. Strategy, pricing, campus relationships, guide hiring and training, the rollout, and the full P&L. Full time, starting now: sales open the week of September 7, and the New York filing, the Lead Guide hires, and the training cohort all sit between today and October 19.
 
 **What I am held to.** Reviewed every session on three numbers: plan fill (60 percent of seats in a campus's first session, 75 in its second, 90 in its third, full from its fourth), site profit, and session-over-session re-enrollment at or above 70 percent. Full-time Alpha enrollments are reported as the upside line, not the test. The plan is $35.4M of revenue and $28.2M net in Year 1, and I own that number.
 
@@ -118,7 +118,8 @@ Weekly reporting by cohort and lane. Every session reviewed on revenue, site pro
 
 ## 7. Dates
 
-- **September 1.** Decision. Head and VP start. New York exemption filing goes in.
+- **Today, August 28.** Head full time on Alpha Hours.
+- **September 1.** Decision. VP starts. New York exemption filing goes in.
 - **Week of September 7.** Sales open to the whole city: the Hamptons families, the HubSpot list, the Financial District parent networks.
 - **September 21.** Lead Guides and Coordinator in seat. Guide hiring against sold seats through October 2.
 - **October 5.** Cohort floor decision. Training cohort begins.
